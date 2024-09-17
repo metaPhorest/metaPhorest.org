@@ -1,0 +1,18 @@
+/* .vitepress/theme/custom.css */
+
+:root {
+  --vp-c-brand-1: #2B663C;  /* name */
+  --vp-c-brand-2: #B43230;  /* brand botton hover */
+  --vp-c-brand-3: #2B663C;  /* brand button background */
+}
+
+.dark {
+  --vp-c-brand-1: #ff0;  /* name */
+  --vp-c-brand-2: #444;  /* brand botton hover */
+  --vp-c-brand-3: #333;  /* brand button background */
+  
+}
+
+/*
+metaPhorest Green:  #2B663C
+*/
