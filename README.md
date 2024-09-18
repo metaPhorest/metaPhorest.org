@@ -45,13 +45,17 @@ Your vitepress version (`v.1.3.4`) and port number (`5678`) might be different.
 - Push the website to Github, this will update metaPhorest.org.
 
 
-### Image
+### Images
 
-Images need to be in the `/public/images/` folder. Your can refer to an image in Markdown like this:
-```
-![](/images/metaphorest-logo.png)
-```
-_You don't need to add the /public/ part of the path_
+See `test` for how to handle images.
 
-- Images should be compressed and scaled for the web. 
-- You can make your own subfolder under /images/
+
+# Notes
+
+- `cleanURLs` are not working when deployed on Apache, use `/test/index.html` instead of `test.html`
+
+# To Do
+
+
+- [ ] Make Component for Seminars. 
+
