@@ -12,7 +12,7 @@ Site is made with [VitePress](https://vitepress.dev)
 - Make changes
 - Commit to repository
 
-![](/images/example-edit.jpg)
+![](/public/images/example-edit.jpg)
 
 
 ## Local Development
