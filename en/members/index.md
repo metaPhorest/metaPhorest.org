@@ -11,4 +11,3 @@ ToDo:
 - Name & Links of Members, link to sub-site of members
 - Members can share their projects under `/members/name/`
 
-Test
