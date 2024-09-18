@@ -10,7 +10,8 @@ Site is made with [VitePress](https://vitepress.dev)
 
 1. Clone this repo
 2. Make sure you have [Node.js](https://nodejs.org/) v18 (or newer) installed
-3. Go to the reop, snstall dependences with `npm install`
+3. Go to the repo, install dependences with `npm install`
+4. Make sure vite is also installed `npm add -D vitepress`
 
 ### Local Dev Server
 
