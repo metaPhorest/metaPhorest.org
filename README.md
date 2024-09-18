@@ -5,12 +5,15 @@ Website &amp; Documentation of metaPhorest.org
 Site is made with [VitePress](https://vitepress.dev)
 
 
-## Editing directly on GitHub
+## Edit content directly on GitHub
 
 - Login in to github.com
 - Go to https://github.com/metaPhorest/metaPhorest.org
 - Make changes
 - Commit to repository
+
+![](/images/example-edit.jpg)
+
 
 ## Local Development
 

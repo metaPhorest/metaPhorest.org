@@ -52,14 +52,14 @@ In the above block `let a = 1` defines variable `a`
 ## Images
 ---
 
-### Images from `/public/`
+### Absolute Images from `/public/`
 
 `![](/images/metaphorest-logo.png)`
 ![](/images/metaphorest-logo.png)
 
 ---
 
-### Images from current directory
+### Relative Images
 
 `![](no-cripsr-tomato.jpg)`
 ![](no-cripsr-tomato.jpg)
