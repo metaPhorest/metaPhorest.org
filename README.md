@@ -4,7 +4,15 @@ Website &amp; Documentation of metaPhorest.org
 
 Site is made with [VitePress](https://vitepress.dev)
 
-### Local Development
+
+## Editing directly on GitHub
+
+- Login in to github.com
+- Go to https://github.com/metaPhorest/metaPhorest.org
+- Make changes
+- Commit to repository
+
+## Local Development
 
 #### Setup
 
@@ -13,7 +21,7 @@ Site is made with [VitePress](https://vitepress.dev)
 3. Go to the repo, install dependences with `npm install`
 4. Make sure vite is also installed `npm add -D vitepress`
 
-### Local Dev Server
+#### Local Server
 
 - Start a local development server with `npm run docs:dev`.
 
@@ -30,20 +38,10 @@ Your vitepress version (`v.1.3.4`) and port number (`5678`) might be different.
 - Open the localhost in your webbrowser. This will give you your local development verson website.
 
 
-### Build Distribution
+#### Add/Change Content
 
 - Add/change any content
-
-- If you want to update the website, please `build` the site by running: `npm run docs:build` locally
-
-```
- vitepress v1.3.4
-
-✓ building client + server bundles...
-✓ rendering pages...
-build complete in 3.62s.
-```
-
+- Commit the changes
 - Push the website to Github, this will update metaPhorest.org.
 
 
