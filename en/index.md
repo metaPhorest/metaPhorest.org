@@ -26,4 +26,6 @@ features:
 
 ---
 
-## Upcoming News
+## Work-in-Progress
+
+This site is currently being rebuild and updated. Please visit the [metaPhorest FaceBook Page](http://facebook.com/metaphorest.net/) for the lasted information on seminars and events.

@@ -19,12 +19,13 @@ hero:
 
 features:
   - icon: 🛠️
-    title: metaPhorest Seminars
-    details: "Please find the latest information about metaPhorest Seminars on Facebook"
+    title: metaPhorestセミナー
+    details: "metaPhorestセミナーの最新情報はFacebookでご覧ください。"
     link: https://www.facebook.com/metaphorest.net
     linkText: "More..."
 
 ---
 
+## Work-in-Progress
 
-
+このサイトは現在再構築・更新中です。最新のセミナー・イベント情報は[metaPhorest FaceBook Page](http://facebook.com/metaphorest.net/)をご覧ください。
