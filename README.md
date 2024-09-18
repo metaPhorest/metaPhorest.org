@@ -8,7 +8,7 @@ Site is made with [VitePress](https://vitepress.dev)
 ## Edit content directly on GitHub
 
 - Login in to github.com
-- Go to https://github.com/metaPhorest/metaPhorest.org
+- Go to https://github.com/metaPhorest/metaPhorest.org OR click the `edit` link on the page you want to edit.
 - Make changes
 - Commit to repository
 
