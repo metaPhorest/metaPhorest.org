@@ -3,6 +3,11 @@ layout: doc
 outline: deep
 ---
 
+<script setup>
+import image1 from './example-edit.jpg?w=200';
+</script>
+
+  
 # Text
 
 # H1
@@ -49,7 +54,7 @@ c = a + b
 
 In the above block `let a = 1` defines variable `a`
 
-## Images
+# Images
 ---
 
 ### Absolute Images from `/public/`
@@ -63,3 +68,29 @@ In the above block `let a = 1` defines variable `a`
 
 `![](no-cripsr-tomato.jpg)`
 ![](no-cripsr-tomato.jpg)
+
+### Figure Component
+
+Image can be transformed (scaled) during compile-time, they will not show up in dev, only on compiled site:
+
+`<Figure :src="image1.src" alt="Image Alt" caption="Image Caption" />`
+
+`image1` needs to be imported with JS:
+```javascript
+<script setup>
+import image1 from './example-edit.jpg?w=200';
+</script>
+```
+`w=100` means: scale to 200px width
+<Figure :src="image1.src" alt="Image Alt" caption="Image Caption" />
+
+The Figure Component is most useful, where different sizes of the same image is needed.
+
+
+# Event Component
+
+<Event 
+  title="999th metaPhorest Seminar"
+  presenter="Name Name"
+  href="/event-1"
+/>
