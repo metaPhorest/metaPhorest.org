@@ -1,7 +1,6 @@
 .DS_Store
 node_modules/
 /.vitepress/cache
-package-lock.json
 dist/*
 dist/
 dist
