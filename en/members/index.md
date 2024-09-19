@@ -9,7 +9,7 @@ const members = [
   {
     name: 'Hideo Iwasaki',
     title: 'metaPhorest Director',
-    desc: '<a href="https://hideo-iwasaki.com">https://hideo-iwasaki.com</a><br /><br /><a href="hideo-iwasaki">More...</a>',
+    desc: '<a href="hideo-iwasaki">More...</a>',
     avatar: 'https://www.metaphorest.org/images/hideo-iwasaki.jpg',
     links: [
       { icon: 'facebook', link: 'https://www.facebook.com/iwasaki.hideo.5' },
@@ -17,8 +17,8 @@ const members = [
   },
   {
     name: 'Georg Tremmel',
-    title: 'Artist-in-Residene',
-    desc: '<a href="https://www.bcl.io">BCL</a>, <a href="https://bioclub.tokyo">BioClub Tokyo</a>, <a href="https://fabacademy.org/2021/labs/kamakura/students/georg-tremmel/">FA 2021</a>, metaPhorest, Angewandte<br /><br /><a href="georg-tremmel">More...</a>',
+    title: 'Artist-in-Residence',
+    desc: '<a href="georg-tremmel">More...</a>',
     avatar: 'https://www.github.com/trembl.png',
     links: [
       { icon: 'github', link: 'https://github.com/trembl' },
@@ -27,6 +27,18 @@ const members = [
       { icon: 'facebook', link: 'https://fb.me/trembl' },
     ],
   },
+  {
+    name: 'Tomoki Matsumura',
+    title: 'Artist-in-Residence',
+    desc: '<a href="tomoki-matsumura">More...</a>',
+    avatar: 'https://www.github.com/tomoki11.png',
+    links: [
+      { icon: 'github', link: 'https://github.com/tomoki11' },
+      { icon: 'x', link: 'https://x.com/tomokimatsumura' },
+      { icon: 'instagram', link: 'https://www.instagram.com/tomoki__matsumura/' },
+      { icon: 'facebook', link: 'https://www.facebook.com/tomoki.matsumura11/' },
+    ],
+  }, 
 ]
 </script>
 
