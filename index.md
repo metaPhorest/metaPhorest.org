@@ -26,6 +26,15 @@ features:
 
 ---
 
+## 今後のトーク
+
+::: info 95th metaPhorest Seminar
+2024年9月23日（月・祝）16:30-18:30 @Waseda TWIns<br />
+<a href="/seminars/095">
+<strong>Dr. Ionat Zurr - “Ectogenic Desires – from cultures to labour”</strong>
+</a>
+:::
+
 ## Work-in-Progress
 
 このサイトは現在再構築・更新中です。最新のセミナー・イベント情報は[metaPhorest FaceBook Page](http://facebook.com/metaphorest.net/)をご覧ください。
