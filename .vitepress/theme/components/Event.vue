@@ -11,7 +11,7 @@
 <script setup lang="ts">
 const props = defineProps<{
     title: string,
-    presenter: string,
+    presenter?: string,
     href: string,
 }>();
 </script>

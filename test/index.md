@@ -4,7 +4,10 @@ outline: deep
 ---
 
 <script setup>
-import image1 from './example-edit.jpg?w=200';
+import image1_url from './example-edit.jpg?w=200';
+import image2_url from './example-edit.jpg?w=400';
+import image3_url from './example-edit.jpg?w=100';
+
 </script>
 
   
@@ -73,18 +76,23 @@ In the above block `let a = 1` defines variable `a`
 
 Image can be transformed (scaled) during compile-time, they will not show up in dev, only on compiled site:
 
-`<Figure :src="image1.src" alt="Image Alt" caption="Image Caption" />`
+`<Figure :src="image1_url" width="200" alt="Image Alt" caption="Image Caption" />`
 
 `image1` needs to be imported with JS:
 ```javascript
 <script setup>
-import image1 from './example-edit.jpg?w=200';
+import image1_url from './example-edit.jpg?w=200';
 </script>
 ```
-`w=100` means: scale to 200px width
-<Figure :src="image1.src" alt="Image Alt" caption="Image Caption" />
+`w=200` means: scale to 200px width
+<Figure :src="image1_url" width="200" alt="Image Alt" caption="Image, 200px" />
 
 The Figure Component is most useful, where different sizes of the same image is needed.
+
+<Figure :src="image2_url" width="400" alt="Image Alt" caption="Image, 400px" />
+<Figure :src="image3_url" width="100" alt="Image Alt" caption="Image, 100px" />
+
+<Figure :src="image2_url" width="100%" alt="Image Alt" caption="Image, 100px, 100%" />
 
 
 # Event Component
