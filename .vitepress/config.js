@@ -11,6 +11,7 @@ export default defineConfig ({
   ignoreDeadLinks: true,                // no build error when dead links
   srcExclude: ['**/README.md'],         // exclude files
   themeConfig: {
+    externalLinkIcon: true,
     logo: { /* small logo navbar */
       light: '/images/metaphorest-logo-small.png',
       dark: '/images/metaphorest-logo-small.png',
