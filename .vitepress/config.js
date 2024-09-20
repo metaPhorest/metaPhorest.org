@@ -22,7 +22,12 @@ export default defineConfig ({
       { icon: 'facebook', link: 'https://www.facebook.com/metaphorest.net' },
       { icon: 'instagram', link: 'https://www.instagram.com/metaphorest_bioaesthetics/' },
       { icon: 'github', link: 'https://github.com/metaPhorest/metaPhorest.org/' },
-    ]
+    ],
+    /*
+    search: {
+      provider: 'local'
+    }
+    */
   },
   locales: {
     root: {
