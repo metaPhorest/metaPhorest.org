@@ -1,13 +1,15 @@
 ---
 layout: doc
 outline: deep
+prev:
+  text: 'Seminars'
+  link: '/en/seminars/'
 ---
 
 <script setup>
 import image1_url from './example-edit.jpg?w=200';
 import image2_url from './example-edit.jpg?w=400';
 import image3_url from './example-edit.jpg?w=100';
-
 </script>
 
   
