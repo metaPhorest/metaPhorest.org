@@ -5,7 +5,7 @@ outline: deep
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
 
-const members = [
+const director = [
   {
     name: 'Hideo Iwasaki',
     title: 'metaPhorest Director',
@@ -13,6 +13,32 @@ const members = [
     avatar: '/images/hideo-iwasaki.jpg',
     links: [
       { icon: 'facebook', link: 'https://www.facebook.com/iwasaki.hideo.5' },
+    ],
+  }
+]
+const members = [
+  {
+    name: 'Tomoki Matsumura',
+    title: 'Artist-in-Residence',
+    desc: '<a href="tomoki-matsumura">More...</a>',
+    avatar: 'https://www.github.com/tomoki11.png',
+    links: [
+      { icon: 'github', link: 'https://github.com/tomoki11' },
+      { icon: 'x', link: 'https://x.com/tomokimatsumura' },
+      { icon: 'instagram', link: 'https://www.instagram.com/tomoki__matsumura/' },
+      { icon: 'facebook', link: 'https://www.facebook.com/tomoki.matsumura11/' },
+    ],
+  },
+  {
+    name: 'Henry Tan',
+    title: 'Artist-in-Residence',
+    desc: '<a href="henry-tan">More...</a>',
+    avatar: 'https://www.github.com/henryandpartners.png',
+    links: [
+      { icon: 'github', link: 'https://github.com/henryandpartners' },
+      { icon: 'x', link: 'https://www.twitter.com/cyberotic555' },
+      { icon: 'instagram', link: 'https://www.instagram.com/cyberotic' },
+      { icon: 'facebook', link: 'https://www.facebook.com/henryandpartners' },
     ],
   },
   {
@@ -27,28 +53,16 @@ const members = [
       { icon: 'facebook', link: 'https://fb.me/trembl' },
     ],
   },
-  {
-    name: 'Tomoki Matsumura',
-    title: 'Artist-in-Residence',
-    desc: '<a href="tomoki-matsumura">More...</a>',
-    avatar: 'https://www.github.com/tomoki11.png',
-    links: [
-      { icon: 'github', link: 'https://github.com/tomoki11' },
-      { icon: 'x', link: 'https://x.com/tomokimatsumura' },
-      { icon: 'instagram', link: 'https://www.instagram.com/tomoki__matsumura/' },
-      { icon: 'facebook', link: 'https://www.facebook.com/tomoki.matsumura11/' },
-    ],
-  }, 
 ]
 </script>
 
+# Director
+
+<VPTeamMembers size="small" :members="director" />
+
+<br />
+
 # Members
-
-ToDo:
-
-- Overview Graphics of Members and when they join
-- Name & Links of Members, link to sub-site of members
-- Members can share their projects under `/members/name/`
 
 <VPTeamMembers size="small" :members="members" />
 
