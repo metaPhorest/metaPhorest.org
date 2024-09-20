@@ -10,7 +10,7 @@ const members = [
     name: 'Hideo Iwasaki',
     title: 'metaPhorest Director',
     desc: '<a href="hideo-iwasaki">More...</a>',
-    avatar: 'https://www.metaphorest.org/images/hideo-iwasaki.jpg',
+    avatar: '/images/hideo-iwasaki.jpg',
     links: [
       { icon: 'facebook', link: 'https://www.facebook.com/iwasaki.hideo.5' },
     ],
