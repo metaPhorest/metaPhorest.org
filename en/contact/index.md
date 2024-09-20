@@ -5,4 +5,4 @@ outline: deep
 
 # Contact
 
-Please get in touch by using [this Google Form]().
+Please get in touch via social media.
