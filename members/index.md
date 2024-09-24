@@ -8,9 +8,9 @@ import { VPTeamMembers } from 'vitepress/theme'
 const director = [
   {
     name: 'Hideo Iwasaki',
-    title: 'metaPhorest Director',
-    desc: '<a href="hideo-iwasaki">More...</a>',
-    avatar: '/images/hideo-iwasaki.jpg',
+    title: '主宰',
+    desc: '<a href="hideo-iwasaki">もっと...</a>',
+    avatar: '/images/portraits/hideo-iwasaki.jpg',
     links: [
       { icon: 'facebook', link: 'https://www.facebook.com/iwasaki.hideo.5' },
     ],
@@ -18,9 +18,9 @@ const director = [
 ]
 const members = [
   {
-    name: 'Tomoki Matsumura',
-    title: 'Artist-in-Residence',
-    desc: '<a href="tomoki-matsumura">More...</a>',
+    name: '松村寛季',
+    title: 'メンバー',
+    desc: '<a href="tomoki-matsumura">もっと...</a>',
     avatar: 'https://www.github.com/tomoki11.png',
     links: [
       { icon: 'github', link: 'https://github.com/tomoki11' },
@@ -31,8 +31,8 @@ const members = [
   },
   {
     name: 'Henry Tan',
-    title: 'Artist-in-Residence',
-    desc: '<a href="henry-tan">More...</a>',
+    title: 'アーティスト・イン・レジデンス',
+    desc: '<a href="henry-tan">もっと...</a>',
     avatar: 'https://www.github.com/henryandpartners.png',
     links: [
       { icon: 'github', link: 'https://github.com/henryandpartners' },
@@ -42,9 +42,9 @@ const members = [
     ],
   },
   {
-    name: 'Georg Tremmel',
-    title: 'Artist-in-Residence',
-    desc: '<a href="georg-tremmel">More...</a>',
+    name: 'BCL / ゲオアグ　トレメル',
+    title: 'アーティスト・イン・レジデンス & 客員研究員',
+    desc: '<a href="georg-tremmel">もっと...</a>',
     avatar: 'https://www.github.com/trembl.png',
     links: [
       { icon: 'github', link: 'https://github.com/trembl' },
@@ -60,9 +60,49 @@ const members = [
 
 <VPTeamMembers size="small" :members="director" />
 
-<br />
+<br /><br />
 
 # メンバー
 
+_アルファベット順:_
+
 <VPTeamMembers size="small" :members="members" />
+
+<br />
+
+- [秋建太郎](kentaro-aki)
+- Shiho Fukuhara
+- [Aki Inomata](aki-inomata)
+- [石橋友也](tomoya-ishibashi)
+- [Anais-karenin](anais-karenin)
+- Moeka Katagiri
+- [切江志龍](shiryu-kirie)
+- [藤岡慧](toshio-fujioka)
+- [飯沢未央](hanna-saito)
+- [杉浦真也](shinya-sugiura)
+- [植村和俊](kazutoshi-uemura)
+- Natsuki Yoneyama
+
+<br /><br />
+
+# 前メンバー
+
+- Juan M. Castro
+- Erica Kaminishi
+- Shino Hirata
+- Toshiyuki Horie
+- Emiko Inoue
+- Tomoaki Ishikawa
+- Chiaki Ishizuka
+- Takuto Kashiwagi
+- Koyko Nakamura
+- Fu Tsurumaki
+- Shigeki Uchiyama
+- Goh Uozumi
+
+
+
+
+
+
 

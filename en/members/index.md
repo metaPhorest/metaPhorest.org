@@ -8,9 +8,9 @@ import { VPTeamMembers } from 'vitepress/theme'
 const director = [
   {
     name: 'Hideo Iwasaki',
-    title: 'metaPhorest Director',
+    title: 'Director & Founder',
     desc: '<a href="hideo-iwasaki">More...</a>',
-    avatar: '/images/hideo-iwasaki.jpg',
+    avatar: '/images/portraits/hideo-iwasaki.jpg',
     links: [
       { icon: 'facebook', link: 'https://www.facebook.com/iwasaki.hideo.5' },
     ],
@@ -60,9 +60,44 @@ const members = [
 
 <VPTeamMembers size="small" :members="director" />
 
-<br />
+<br /><br />
 
 # Members
 
+_In alphabetical order:_
+
 <VPTeamMembers size="small" :members="members" />
+
+<br />
+
+- Kentaro Aki
+- Shiho Fukuhara
+- Aki Inomata
+- [Tomoya Ishibashi](tomoya-ishibashi)
+- [Anais-karenin](anais-karenin)
+- Moeka Katagiri
+- [Shiryu Kirie](shiryu-kirie)
+- Toshi Fujioka
+- Hanno Saito
+- [Shinya Sugiura](shinya-sugiura)
+- [Kazutoshi Uemura](kazutoshi-uemura)
+- Natsuki Yoneyama
+
+<br /><br />
+
+# Former Members
+
+- Juan M. Castro
+- Erica Kaminishi
+- Shino Hirata
+- Toshiyuki Horie
+- Emiko Inoue
+- Tomoaki Ishikawa
+- Chiaki Ishizuka
+- Takuto Kashiwagi
+- Koyko Nakamura
+- Fu Tsurumaki
+- Shigeki Uchiyama
+- Goh Uozumi
+
 
