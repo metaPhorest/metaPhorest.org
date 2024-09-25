@@ -1,3 +1,4 @@
+import { fileURLToPath, URL } from 'node:url'
 import { defineConfig } from 'vitepress'
 import { imagetools } from 'vite-imagetools'
 
@@ -6,7 +7,23 @@ export default defineConfig ({
   title: 'metaPhorest',
   base: '/',
   cleanUrls: true,
-  vite: { plugins: [ imagetools() ] },  // vite plugins
+  vite: { 
+    plugins: [                          // vite plugins
+      imagetools()
+    ],
+    /*
+    resolve: {
+      alias: [
+        {
+          find: /^.*\/VPTeamMembersItem\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./components/VPTeamMembersItem.vue', import.meta.url)
+          )
+        }
+      ]
+    }
+    */
+  }, 
   outDir: './dist',                     // distribtion folder
   ignoreDeadLinks: true,                // no build error when dead links
   srcExclude: ['**/README.md'],         // exclude files
