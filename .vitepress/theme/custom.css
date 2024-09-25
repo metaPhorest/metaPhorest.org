@@ -7,12 +7,13 @@
 }
 
 .dark {
-  --vp-c-brand-1: #ff0;  /* name */
-  --vp-c-brand-2: #444;  /* brand botton hover */
-  --vp-c-brand-3: #333;  /* brand button background */
+  --vp-c-brand-1: #FF97C8;  /* name */
+  --vp-c-brand-2: #CC6798;  /* brand botton hover */
+  --vp-c-brand-3: #FF97C8;  /* brand button background */
   
 }
 
 /*
 metaPhorest Green:  #2B663C
+metaPhorest Dark (Pink):  #FF97C8
 */

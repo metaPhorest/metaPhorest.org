@@ -7,7 +7,7 @@ hero:
   tagline: 
   image:
     light: '/images/metaphorest-logo.png'
-    dark: '/images/metaphorest-logo.png'
+    dark: '/images/metaphorest-logo-dark.png'
     alt: "metaPhorest"
   actions:
     - theme: brand

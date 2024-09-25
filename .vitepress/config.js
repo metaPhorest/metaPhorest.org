@@ -13,8 +13,8 @@ export default defineConfig ({
   themeConfig: {
     externalLinkIcon: true,
     logo: { /* small logo navbar */
-      light: '/images/metaphorest-logo-small.png',
-      dark: '/images/metaphorest-logo-small.png',
+      light: '/images/metaphorest-logo.png',
+      dark: '/images/metaphorest-logo-dark.png',
       alt: "metaPhorest"
     },
     lastUpdated: true,
