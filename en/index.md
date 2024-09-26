@@ -17,23 +17,8 @@ hero:
       text: Members
       link: /en/members/
 
-features:
-  - icon: 🛠️
-    title: metaPhorest Seminars
-    details: "Please find the latest information about metaPhorest Seminars on Facebook"
-    link: https://www.facebook.com/metaphorest.net
-    linkText: "More..."
 
 ---
-
-## Upcoming Talks
-
-::: info 95th metaPhorest Seminar
-September 23, 2024 (Monday) 16:30-18:30 @Waseda TWIns<br />
-<a href="/en/seminars/095">
-<strong>Dr. Ionat Zurr - “Ectogenic Desires – from cultures to labour”</strong>
-</a>
-:::
 
 ## metaPhorest FaceBook
 
