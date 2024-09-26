@@ -80,6 +80,7 @@ _アルファベット順:_
 - [藤岡慧](toshio-fujioka)
 - [飯沢未央](hanna-saito)
 - [杉浦真也](shinya-sugiura)
+- [塚本 隆大](takahiro-tsukamoto)
 - [植村和俊](kazutoshi-uemura)
 - Natsuki Yoneyama
 

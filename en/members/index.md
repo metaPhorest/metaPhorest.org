@@ -80,6 +80,7 @@ _In alphabetical order:_
 - Toshi Fujioka
 - Hanno Saito
 - [Shinya Sugiura](shinya-sugiura)
+- [Takahiro Tsukamoto](takahiro-tsukamoto)
 - [Kazutoshi Uemura](kazutoshi-uemura)
 - Natsuki Yoneyama
 
