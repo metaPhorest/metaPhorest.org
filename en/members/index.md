@@ -70,7 +70,7 @@ _In alphabetical order:_
 
 <br />
 
-- Kentaro Aki
+- [Kentaro Aki](kentaro-aki)
 - Shiho Fukuhara
 - Aki Inomata
 - [Tomoya Ishibashi](tomoya-ishibashi)
