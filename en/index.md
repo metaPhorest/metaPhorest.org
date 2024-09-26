@@ -35,6 +35,8 @@ September 23, 2024 (Monday) 16:30-18:30 @Waseda TWIns<br />
 </a>
 :::
 
-## Work-in-Progress
+## metaPhorest FaceBook
 
-This site is currently being rebuild and updated. Please visit the [metaPhorest FaceBook Page](http://facebook.com/metaphorest.net/) for the lasted information on seminars and events.
+Please visit the [metaPhorest FaceBook Page](http://facebook.com/metaphorest.net/) for the lasted information on seminars and events.
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fmetaphorest.net&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=107940335913847" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
