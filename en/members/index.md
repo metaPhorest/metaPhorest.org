@@ -18,6 +18,33 @@ const director = [
 ]
 const members = [
   {
+    name: 'Tomoya Ishibashi',
+    title: 'Member',
+    desc: '<a href="tomoya-ishibashi">More...</a>',
+    avatar: '/images/portraits/tomoya-ishibashi.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/tomoya.ishibashi.35' },
+    ],
+  },
+  {
+    name: 'Mio Izawa',
+    title: 'Member',
+    desc: '<a href="mio-izawa">More...</a>',
+    avatar: '/images/portraits/mio-izawa.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/iimio/' },
+    ],
+  },
+  {
+    name: 'Anais-karenin',
+    title: 'Member',
+    desc: '<a href="anais-karenin">More...</a>',
+    avatar: '/images/portraits/anais-karenin.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/anaiskarenin/' },
+    ],
+  },
+  {
     name: 'Tomoki Matsumura',
     title: 'Artist-in-Residence',
     desc: '<a href="tomoki-matsumura">More...</a>',
@@ -30,10 +57,28 @@ const members = [
     ],
   },
   {
+    name: 'Hanna Saito',
+    title: 'Member',
+    desc: '<a href="hanna-saito">More...</a>',
+    avatar: '/images/portraits/hanna-saito.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/hanna.saito.7' },
+    ],
+  },
+  {
+    name: 'Shinya Sugiura',
+    title: 'Member',
+    desc: '<a href="shinya-sugiura">More...</a>',
+    avatar: '/images/portraits/shinya-sugiura.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/profile.php?id=100064496170194' },
+    ],
+  },
+  {
     name: 'Henry Tan',
     title: 'Artist-in-Residence',
     desc: '<a href="henry-tan">More...</a>',
-    avatar: 'https://www.github.com/henryandpartners.png',
+    avatar: '/images/portraits/henry-tan.jpg',
     links: [
       { icon: 'github', link: 'https://github.com/henryandpartners' },
       { icon: 'x', link: 'https://www.twitter.com/cyberotic555' },
@@ -43,7 +88,7 @@ const members = [
   },
   {
     name: 'Georg Tremmel',
-    title: 'Artist-in-Residence',
+    title: 'Artist-in-Residence & Visiting Researcher',
     desc: '<a href="georg-tremmel">More...</a>',
     avatar: 'https://www.github.com/trembl.png',
     links: [
@@ -51,6 +96,15 @@ const members = [
       { icon: 'x', link: 'https://x.com/trembl' },
       { icon: 'instagram', link: 'https://instagram.com/georg.tremmel' },
       { icon: 'facebook', link: 'https://fb.me/trembl' },
+    ],
+  },
+  {
+    name: 'Takahiro Tsukamoto',
+    title: 'Member',
+    desc: '<a href="takahiro-tsukamoto">More...</a>',
+    avatar: '/images/portraits/takahiro-tsukamoto.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/profile.php?id=100016126535388' },
     ],
   },
 ]
@@ -72,15 +126,10 @@ _In alphabetical order:_
 
 - [Kentaro Aki](kentaro-aki)
 - Shiho Fukuhara
-- Aki Inomata
-- [Tomoya Ishibashi](tomoya-ishibashi)
-- [Anais-karenin](anais-karenin)
+- [Aki Inomata](aki-inomata)
 - Moeka Katagiri
 - [Shiryu Kirie](shiryu-kirie)
-- Toshi Fujioka
-- Hanno Saito
-- [Shinya Sugiura](shinya-sugiura)
-- [Takahiro Tsukamoto](takahiro-tsukamoto)
+- [Toshi Fujioka](toshio-fujioka)
 - [Kazutoshi Uemura](kazutoshi-uemura)
 - Natsuki Yoneyama
 

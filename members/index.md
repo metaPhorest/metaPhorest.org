@@ -18,6 +18,33 @@ const director = [
 ]
 const members = [
   {
+    name: '石橋友也',
+    title: 'メンバー',
+    desc: '<a href="tomoya-ishibashi">もっと...</a>',
+    avatar: '/images/portraits/tomoya-ishibashi.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/tomoya.ishibashi.35' },
+    ],
+  },
+  {
+    name: '飯沢未央',
+    title: 'メンバー',
+    desc: '<a href="mio-izawa">もっと...</a>',
+    avatar: '/images/portraits/mio-izawa.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/iimio/' },
+    ],
+  },
+  {
+    name: 'Anais-karenin',
+    title: 'メンバー',
+    desc: '<a href="anais-karenin">もっと...</a>',
+    avatar: '/images/portraits/anais-karenin.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/anaiskarenin/' },
+    ],
+  },
+  {
     name: '松村寛季',
     title: 'メンバー',
     desc: '<a href="tomoki-matsumura">もっと...</a>',
@@ -30,10 +57,28 @@ const members = [
     ],
   },
   {
+    name: '齋藤帆奈',
+    title: 'メンバー',
+    desc: '<a href="hanna-saito">もっと...</a>',
+    avatar: '/images/portraits/hanna-saito.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/hanna.saito.7' },
+    ],
+  },
+  {
+    name: '杉浦真也',
+    title: 'メンバー',
+    desc: '<a href="shinya-sugiura">もっと...</a>',
+    avatar: '/images/portraits/shinya-sugiura.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/profile.php?id=100064496170194' },
+    ],
+  },
+  {
     name: 'Henry Tan',
     title: 'アーティスト・イン・レジデンス',
     desc: '<a href="henry-tan">もっと...</a>',
-    avatar: 'https://www.github.com/henryandpartners.png',
+    avatar: '/images/portraits/henry-tan.jpg',
     links: [
       { icon: 'github', link: 'https://github.com/henryandpartners' },
       { icon: 'x', link: 'https://www.twitter.com/cyberotic555' },
@@ -53,7 +98,17 @@ const members = [
       { icon: 'facebook', link: 'https://fb.me/trembl' },
     ],
   },
+  {
+    name: '塚本隆大',
+    title: 'メンバー',
+    desc: '<a href="takahiro-tsukamoto">もっと...</a>',
+    avatar: '/images/portraits/takahiro-tsukamoto.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/profile.php?id=100016126535388' },
+    ],
+  },
 ]
+
 </script>
 
 # 監督
@@ -70,17 +125,12 @@ _アルファベット順:_
 
 <br />
 
-- [秋建太郎](kentaro-aki)
+- [Kentaro Aki](kentaro-aki)
 - Shiho Fukuhara
 - [Aki Inomata](aki-inomata)
-- [石橋友也](tomoya-ishibashi)
-- [Anais-karenin](anais-karenin)
 - Moeka Katagiri
 - [切江志龍](shiryu-kirie)
 - [藤岡慧](toshio-fujioka)
-- [飯沢未央](hanna-saito)
-- [杉浦真也](shinya-sugiura)
-- [塚本 隆大](takahiro-tsukamoto)
 - [植村和俊](kazutoshi-uemura)
 - Natsuki Yoneyama
 

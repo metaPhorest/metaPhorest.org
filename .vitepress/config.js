@@ -39,6 +39,7 @@ export default defineConfig ({
       { icon: 'facebook', link: 'https://www.facebook.com/metaphorest.net' },
       { icon: 'instagram', link: 'https://www.instagram.com/metaphorest_bioaesthetics/' },
       { icon: 'github', link: 'https://github.com/metaPhorest/metaPhorest.org/' },
+      { icon: 'youtube', link: 'https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw' },
     ],
     /*
     search: {
