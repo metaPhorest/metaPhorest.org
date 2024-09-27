@@ -12,6 +12,7 @@ const director = [
     desc: '<a href="hideo-iwasaki">More...</a>',
     avatar: '/images/portraits/hideo-iwasaki.jpg',
     links: [
+      { icon: 'github', link: 'https://github.com/ken-wase' },
       { icon: 'facebook', link: 'https://www.facebook.com/iwasaki.hideo.5' },
     ],
   }
