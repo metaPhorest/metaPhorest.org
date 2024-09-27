@@ -18,6 +18,15 @@ const director = [
 ]
 const members = [
   {
+    name: '秋建太郎',
+    title: 'メンバー',
+    desc: '<a href="kentaro-aki">もっと...</a>',
+    avatar: '/images/portraits/kentaro-aki.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/aki.kentaro/' },
+    ],
+  },
+  {
     name: '石橋友也',
     title: 'メンバー',
     desc: '<a href="tomoya-ishibashi">もっと...</a>',
@@ -125,7 +134,6 @@ _アルファベット順:_
 
 <br />
 
-- [Kentaro Aki](kentaro-aki)
 - Shiho Fukuhara
 - [Aki Inomata](aki-inomata)
 - Moeka Katagiri

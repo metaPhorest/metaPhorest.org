@@ -18,6 +18,15 @@ const director = [
 ]
 const members = [
   {
+    name: 'Kentaro Aki',
+    title: 'Member',
+    desc: '<a href="kentaro-aki">More...</a>',
+    avatar: '/images/portraits/kentaro-aki.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/aki.kentaro/' },
+    ],
+  },
+  {
     name: 'Tomoya Ishibashi',
     title: 'Member',
     desc: '<a href="tomoya-ishibashi">More...</a>',
@@ -124,7 +133,6 @@ _In alphabetical order:_
 
 <br />
 
-- [Kentaro Aki](kentaro-aki)
 - Shiho Fukuhara
 - [Aki Inomata](aki-inomata)
 - Moeka Katagiri
