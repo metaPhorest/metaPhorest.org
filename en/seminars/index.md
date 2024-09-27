@@ -6,7 +6,9 @@ outline: deep
 
 # Seminars
 
-## Upcoming
+[metaPhorest YouTube Archive](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
+
+#### 2024
 
 <Event
   title = "95th metaPhorest Seminar"
@@ -18,8 +20,6 @@ outline: deep
 </Event>
 
 ## Archive
-
-#### 2024
 
 #### 2023
 

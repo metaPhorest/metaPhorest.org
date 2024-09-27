@@ -5,7 +5,9 @@ outline: deep
 
 # セミナー
 
-## 今後のトーク
+[metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
+
+## 2024
 
 ::: info 95th metaPhorest Seminar
 2024年9月23日（月・祝）16:30-18:30 @Waseda TWIns<br />
