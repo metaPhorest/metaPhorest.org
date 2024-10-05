@@ -154,7 +154,7 @@ _In alphabetical order:_
 - Tomoaki Ishikawa
 - Chiaki Ishizuka
 - Takuto Kashiwagi
-- Koyko Nakamura
+- Kyoko Nakamura
 - Fu Tsurumaki
 - Shigeki Uchiyama
 - Goh Uozumi
