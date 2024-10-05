@@ -154,14 +154,11 @@ _アルファベット順:_
 - Tomoaki Ishikawa
 - Chiaki Ishizuka
 - Takuto Kashiwagi
-- Koyko Nakamura
+- Kyoko Nakamura
 - Fu Tsurumaki
 - Shigeki Uchiyama
 - Goh Uozumi
 
+# メンバー年表
 
-
-
-
-
-
+[![](/images/members-timeline.png)](/images/members-timeline.png)

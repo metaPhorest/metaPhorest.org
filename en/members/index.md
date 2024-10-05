@@ -159,4 +159,6 @@ _In alphabetical order:_
 - Shigeki Uchiyama
 - Goh Uozumi
 
+# Timeline of Members
 
+[![](/images/members-timeline.png)](/images/members-timeline.png)
