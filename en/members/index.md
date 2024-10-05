@@ -56,13 +56,13 @@ const members = [
   },
   {
     name: 'Tomoki Matsumura',
-    title: 'Artist-in-Residence',
+    title: 'Member',
     desc: '<a href="tomoki-matsumura">More...</a>',
     avatar: 'https://www.github.com/tomoki11.png',
     links: [
       { icon: 'github', link: 'https://github.com/tomoki11' },
       { icon: 'x', link: 'https://x.com/tomokimatsumura' },
-      { icon: 'instagram', link: 'https://www.instagram.com/tomoki__matsumura/' },
+      { icon: 'instagram', link: 'https://www.instagram.com/tomokimatsumura/' },
       { icon: 'facebook', link: 'https://www.facebook.com/tomoki.matsumura11/' },
     ],
   },
