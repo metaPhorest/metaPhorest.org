@@ -18,7 +18,7 @@ Thursday, 11 October 2024, 19:00-20:40
 
 Seminar Room 3, 3F, Waseda University Research Institute for Advanced Biomedical Sciences (TWIns)
 
-## ① Hiroki Matsumura, ‘A new relationship between humans and Daphnia magna built through Daphnia swimming’.
+## ① Tomoki Matsumura, ‘A new relationship between humans and Daphnia magna built through Daphnia swimming’.
 The project ‘Imitating Daphnia by swimming’, which attempted to imitate Daphnia magna swimming with high-viscosity lotion, will be introduced. The new project ‘All-Japan Daphnia Swimming Championships’ will also be explained.
 
 ### [Tomoki Matsumura](/en/members/tomoki-matsumura/)
