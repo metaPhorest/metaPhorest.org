@@ -59,6 +59,7 @@ a.event:active {
 
 .event img {
   margin: 0.25em 0;
+  width: 100%;
 }
 
 
