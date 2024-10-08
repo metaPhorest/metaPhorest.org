@@ -4,7 +4,7 @@ layout: home
 hero:
   name: metaPhorest
   text: Bioaesthetics Platform
-  tagline: 
+  tagline:
   image:
     light: '/images/metaphorest-logo.png'
     dark: '/images/metaphorest-logo-dark.png'
@@ -19,6 +19,16 @@ hero:
 
 
 ---
+
+## Next Event
+
+<Event
+  header = "96th metaPhorest Seminar: Hiroki Matsumura & Kentaro Aki"
+  date = "October 11th, 2024 (Friday) 19:00 @Waseda TWIns"
+  link = "/en/seminars/096"
+  image = "/seminars/096/096_preview.jpg"
+/>
+
 
 ## metaPhorest FaceBook
 

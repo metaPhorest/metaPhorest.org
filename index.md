@@ -4,7 +4,7 @@ layout: home
 hero:
   name: metaPhorest
   text: Bioaesthetics Platform
-  tagline: 
+  tagline:
   image:
     light: '/images/metaphorest-logo.png'
     dark: '/images/metaphorest-logo-dark.png'
@@ -19,6 +19,14 @@ hero:
 
 ---
 
+## 次のイベント
+
+<Event
+  header = "96th metaPhorest セミナー: 松村寛季＋秋健太郎"
+  date = "2024年10月11日（金）19:00 @Waseda TWIns"
+  link = "/seminars/096"
+  image = "/seminars/096/096_preview.jpg"
+/>
 
 ## metaPhorest FaceBook
 
