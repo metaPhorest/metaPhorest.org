@@ -8,7 +8,9 @@ prev:
 
 # 96th metaPhorest Seminar
 
-![](/seminars/096/096.jpg)
+
+![](/public/seminars/096/096.jpg)
+
 
 This metaPhorest seminar will be a budding interim report by young members of metaPhorest. The presentations are basically in Japanese. Please feel free to come.
 

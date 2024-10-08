@@ -8,7 +8,7 @@ prev:
 
 # 96th metaPhorest セミナ
 
-![](096.jpg)
+![](/public/seminars/096/096.jpg)
 
 今回のmetaPhorestセミナーは、metaPhorestに在籍している若手による、萌芽的な中間報告になります。今回の発表は、基本的に日本語です。どうぞお気軽にお越しください。
 

@@ -64,7 +64,7 @@ prev:
   header = "96th metaPhorest Seminar: 松村寛季＋秋健太郎"
   date = "2024年10月11日（金）19:00 @Waseda TWIns"
   link = "/seminars/096"
-  image = "096/096_preview.jpg"
+  image = "/public/seminars/096/096_preview.jpg"
 />
 
 ## Archive

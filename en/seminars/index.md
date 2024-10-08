@@ -62,10 +62,8 @@ outline: deep
   header = "96th metaPhorest Seminar: Hiroki Matsumura & Kentaro Aki"
   date = "October 11th, 2024 (Friday) 19:00 @Waseda TWIns"
   link = "/en/seminars/096"
-  image = "/seminars/096/096_preview.jpg"
+  image = "/public/seminars/096/096_preview.jpg"
 />
-
-
 
 
 ## Archive
