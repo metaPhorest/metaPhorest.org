@@ -6,7 +6,7 @@ prev:
   link: '/seminars/'
 ---
 
-# 96th metaPhorest セミナ
+# 96th metaPhorest セミナー
 
 ![](/public/seminars/096/096.jpg)
 
