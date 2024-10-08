@@ -1,6 +1,9 @@
 ---
 layout: doc
 outline: deep
+prev:
+  text: 'セミナー'
+  link: '/seminars/'
 ---
 
 # セミナー
@@ -60,7 +63,13 @@ outline: deep
 <Event
   header = "96th metaPhorest Seminar: 松村寛季＋秋健太郎"
   date = "2024年10月11日（金）19:00 @Waseda TWIns"
+  link = "/seminars/096"
+  image = "096/096_preview.jpg"
 />
+
+## Archive
+
+#### 2024
 
 <Event
   header = "95th metaPhorest Seminar: Dr. Ionat Zurr"
@@ -69,11 +78,6 @@ outline: deep
   link = "/seminars/095"
   image = "/seminars/095/Ionat_Sept_2024_preview.jpg"
 />
-
-
-## Archive
-
-#### 2024
 
 #### 2023
 

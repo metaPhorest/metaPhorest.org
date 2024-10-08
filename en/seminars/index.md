@@ -61,7 +61,16 @@ outline: deep
 <Event
   header = "96th metaPhorest Seminar: Hiroki Matsumura & Kentaro Aki"
   date = "October 11th, 2024 (Friday) 19:00 @Waseda TWIns"
+  link = "/en/seminars/096"
+  image = "/seminars/096/096_preview.jpg"
 />
+
+
+
+
+## Archive
+
+#### 2024
 
 <Event
   header = "95th metaPhorest Seminar: Dr. Ionat Zurr"
@@ -70,20 +79,6 @@ outline: deep
   link = "/en/seminars/095"
   image = "/seminars/095/Ionat_Sept_2024_preview.jpg"
 />
-
-
-<!--
-<Event
-  title = "95th metaPhorest Seminar: Dr. Ionat Zurr"
-  date = "September 23, 2024 (Monday) 16:30-18:30 @Waseda TWIns"
-  link = "/en/seminars/095"
-  image = "/seminars/095/Ionat_Sept_2024_preview.jpg"
->
-  “Ectogenic Desires – from cultures to labour”
-</Event>
--->
-
-## Archive
 
 #### 2023
 
