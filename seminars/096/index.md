@@ -11,6 +11,8 @@ prev:
 ![](/public/seminars/096/096.jpg)
 
 今回のmetaPhorestセミナーは、metaPhorestに在籍している若手による、萌芽的な中間報告になります。今回の発表は、基本的に日本語です。どうぞお気軽にお越しください。
+Zoomも併用します。こちらのリンクからご参加ください：
+https://zoom.us/j/93571948104?pwd=Vmt4elhlTkNmQU9uVGdKOWI4STdNUT09
 
 2024年10月11日（木）19:00-20:40
 
