@@ -55,9 +55,10 @@ prev:
 />
 
 <Event
-  header = "97th metaPhorest Seminar: ゲオアグトレメル & 桜木真理子"
+  header = "97th metaPhorest Seminar: BCL/ゲオアグトレメル & 桜木真理子"
   date = "2024年10月18日（金）19:00 (オンライン)"
   link = "/seminars/097"
+  image = "/seminars/096/097_preview.jpg"
 />
 
 <Event

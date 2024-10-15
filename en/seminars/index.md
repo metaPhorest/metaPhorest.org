@@ -53,9 +53,10 @@ outline: deep
 />
 
 <Event
-  header = "97th metaPhorest Seminar: Georg Tremmel & Mariko Sakuragi"
+  header = "97th metaPhorest Seminar: BCL/Georg Tremmel & Mariko Sakuragi"
   date = "October 18th, 2024 (Friday) 19:00 (online)"
   link = "/en/seminars/097"
+  image = "/seminars/096/097_preview.jpg"
 />
 
 <Event
