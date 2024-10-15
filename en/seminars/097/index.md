@@ -13,7 +13,7 @@ Friday, October 19th, 2024, 19:00-20:40
 ![](/public/seminars/097/097.jpg)
 
 ::: tip ONLINE
-This seminar will be held online. [Zoom Link](tba)
+This seminar will be held online. [Zoom Link](https://zoom.metaphorest.org)
 :::
 
 ## Mariko Sakuragi: _Techniques for slowing down - Implications of DIY Bio for Science_

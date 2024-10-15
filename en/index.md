@@ -23,10 +23,10 @@ hero:
 ## Next Event
 
 <Event
-  header = "96th metaPhorest Seminar: Hiroki Matsumura & Kentaro Aki"
-  date = "October 11th, 2024 (Friday) 19:00 @Waseda TWIns"
-  link = "/en/seminars/096"
-  image = "/seminars/096/096_preview.jpg"
+  header = "97th metaPhorest Seminar: BCL/Georg Tremmel & Mariko Sakuragi"
+  date = "October 18th, 2024 (Friday) 19:00 (online)"
+  link = "/en/seminars/097"
+  image = "/seminars/097/097_preview_landscape.jpg"
 />
 
 

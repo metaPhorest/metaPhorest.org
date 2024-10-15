@@ -22,11 +22,12 @@ hero:
 ## 次のイベント
 
 <Event
-  header = "96th metaPhorest セミナー: 松村寛季＋秋健太郎"
-  date = "2024年10月11日（金）19:00 @Waseda TWIns"
-  link = "/seminars/096"
-  image = "/seminars/096/096_preview.jpg"
+  header = "97th metaPhorest Seminar: BCL/ゲオアグトレメル & 桜木真理子"
+  date = "2024年10月18日（金）19:00 (オンライン)"
+  link = "/seminars/097"
+  image = "/seminars/097/097_preview_landscape.jpg"
 />
+
 
 ## metaPhorest FaceBook
 

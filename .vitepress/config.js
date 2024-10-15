@@ -7,7 +7,7 @@ export default defineConfig ({
   title: 'metaPhorest',
   base: '/',
   cleanUrls: true,
-  vite: { 
+  vite: {
     plugins: [                          // vite plugins
       imagetools()
     ],
@@ -23,7 +23,7 @@ export default defineConfig ({
       ]
     }
     */
-  }, 
+  },
   outDir: './dist',                     // distribtion folder
   ignoreDeadLinks: true,                // no build error when dead links
   srcExclude: ['**/README.md'],         // exclude files
@@ -59,6 +59,7 @@ export default defineConfig ({
           { text:'メンバー', link:'/members/'},
           { text:'セミナー', link:'/seminars/'},
           { text:'コンタクト', link:'/contact/'},
+          { text:'ズーム', link:'https://zoom.metaphorest.org'}
         ],
         editLink: {
           pattern: 'https://github.com/metaPhorest/metaPhorest.org/edit/main/:path',
@@ -85,6 +86,7 @@ export default defineConfig ({
           { text:'Members', link:'/en/members/'},
           { text:'Seminars', link:'/en/seminars/'},
           { text:'Contact', link:'/en/contact/'},
+          { text:'Zoom', link:'https://zoom.metaphorest.org'}
         ],
         editLink: {
           pattern: 'https://github.com/metaPhorest/metaPhorest.org/edit/main/:path',

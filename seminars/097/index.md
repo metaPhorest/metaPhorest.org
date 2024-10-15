@@ -13,7 +13,7 @@ prev:
 ![](/public/seminars/097/097.jpg)
 
 ::: tip オンライン
-このセミナーはオンラインで行われる。 [Zoom リンク](tba)
+このセミナーはオンラインで行われる。 [Zoom リンク](https://zoom.metaphorest.org)
 :::
 
 ## 桜木真理子: _スローダウンのための技法ーDIYバイオが科学にもたらす示唆ー_
