@@ -25,6 +25,10 @@ Born in Toyama Prefecture, Japan, Mariko Sakuragi is a lecturer at the Sapporo M
 #### About the talk
 In this presentation, Prof. Sakuragi will introduce an overview history of the Anthropology of Science / Social Theory of Science and Technology (STS) and discuss the relationship between science and democracy based on examples of fieldwork she conducted on the DIY bio scene in the Tokyo metropolitan area.
 
+::: warning Japanese
+Mariko's talk will be in Japanese.
+:::
+
 ## [BCL / Georg Tremmel](/en/members/georg-tremmel/): _From Inter-actions to Intra-actions - Artistic Research into BioMedia_
 
 Georg studied Media Art at the University of Applied Arts in Vienna with Peter Weibel and Interaction Design at the Royal College of Art (RCA) in London with Anthony Dunne and Fiona Raby. Georg also has a background in Computer Science and worked at the Laboratory for DNA Information Analysis at University of Tokyo on the Information Visualization of Cancer Genomics. He formed the Artistic Research Frame BCL (Biological Computer Lab) as both a reference and continuation of Heinz von Foerster’s original BCL. Georg is long-term Artist-in-Residence & Visiting Researcher at metaPhorest/Hideo Iwasaki Lab at Waseda. He initiated the BioClub Tokyo, Japan’s nicest BioCommunity and Open Bio Lab, where he is leading the synbio education programmes like the BioHack Academy and [HTGAA](https://www.htgaa.org) (How to Grow Almost Anything).
@@ -33,3 +37,7 @@ Georg is also currently pursuing his PhD in Artistic Research at the University 
 #### About the talk
 
 Georg will give an introduction to Artistic Research in general and his work in particular.
+
+::: warning English
+Mariko's talk will be in English.
+:::
