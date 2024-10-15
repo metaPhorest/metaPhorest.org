@@ -39,5 +39,5 @@ Georg is also currently pursuing his PhD in Artistic Research at the University 
 Georg will give an introduction to Artistic Research in general and his work in particular.
 
 ::: warning English
-Mariko's talk will be in English.
+Georg's talk will be in English.
 :::
