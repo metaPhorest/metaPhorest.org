@@ -23,7 +23,7 @@ This seminar will be held online. [Zoom Link](https://zoom.metaphorest.org)
 Born in Toyama Prefecture, Japan, Mariko Sakuragi is a lecturer at the Sapporo Medical University Medical Human Resource Development Centre. She specialises in Cultural Anthropology and social theory of science, technology and society (STS). She has a broad interest in the impact of science and technology on human life, and in recent years has examined changes in contemporary citizen science through fieldwork on the DIY biotechnology movement in Japan.
 
 #### About the talk
-In this presentation, Prof. Sakuragi will introduce an overview history of the Anthropology of Science / Social Theory of Science and Technology (STS) and discuss the relationship between science and democracy based on examples of fieldwork she conducted on the DIY bio scene in the Tokyo metropolitan area.
+In this presentation, she will introduce an overview history of the Anthropology of Science / Social Theory of Science and Technology (STS) and discuss the relationship between science and democracy based on examples of fieldwork she conducted on the DIY bio scene in the Tokyo metropolitan area.
 
 ::: warning Japanese
 Mariko's talk will be in Japanese.
