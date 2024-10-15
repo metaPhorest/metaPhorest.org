@@ -58,8 +58,12 @@ prev:
   header = "97th metaPhorest Seminar: BCL/ゲオアグトレメル & 桜木真理子"
   date = "2024年10月18日（金）19:00 (オンライン)"
   link = "/seminars/097"
-  image = "/seminars/096/097_preview.jpg"
+  image = "/seminars/097/097_preview_landscape.jpg"
 />
+
+## Archive
+
+#### 2024
 
 <Event
   header = "96th metaPhorest Seminar: 松村寛季＋秋健太郎"
@@ -67,10 +71,6 @@ prev:
   link = "/seminars/096"
   image = "/seminars/096/096_preview.jpg"
 />
-
-## Archive
-
-#### 2024
 
 <Event
   header = "95th metaPhorest Seminar: Dr. Ionat Zurr"
