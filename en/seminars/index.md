@@ -48,9 +48,16 @@ outline: deep
 />
 
 <Event
-  header = "98th metaPhorest Seminar: Shiho Fukuhara & TBA"
-  date = "October 25th, 2024 (Friday) 19:00 @Waseda TWIns"
+  header = "98th metaPhorest Seminar: 'Weaving Memories with Ancient Intelligence' with Shiho Fukuhara & Awu Chen'"
+  date = "October 25th, 2024 (Friday) 19:00 @Waseda TWIns & online"
+  link = "/en/seminars/098"
+  image = "/seminars/098/098_preview.jpg"
 />
+
+
+## Archive
+
+#### 2024
 
 <Event
   header = "97th metaPhorest Seminar: BCL/Georg Tremmel & Mariko Sakuragi"
@@ -58,11 +65,6 @@ outline: deep
   link = "/en/seminars/097"
   image = "/seminars/097/097_preview_landscape.jpg"
 />
-
-
-## Archive
-
-#### 2024
 
 <Event
   header = "96th metaPhorest Seminar: Hiroki Matsumura & Kentaro Aki"

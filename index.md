@@ -22,12 +22,11 @@ hero:
 ## 次のイベント
 
 <Event
-  header = "97th metaPhorest Seminar: BCL/ゲオアグトレメル & 桜木真理子"
-  date = "2024年10月18日（金）19:00 (オンライン)"
-  link = "/seminars/097"
-  image = "/seminars/097/097_preview_landscape.jpg"
+  header = "98th metaPhorest Seminar: '古代の知性で記憶を紡ぐ' with 福原志保 & Awu Chen'"
+  date = "October 25th, 2024 (Friday) 19:00 @Waseda TWIns & online"
+  link = "/seminars/098"
+  image = "/seminars/098/098_preview.jpg"
 />
-
 
 ## metaPhorest FaceBook
 

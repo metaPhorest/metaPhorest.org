@@ -23,12 +23,11 @@ hero:
 ## Next Event
 
 <Event
-  header = "97th metaPhorest Seminar: BCL/Georg Tremmel & Mariko Sakuragi"
-  date = "October 18th, 2024 (Friday) 19:00 (online)"
-  link = "/en/seminars/097"
-  image = "/seminars/097/097_preview_landscape.jpg"
+  header = "98th metaPhorest Seminar: 'Weaving Memories with Ancient Intelligence' with Shiho Fukuhara & Awu Chen'"
+  date = "October 25th, 2024 (Friday) 19:00 @Waseda TWIns & online"
+  link = "/en/seminars/098"
+  image = "/seminars/098/098_preview.jpg"
 />
-
 
 ## metaPhorest FaceBook
 
