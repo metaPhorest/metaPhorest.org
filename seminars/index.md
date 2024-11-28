@@ -43,6 +43,10 @@ prev:
   image = "/seminars/101/101_preview.jpg"
 />
 
+## Archive
+
+#### 2024
+
 <Event
   header = "100th metaPhorest Seminar: 古澤輝由 + Mio Iizawa/切江志龍"
   date = "2024年11月22日（金）19:00 @Waseda TWIns"
@@ -63,10 +67,6 @@ prev:
   link = "/seminars/098"
   image = "/seminars/098/098_preview.jpg"
 />
-
-## Archive
-
-#### 2024
 
 <Event
   header = "97th metaPhorest Seminar: BCL/ゲオアグトレメル & 桜木真理子"
