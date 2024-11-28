@@ -6,7 +6,7 @@ prev:
   link: '/seminars/'
 ---
 
-# 102th metaPhorest seminar by 菅野創 So Kanno & 石橋友也
+# 102nd metaPhorest seminar by 菅野創 So Kanno & 石橋友也
 
 Friday, December 6th, 2024, 19:00-20:40
 2024年12月6日（木）19:00-20:40
