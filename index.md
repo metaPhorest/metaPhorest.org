@@ -22,10 +22,10 @@ hero:
 ## 次のイベント
 
 <Event
-  header = "98th metaPhorest Seminar: '古代の知性で記憶を紡ぐ' with 福原志保 & Awu Chen'"
-  date = "October 25th, 2024 (Friday) 19:00 @Waseda TWIns & online"
-  link = "/seminars/098"
-  image = "/seminars/098/098_preview.jpg"
+  header = "101th metaPhorest Seminar: 四方幸子"
+  date = "2024年11月29日（金）19:00 @Waseda TWIns"
+  link = "/seminars/101"
+  image = "/seminars/101/101_preview.jpg"
 />
 
 ## metaPhorest FaceBook
