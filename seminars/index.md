@@ -42,6 +42,8 @@ prev:
 <Event
   header = "100th metaPhorest Seminar: 古澤輝由 + Mio Iizawa/切江志龍"
   date = "2024年11月22日（金）19:00 @Waseda TWIns"
+  link = "/seminars/100"
+  image = "/seminars/100/100_preview.jpg"
 />
 
 <Event
