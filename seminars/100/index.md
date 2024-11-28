@@ -11,7 +11,7 @@ prev:
 Friday, November 22th, 2024, 19:00-20:40
 2024年11月22日（木）19:00-20:40
 
-![](/public/seminars/098/098.jpg)
+![](/public/seminars/100/100.jpg)
 
 ::: tip Waseda TWIns & ONLINE
 This seminar will be held at [Waseda TWIns](https://maps.app.goo.gl/TQFHLpybiuomuG448) & online. [Zoom Link](https://zoom.metaphorest.org)
