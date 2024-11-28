@@ -25,19 +25,19 @@ prev:
 />
 
 <Event
-  header = "103th metaPhorest Seminar: 斎藤帆奈 & TBA"
+  header = "103rd metaPhorest Seminar: 斎藤帆奈 & TBA"
   date = "2024年12月13日（金）19:00 @Waseda TWIns"
 />
 
 <Event
-  header = "102th metaPhorest Seminar: 石橋友也＋菅野創"
+  header = "102nd metaPhorest Seminar: 石橋友也＋菅野創"
   date = "2024年12月6日（金）19:00 @Waseda TWIns"
   link = "/seminars/102"
   image = "/seminars/102/102_preview.jpg"
 />
 
 <Event
-  header = "101th metaPhorest Seminar: 四方幸子"
+  header = "101st metaPhorest Seminar: 四方幸子"
   date = "2024年11月29日（金）19:00 @Waseda TWIns"
   link = "/seminars/101"
   image = "/seminars/101/101_preview.jpg"
