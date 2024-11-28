@@ -37,6 +37,8 @@ prev:
 <Event
   header = "101th metaPhorest Seminar: 四方幸子"
   date = "2024年11月29日（金）19:00 @Waseda TWIns"
+  link = "/seminars/101"
+  image = "/seminars/101/101_preview.jpg"
 />
 
 <Event
