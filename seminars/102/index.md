@@ -11,7 +11,7 @@ prev:
 Friday, December 6th, 2024, 19:00-20:40
 2024年12月6日（木）19:00-20:40
 
-![](/public/seminars/102/102.jpg)
+
 
 ::: tip Waseda TWIns & ONLINE
 This seminar will be held at [Waseda TWIns](https://maps.app.goo.gl/TQFHLpybiuomuG448) & online. [Zoom Link](https://zoom.metaphorest.org)
