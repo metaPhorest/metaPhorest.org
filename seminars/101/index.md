@@ -6,7 +6,7 @@ prev:
   link: '/seminars/'
 ---
 
-# 101th metaPhorest seminar 四方幸子 Yukiko SHIKATA
+# 101st metaPhorest seminar 四方幸子 Yukiko SHIKATA
 
 Friday, November 29th, 2024, 19:00-20:40
 2024年11月29日（木）19:00-20:40
