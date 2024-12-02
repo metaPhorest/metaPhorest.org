@@ -22,10 +22,10 @@ hero:
 ## 次のイベント
 
 <Event
-  header = "101st metaPhorest Seminar: 四方幸子"
-  date = "2024年11月29日（金）19:00 @Waseda TWIns"
-  link = "/seminars/101"
-  image = "/seminars/101/101_preview.jpg"
+  header = "102nd metaPhorest Seminar: 石橋友也＋菅野創"
+  date = "2024年12月6日（金）19:00 @Waseda TWIns"
+  link = "/seminars/102"
+  image = "/seminars/102/102_preview.jpg"
 />
 
 ## metaPhorest FaceBook
