@@ -20,13 +20,8 @@ prev:
 ### 2024
 
 <Event
-  header = "104th metaPhorest Seminar: Aki Inomata + 松永亮太"
+  header = "103rd metaPhorest Seminar: 松永亮太 + Aki Inomata"
   date = "2024年12月20日（金）19:00 @Waseda TWIns"
-/>
-
-<Event
-  header = "103rd metaPhorest Seminar: 斎藤帆奈 & TBA"
-  date = "2024年12月13日（金）19:00 @Waseda TWIns"
   link = "/seminars/103"
   image = "/seminars/103/103_preview.jpg"
 />
@@ -38,16 +33,17 @@ prev:
   image = "/seminars/102/102_preview.jpg"
 />
 
+
+## Archive
+
+#### 2024
+
 <Event
   header = "101st metaPhorest Seminar: 四方幸子"
   date = "2024年11月29日（金）19:00 @Waseda TWIns"
   link = "/seminars/101"
   image = "/seminars/101/101_preview.jpg"
 />
-
-## Archive
-
-#### 2024
 
 <Event
   header = "100th metaPhorest Seminar: 古澤輝由 + Mio Iizawa/切江志龍"
