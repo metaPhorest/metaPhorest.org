@@ -13,7 +13,7 @@ prev:
 ### 2025
 
 <Event
-  header = "105th metaPhorest Seminar: 塚本隆大 + TBA"
+  header = "104th metaPhorest Seminar: 塚本隆大 + TBA"
   date = "2025年1月10日（金）19:00 @Waseda TWIns"
 />
 
