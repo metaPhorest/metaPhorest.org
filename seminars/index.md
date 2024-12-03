@@ -27,6 +27,8 @@ prev:
 <Event
   header = "103rd metaPhorest Seminar: 斎藤帆奈 & TBA"
   date = "2024年12月13日（金）19:00 @Waseda TWIns"
+  link = "/seminars/103"
+  image = "/seminars/103/103_preview.jpg"
 />
 
 <Event
