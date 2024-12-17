@@ -20,7 +20,7 @@ prev:
 ### 2024
 
 <Event
-  header = "103rd metaPhorest Seminar: 松永亮太 + Aki Inomata"
+  header = "103rd metaPhorest Seminar: 松永亮太 + AKI INOMATA"
   date = "2024年12月20日（金）19:00 @Waseda TWIns"
   link = "/seminars/103"
   image = "/seminars/103/103_preview.jpg"
