@@ -20,8 +20,7 @@ Friday, December 20th, 2024, 19:00-20:40
 日時：2024年12月20日（金）19:00-20:30
 場所：早稲田大学先端生命医科学研究施設（TWIns）3Fセミナールーム3（新宿区若松町2-2）
 https://www.waseda.jp/top/access/twins
-対面を基本として行いますが、オンラインでも中継します。ただし、研究所内のネットワーク環境の都合上、映像が不鮮明になる可能性がありますのでご了承ください。また今回のトークは日本語で行います。This event will be primarily in Japanese.
-【zoom URL】https://zoom.metaphorest.org/
+今回のセミナーは対面のみでの開催です。
 
 
 
