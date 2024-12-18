@@ -26,17 +26,16 @@ prev:
   image = "/seminars/103/103_preview.jpg"
 />
 
+## Archive
+
+#### 2024
+
 <Event
   header = "102nd metaPhorest Seminar: 石橋友也＋菅野創"
   date = "2024年12月6日（金）19:00 @Waseda TWIns"
   link = "/seminars/102"
   image = "/seminars/102/102_preview.jpg"
 />
-
-
-## Archive
-
-#### 2024
 
 <Event
   header = "101st metaPhorest Seminar: 四方幸子"
