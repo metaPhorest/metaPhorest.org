@@ -17,7 +17,9 @@ prev:
   date = "2025年1月10日（金）19:00 @Waseda TWIns"
 />
 
-### 2024
+## Archive
+
+#### 2024
 
 <Event
   header = "103rd metaPhorest Seminar: 松永亮太 + AKI INOMATA"
@@ -25,10 +27,6 @@ prev:
   link = "/seminars/103"
   image = "/seminars/103/103_preview.jpg"
 />
-
-## Archive
-
-#### 2024
 
 <Event
   header = "102nd metaPhorest Seminar: 石橋友也＋菅野創"
