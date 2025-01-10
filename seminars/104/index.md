@@ -6,7 +6,7 @@ prev:
   link: '/seminars/'
 ---
 
-# 102th metaPhorest seminar by 塚本隆大Takahiro Tsukamoto & 斎藤帆奈Hanna Saito
+# 104th metaPhorest seminar by 塚本隆大Takahiro Tsukamoto & 斎藤帆奈Hanna Saito
 
 Friday, January 10th, 2025, 19:00-20:40
 2025年1月10日（金）19:00-20:40
