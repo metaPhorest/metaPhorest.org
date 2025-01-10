@@ -17,6 +17,8 @@ prev:
 <Event
   header = "104th metaPhorest Seminar: 塚本隆大 + 斎藤帆奈"
   date = "2025年1月10日（金）19:00 @Waseda TWIns"
+  link = "/seminars/104"
+  image = "/seminars/104/104_preview.jpg"
 />
 
 #### 2024
