@@ -22,8 +22,8 @@ hero:
 ## 次のイベント
 
 <Event
-  header = "103rd metaPhorest Seminar: 松永亮太（+AKI INOMATA）"
-  date = "2024年12月20日（金）19:00 @Waseda TWIns"
+  header = "104th metaPhorest Seminar by 塚本隆大Takahiro Tsukamoto & 斎藤帆奈Hanna Saito"
+  date = "2025年1月10日（金）19:00 @Waseda TWIns"
   link = "/seminars/103"
   image = "/seminars/103/103_preview.jpg"
 />
