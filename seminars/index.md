@@ -10,14 +10,14 @@ prev:
 
 [metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
+## Archive
+
 ### 2025
 
 <Event
-  header = "104th metaPhorest Seminar: 塚本隆大 + TBA"
+  header = "104th metaPhorest Seminar: 塚本隆大 + 斎藤帆奈"
   date = "2025年1月10日（金）19:00 @Waseda TWIns"
 />
-
-## Archive
 
 #### 2024
 
