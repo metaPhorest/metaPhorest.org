@@ -18,6 +18,9 @@ This event will be primarily in Japanese.
 【日時・場所】
 2025年1月10日（金）19:00-21:00
 早稲田大学先端生命医科学研究施設（TWIns）3F セミナールーム3
+
+
+
 zoom（映像の画質は悪いので、なるたけ現地にお越しください）
 https://zoom.metaphorest.org/
 ・塚本隆大「バイオ・アートの美学―いかに「生命」は異化されるのか―」
