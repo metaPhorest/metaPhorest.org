@@ -24,8 +24,8 @@ hero:
 <Event
   header = "104th metaPhorest Seminar by 塚本隆大Takahiro Tsukamoto & 斎藤帆奈Hanna Saito"
   date = "2025年1月10日（金）19:00 @Waseda TWIns"
-  link = "/seminars/103"
-  image = "/seminars/103/103_preview.jpg"
+  link = "/seminars/104"
+  image = "/seminars/104/104_preview.jpg"
 />
 
 ## metaPhorest FaceBook
