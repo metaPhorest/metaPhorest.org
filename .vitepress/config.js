@@ -55,11 +55,11 @@ export default defineConfig ({
       lang: 'jp', // optional, will be added  as `lang` attribute on `html` tag
       themeConfig: {
         nav: [
-          { text:'について', link:'/about/'},
-          { text:'メンバー', link:'/members/'},
-          { text:'セミナー', link:'/seminars/'},
-          { text:'コンタクト', link:'/contact/'},
-          { text:'ズーム', link:'https://zoom.metaphorest.org'}
+          { text:'About', link:'/about/'},
+          { text:'Members', link:'/members/'},
+          { text:'Seminars', link:'/seminars/'},
+          { text:'Contact', link:'/contact/'},
+          { text:'Zoom', link:'https://zoom.metaphorest.org'}
         ],
         editLink: {
           pattern: 'https://github.com/metaPhorest/metaPhorest.org/edit/main/:path',
