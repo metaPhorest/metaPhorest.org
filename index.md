@@ -22,10 +22,10 @@ hero:
 ## 次のイベント
 
 <Event
-  header = "104th metaPhorest Seminar by 塚本隆大Takahiro Tsukamoto & 斎藤帆奈Hanna Saito"
-  date = "2025年1月10日（金）19:00 @Waseda TWIns"
-  link = "/seminars/104"
-  image = "/seminars/104/104_preview.jpg"
+  header = "105th metaPhorest Seminar :血と汗と涙の結晶 by BioClub"
+  date = "2025年1月28日（火）19:00 @BioClub Tokyo"
+  link = "/seminars/105"
+  image = "/seminars/104/105_preview.jpg"
 />
 
 ## metaPhorest FaceBook
