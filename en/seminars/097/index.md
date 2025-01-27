@@ -41,3 +41,5 @@ Georg will give an introduction to Artistic Research in general and his work in 
 ::: warning English
 Georg's talk will be in English.
 :::
+
+https://www.youtube.com/watch?v=5tRv4MXeX6Y

@@ -44,3 +44,5 @@ prev:
 ::: warning 英語
 このトークは英語で行われる。
 :::
+
+https://www.youtube.com/watch?v=5tRv4MXeX6Y

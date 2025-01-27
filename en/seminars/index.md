@@ -11,24 +11,26 @@ outline: deep
 ### 2025
 
 <Event
-  header = "105th metaPhorest Seminar: Takahiro Tsukamoto & TBA"
-  date = "January 10th, 2024 (Friday) 19:00 @Waseda TWIns"
+  header = "105th metaPhorest Seminar & BioClub Artist Talk: Lyndsey Walsh - Made with Blood, Sweat, and Tears"
+  date = "January 28th, 2025 (Tuesday) 19:00 @BioClub Tokyo"
+  link = "/en/seminars/105"
+  image = "/public/seminars/105/105.jpg"
+/>
+
+<Event
+  header = "104th metaPhorest Seminar: Takahiro Tsukamoto & Hanna Saito"
+  date = "January 10th, 2025 (Friday) 19:00 @Waseda TWIns"
 />
 
 ### 2024
 
 <Event
-  header = "104th metaPhorest Seminar: Aki Inomata + Ryota Matsunaga"
+  header = "103th metaPhorest Seminar: Aki Inomata + Ryota Matsunaga"
   date = "December 20th, 2024 (Friday) 19:00 @Waseda TWIns"
 />
 
 <Event
-  header = "103th metaPhorest Seminar: Hanna Saito & TBA"
-  date = "December 13th, 2024 (Friday) 19:00 @Waseda TWIns"
-/>
-
-<Event
-  header = "102th metaPhorest Seminar: Tomoya Ishibashi & Hajime Kanno"
+  header = "102th metaPhorest Seminar: Tomoya Ishibashi & Kanno So"
   date = "December 6th, 2024 (Friday) 19:00 @Waseda TWIns"
 />
 

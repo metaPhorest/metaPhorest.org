@@ -23,10 +23,10 @@ hero:
 ## Next Event
 
 <Event
-  header = "98th metaPhorest Seminar: 'Weaving Memories with Ancient Intelligence' with Shiho Fukuhara & Awu Chen'"
-  date = "October 25th, 2024 (Friday) 19:00 @Waseda TWIns & online"
-  link = "/en/seminars/098"
-  image = "/seminars/098/098_preview.jpg"
+  header = "105th metaPhorest Seminar & BioClub Artist Talk: Lyndsey Walsh - Made with Blood, Sweat, and Tears"
+  date = "January 28th, 2025 (Tuesday) 19:00 @BioClub Tokyo"
+  link = "/en/seminars/105"
+  image = "/public/seminars/105/105.jpg"
 />
 
 ## metaPhorest FaceBook

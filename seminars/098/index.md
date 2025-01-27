@@ -8,7 +8,6 @@ prev:
 
 # 98th metaPhorest セミナー : "古代の知性で記憶を紡ぐ" with 福原志穂 & Awu Chen
 
-Friday, October 26th, 2024, 19:00-20:40
 2024年10月26日（木）19:00-20:40
 
 ![](/public/seminars/098/098.jpg)
