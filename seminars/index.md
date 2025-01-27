@@ -22,6 +22,13 @@ prev:
 ### 2025
 
 <Event
+  header = "105th metaPhorest Seminar & BioClub Artist Talk: リンジー・ワルシュ - 血と汗と涙の結晶"
+  date = "2025年1月28日（火） 19:00 @BioClub Tokyo"
+  link = "/seminars/105"
+  image = "/public/seminars/105/105.jpg"
+/>
+
+<Event
   header = "104th metaPhorest Seminar: 塚本隆大 + 斎藤帆奈"
   date = "2025年1月10日（金）19:00 @Waseda TWIns"
   link = "/seminars/104"
