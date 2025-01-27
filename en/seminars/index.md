@@ -14,7 +14,7 @@ outline: deep
   header = "105th metaPhorest Seminar & BioClub Artist Talk: Lyndsey Walsh - Made with Blood, Sweat, and Tears"
   date = "January 28th, 2025 (Tuesday) 19:00 @BioClub Tokyo"
   link = "/en/seminars/105"
-  image = "/public/seminars/105/105.jpg"
+  image = "/seminars/105/105.jpg"
 />
 
 <Event

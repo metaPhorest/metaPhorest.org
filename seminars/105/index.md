@@ -10,7 +10,7 @@ prev:
 
 2025年1月28日（火）19:00-21:00
 
-![](/public/seminars/105/105.jpg)
+![](/seminars/105/105.jpg)
 
 ::: tip BioClub Tokyo & ONLINE
 このセミナーはオンラインで行われる。 [BioClub Zoom リンク](https://zoom.metaphorest.org)

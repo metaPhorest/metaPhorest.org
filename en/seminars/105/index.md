@@ -10,7 +10,7 @@ prev:
 
 Tuesday, January 28th, 2025, 19:00-21:00
 
-![](/public/seminars/105/105.jpg)
+![](/seminars/105/105.jpg)
 
 ::: tip BioClub Tokyo & ONLINE
 This seminar will be held at [BioClub Tokyo](https://www.bioclub.tokyo) & [BioClub Zoom](https://zoom.bioclub.tokyo)
