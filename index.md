@@ -22,10 +22,10 @@ hero:
 ## 次のイベント
 
 <Event
-  header = "105th metaPhorest Seminar & BioClub Artist Talk: リンジー・ワルシュ - 血と汗と涙の結晶"
-  date = "2025年1月28日（火） 19:00 @BioClub Tokyo"
-  link = "/seminars/105"
-  image = "/seminars/105/105.jpg"
+  header = "106th metaPhorest Seminar by Dr.Perig Pitrou"
+  date = "2025年2月20日（火） 19:00 @TWIns/東京女子医科大学・早稲田大学連携 先端生命医科学研究教育施設"
+  link = "/seminars/106"
+  image = "/seminars/106/106.jpg"
 />
 
 ## metaPhorest FaceBook
