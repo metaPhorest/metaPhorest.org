@@ -8,6 +8,19 @@ prev:
 
 # セミナー
 
+## 2025
+
+<Event
+  header = "106th metaPhorest Seminar by Dr.Perig Pitrou"
+  date = "2025年2月20日（木）19:00 @Waseda TWIns"
+  link = "/seminars/106"
+  image = "/seminars/106/106_preview.jpg"
+/>
+
+## Archive
+
+### 2025
+
 [metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 <Event
@@ -16,10 +29,6 @@ prev:
   link = "/seminars/105"
   image = "/seminars/105/105_preview.jpg"
 />
-
-## Archive
-
-### 2025
 
 <Event
   header = "105th metaPhorest Seminar & BioClub Artist Talk: リンジー・ワルシュ - 血と汗と涙の結晶"
