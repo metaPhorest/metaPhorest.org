@@ -18,7 +18,7 @@ English below:
 ゲスト：ペリ・ピトロー博士（人類学者、CNRS、コレージュ・ド・フランス）"What Humans Do with Life"
 2025年2月20日（木）19-21時
 早稲田大学先端生命医科学研究施設（TWIns）3F セミナールーム1
-<zoom>（映像の画質は悪いので、なるたけ現地にお越しください）
+zoom（映像の画質は悪いので、なるたけ現地にお越しください）
 
 
 https://zoom.metaphorest.org/
