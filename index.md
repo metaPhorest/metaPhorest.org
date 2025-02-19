@@ -23,7 +23,7 @@ hero:
 
 <Event
   header = "106th metaPhorest Seminar by Dr.Perig Pitrou"
-  date = "2025年2月20日（火） 19:00 @TWIns/東京女子医科大学・早稲田大学連携 先端生命医科学研究教育施設"
+  date = "2025年2月20日（木） 19:00 @Waseda TWIns"
   link = "/seminars/106"
   image = "/seminars/106/106.jpg"
 />
