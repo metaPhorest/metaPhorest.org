@@ -24,10 +24,10 @@ prev:
 [metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 <Event
-  header = "106th metaPhorest Seminar & BioClub Artist Talk: リンジー・ワルシュ - 血と汗と涙の結晶"
-  date = "2025年1月28日（火） 19:00 @BioClub Tokyo"
-  link = "/seminars/105"
-  image = "/seminars/105/105.jpg"
+  header = "106th metaPhorest Seminar by Dr.Perig Pitrou"
+  date = "2025年1月28日（火） 19:00 @Waseda TWIns"
+  link = "/seminars/106"
+  image = "/seminars/106/106.jpg"
 />
 
 <Event
