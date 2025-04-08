@@ -25,7 +25,7 @@ prev:
 
 <Event
   header = "106th metaPhorest Seminar by Dr.Perig Pitrou"
-  date = "2025年1月28日（火） 19:00 @Waseda TWIns"
+  date = "2025年1月28日（火）19:00 @Waseda TWIns"
   link = "/seminars/106"
   image = "/seminars/106/106_preview.jpg"
 />
