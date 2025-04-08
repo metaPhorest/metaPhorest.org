@@ -26,7 +26,7 @@ This event will be primarily in Japanese.
 
 早稲田大学先端生命医科学研究施設（TWIns）3F セミナールーム1
 
-<zoom>（映像の画質は悪いので、なるたけ現地にお越しください）
+zoom（映像の画質は悪いので、なるたけ現地にお越しください）
 
 https://zoom.metaphorest.org/
 演題「非人間からみる人間存在──細胞、DNA、そして宇宙人のための芸術」
