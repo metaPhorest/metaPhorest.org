@@ -11,10 +11,8 @@ prev:
 ## 2025
 
 <Event
-  header = "106th metaPhorest Seminar by Dr.Perig Pitrou"
-  date = "2025年2月20日（木）19:00 @Waseda TWIns"
-  link = "/seminars/106"
-  image = "/seminars/106/106_preview.jpg"
+  header = "107th metaPhorest Seminar by 古山寧々 Nene Koyama"
+  date = "2025年4月11日（金）19:00 @Waseda TWIns"
 />
 
 ## Archive
@@ -24,17 +22,17 @@ prev:
 [metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 <Event
+  header = "106th metaPhorest Seminar & BioClub Artist Talk: リンジー・ワルシュ - 血と汗と涙の結晶"
+  date = "2025年1月28日（火） 19:00 @BioClub Tokyo"
+  link = "/seminars/105"
+  image = "/seminars/105/105.jpg"
+/>
+
+<Event
   header = "105th metaPhorest Seminar: 血と汗と涙の結晶 by BioClub"
   date = "2025年1月28日（火）19:00 @BioClub Tokyo"
   link = "/seminars/105"
   image = "/seminars/105/105_preview.jpg"
-/>
-
-<Event
-  header = "105th metaPhorest Seminar & BioClub Artist Talk: リンジー・ワルシュ - 血と汗と涙の結晶"
-  date = "2025年1月28日（火） 19:00 @BioClub Tokyo"
-  link = "/seminars/105"
-  image = "/seminars/105/105.jpg"
 />
 
 <Event
