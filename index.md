@@ -22,10 +22,10 @@ hero:
 ## 次のイベント
 
 <Event
-  header = "106th metaPhorest Seminar by Dr.Perig Pitrou"
-  date = "2025年2月20日（木） 19:00 @Waseda TWIns"
-  link = "/seminars/106"
-  image = "/seminars/106/106.jpg"
+  header = "107th metaPhorest Seminar by 古山寧々 Nene Koyama"
+  date = "2025年4月11日（金） 19:00 @Waseda TWIns"
+  link = "/seminars/107"
+  image = "/seminars/107/107.png"
 />
 
 ## metaPhorest FaceBook
