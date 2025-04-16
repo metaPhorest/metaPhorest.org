@@ -28,14 +28,12 @@ zoom（映像の画質は悪いので、なるたけ現地にお越しくださ�
 講演は英語で、同時通訳は用意できませんが、日本語での質問も受け付けます。
 
 
-**108th metaPhorest Seminar: "More-than-human revolt and labour provenance in a synthetic biology lab"**
-
-Yuning Chen (Design researcher, artist; Edinburgh University)
+**108th metaPhorest Seminar: "More-than-human revolt and labour provenance in a synthetic biology lab"**  
+Yuning Chen (Design researcher, artist; Edinburgh University)  
 7:00 pm - 9:00 pm (JST), Wed, April 23rd, 2025.
 
 Seminar Room 1, 3rd Floor, Center for Advanced Biomedical Sciences (TWIns), Waseda University,
-2-2 Wakamatsu, Shinjuku, Tokyo 162-0056
-
+2-2 Wakamatsu, Shinjuku, Tokyo 162-0056  
 https://www.waseda.jp/top/en/access/twins
 
 
