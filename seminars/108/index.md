@@ -15,7 +15,9 @@ Wednesday, April 23th, 2025, 19:00-21:00
 English below:
 第108回 metaPhorest Seminar
 ゲスト：ユーニン・チェン（アーティスト、バイオデザイン研究者、エディンバラ大学）
+
 **"More-than-human revolt and labour provenance in a synthetic biology lab"**
+
 2025年4月23日（水）19-21時
 早稲田大学先端生命医科学研究施設（TWIns）3F セミナールーム1
 
@@ -30,7 +32,7 @@ https://zoom.metaphorest.org/
 講演は英語で、同時通訳は用意できませんが、日本語での質問も受け付けます。
 
 
-108th metaPhorest Seminar: "More-than-human revolt and labour provenance in a synthetic biology lab"
+**108th metaPhorest Seminar: "More-than-human revolt and labour provenance in a synthetic biology lab"**
 
 Yuning Chen (Design researcher, artist; Edinburgh University)
 7:00 pm - 9:00 pm (JST), Wed, April 23rd, 2025.
