@@ -6,7 +6,7 @@ prev:
   link: '/seminars/'
 ---
 
-# 107th metaPhorest seminar by 古山寧々 Nene Koyama
+# 108th metaPhorest seminar by  Yuning Chen
 
 ![](/public/seminars/108/108.png)
 
