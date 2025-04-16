@@ -12,11 +12,10 @@ prev:
 
 Wednesday, April 23th, 2025, 19:00-21:00
 
-
 English below:
 第108回 metaPhorest Seminar
 ゲスト：ユーニン・チェン（アーティスト、バイオデザイン研究者、エディンバラ大学）
-#"More-than-human revolt and labour provenance in a synthetic biology lab"
+# "More-than-human revolt and labour provenance in a synthetic biology lab"
 2025年4月23日（水）19-21時
 早稲田大学先端生命医科学研究施設（TWIns）3F セミナールーム1
 
