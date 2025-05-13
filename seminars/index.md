@@ -10,19 +10,18 @@ prev:
 
 ## 2025
 
+## Archive
+
+### 2025
+
+[metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
+
 <Event
   header = "108th metaPhorest Seminar by Yuning Chen"
   date = "2025年4月23日（水）19:00 @Waseda TWIns"
   link = "/seminars/108"
   image = "/seminars/108/108.png"
 />
-
-
-## Archive
-
-### 2025
-
-[metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 <Event
   header = "107th metaPhorest Seminar by 古山寧々 Nene Koyama"
