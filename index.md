@@ -19,7 +19,7 @@ hero:
 
 ---
 
-## 次のイベント
+## 前回のイベント
 
 <Event
   header = "108th metaPhorest Seminar by Yuning Chen"
