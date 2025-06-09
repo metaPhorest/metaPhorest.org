@@ -22,10 +22,10 @@ hero:
 ## 前回のイベント
 
 <Event
-  header = "108th metaPhorest Seminar by Yuning Chen"
-  date = "2025年4月23日（水）19:00 @Waseda TWIns"
-  link = "/seminars/108"
-  image = "/seminars/108/108.png"
+  header = "109th metaPhorest Seminar by 長谷川紫穂 Shiho Hasegawa"
+  date = "2025年6月17日（水）19:00 @Waseda TWIns"
+  link = "/seminars/109"
+  image = "/seminars/109/109.png"
 />
 
 
