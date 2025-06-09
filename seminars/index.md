@@ -14,6 +14,13 @@ prev:
 
 ### 2025
 
+<Event
+  header = "109th metaPhorest Seminar by 長谷川紫穂"
+  date = "2025年6月17日（水）19:00 @Waseda TWIns"
+  link = "/seminars/109"
+  image = "/seminars/109/109.png"
+/>
+
 [metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 <Event
