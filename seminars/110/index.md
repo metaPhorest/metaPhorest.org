@@ -8,7 +8,7 @@ prev:
 
 # 110th metaPhorest Seminar by Domenica Landin (online only: オンライン開催）
 
-![](/public/seminars/109/109.png)
+![](/public/seminars/110/110.png)
 
 Wednesday, July 23rd, 2025, 19:00-21:00
 
