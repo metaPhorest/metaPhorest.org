@@ -10,16 +10,16 @@ prev:
 
 ## 2025
 
-## Archive
-
-### 2025
-
 <Event
   header = "110th metaPhorest Seminar by Domenica Landin (online only:オンライン開催）"
   date = "2025年6月17日（水）19:00 @zoom"
   link = "/seminars/110"
   image = "/seminars/110/110.png"
 />
+
+## Archive
+
+### 2025
 
 [metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
