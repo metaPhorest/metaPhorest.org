@@ -30,7 +30,8 @@ https://anaiskarenin.com/home
 Zoom URL: https://zoom.metaphorest.org/
 
 
-／
+--------------------------------------------------
+
 The 110th metaPhorest Seminar will feature a lecture by Domenica Landin！
 She is an artist and researcher whose practice integrates art and design with a background in multispecies ethnography, critical theory, ecofeminism, and decolonialism. She is currently a PhD candidate at the University of Dundee.
 
