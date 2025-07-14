@@ -15,13 +15,20 @@ prev:
 ### 2025
 
 <Event
+  header = "110th metaPhorest Seminar by Domenica Landin (online only:オンライン開催）"
+  date = "2025年6月17日（水）19:00 @zoom"
+  link = "/seminars/110"
+  image = "/seminars/110/110.png"
+/>
+
+[metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
+
+<Event
   header = "109th metaPhorest Seminar by 長谷川紫穂"
   date = "2025年6月17日（水）19:00 @Waseda TWIns"
   link = "/seminars/109"
   image = "/seminars/109/109.png"
 />
-
-[metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 <Event
   header = "108th metaPhorest Seminar by Yuning Chen"
