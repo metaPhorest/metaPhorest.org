@@ -22,10 +22,10 @@ hero:
 ## 前回のイベント
 
 <Event
-  header = "109th metaPhorest Seminar by 長谷川紫穂 Shiho Hasegawa"
-  date = "2025年6月17日（水）19:00 @Waseda TWIns"
-  link = "/seminars/109"
-  image = "/seminars/109/109.png"
+  header = "110th metaPhorest Seminar by Domenica Landin (online only:オンライン開催）"
+  date = "2025年7月23日（水）19:00 @zoom"
+  link = "/seminars/110"
+  image = "/seminars/110/110.png"
 />
 
 
