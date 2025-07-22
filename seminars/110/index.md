@@ -46,6 +46,6 @@ https://anaiskarenin.com/home
 The seminar will be conducted in English. This will be an online-only seminar.
 
 Date: 23 July 7 p.m. Japan time
-11 a.m. UK time
+(11 a.m. UK time)
 
 Zoom URL: https://zoom.metaphorest.org/
