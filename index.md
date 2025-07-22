@@ -19,7 +19,7 @@ hero:
 
 ---
 
-## 前回のイベント
+## 次回のイベント
 
 <Event
   header = "110th metaPhorest Seminar by Domenica Landin (online only:オンライン開催）"
