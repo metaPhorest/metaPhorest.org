@@ -23,10 +23,10 @@ hero:
 ## Next Event
 
 <Event
-  header = "105th metaPhorest Seminar & BioClub Artist Talk: Lyndsey Walsh - Made with Blood, Sweat, and Tears"
-  date = "January 28th, 2025 (Tuesday) 19:00 @BioClub Tokyo"
-  link = "/en/seminars/105"
-  image = "/seminars/105/105.jpg"
+  header = "111th metaPhorest Seminar: BCL/Georg Tremmel & Henri Tan"
+  date = "October 17th, 2025 (Friday) 19:00 (online)"
+  link = "/en/seminars/111"
+  image = "/seminars/111/111_preview.jpg"
 />
 
 ## metaPhorest FaceBook
