@@ -9,7 +9,7 @@ prev:
 # セミナー
 
 <Event
-  header = "111th metaPhorest Seminar: BCL/ゲオアグトレメル & Henri Tan"
+  header = "111th metaPhorest Seminar: BCL/ゲオアグトレメル & Henry Tan"
   date = "2025年10月17日（金）19:00 (オンライン)"
   link = "/seminars/111"
   image = "/seminars/111/111_preview.jpg"

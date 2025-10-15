@@ -22,10 +22,10 @@ hero:
 ## 前回のイベント
 
 <Event
-  header = "110th metaPhorest Seminar by Domenica Landin (online only:オンライン開催）"
-  date = "2025年7月23日（水）19:00 @zoom"
-  link = "/seminars/110"
-  image = "/seminars/110/110.png"
+  header = "111th metaPhorest Seminar: BCL/Georg Tremmel & Henry Tan"
+  date = "2025年10月17日 (金) 19:00 (online)"
+  link = "/en/seminars/111"
+  image = "/seminars/111/111_preview.jpg"
 />
 
 

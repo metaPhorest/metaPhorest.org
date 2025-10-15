@@ -23,7 +23,7 @@ hero:
 ## Next Event
 
 <Event
-  header = "111th metaPhorest Seminar: BCL/Georg Tremmel & Henri Tan"
+  header = "111th metaPhorest Seminar: BCL/Georg Tremmel & Henry Tan"
   date = "October 17th, 2025 (Friday) 19:00 (online)"
   link = "/en/seminars/111"
   image = "/seminars/111/111_preview.jpg"

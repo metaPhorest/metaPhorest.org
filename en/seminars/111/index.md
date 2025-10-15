@@ -10,14 +10,14 @@ prev:
 
 Friday, October 17th, 2025, 19:00-20:40
 
-![](/public/seminars/111/111.jpg)
-
 ::: tip ONLINE
 This seminar will be held online. [Zoom Link](https://zoom.metaphorest.org)
 :::
 
 
 ## [BCL / Georg Tremmel](/en/members/georg-tremmel/): _From Inter-actions to Intra-actions - Artistic Research into BioMedia_
+
+![](/public/seminars/111/111.jpg)
 
 Georg will give an introduction to his Artistic Research and Practice in relation to biological art/biomedia. He will talk about his journey from Media Art to Bio+Media Art.
 
@@ -30,13 +30,17 @@ Georg is also currently pursuing his PhD in Artistic Research at the University 
 Georg's talk will be in English.
 :::
 
-## [Henri Tan](/en/members/henri-tan/): _TBA_
+## [Henry Tan](/en/members/henry-tan/): _Pillars of Creation 1.0_
 
-#### About Henri Tan
-TBA
+![](/public/seminars/111/111_henry.jpg)
+
+#### About Henry Tan
+
+Henry, member of FREAK Lab Thailand, metaPhorest Japan, and 2024 resident artist at CGSB, NYUAD, Henry explores the boundaries between life and simulation. He investigates how emerging technologies like synthetic biology, mixed reality an .brain stimulation.
 
 #### About the talk
-TBA
+
+Pillars of Creation is an interpretation of the four-armed god of creation, Brahma, embodies the cyborgian nature of the present human being. Today, our bodies are transformed by technology that operates on us, in us, and with us. Tan’s Brahma sculpture holds aloft in each of his four hands a symbolic artifact, variously representing knowledge, as a DNA printer and synthesizer; cosmic energy, as a clinostat and brain organoid on a chip; time, as a a “dementia” tourbillon clock; and finally sacrifice, as a cultivated yeast or bacteria. Each of these objects tell a story about the future that human society is crafting for itself–will we become gods or machines?
 
 ::: warning English
 Henri's talk will be in Japanese.
