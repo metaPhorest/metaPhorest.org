@@ -6,7 +6,7 @@ prev:
   link: '/en/seminars/'
 ---
 
-# 11th metaPhorest Seminar: BCL / Georg Tremmel + Henri Tan
+# 111th metaPhorest Seminar: BCL / Georg Tremmel + Henri Tan
 
 Friday, October 17th, 2025, 19:00-20:40
 
