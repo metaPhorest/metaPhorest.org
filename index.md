@@ -22,10 +22,10 @@ hero:
 ## 次回のイベント
 
 <Event
-  header = "111th metaPhorest Seminar: BCL/Georg Tremmel & Henry Tan"
-  date = "2025年10月17日 (金) 19:00 (online)"
-  link = "/en/seminars/111"
-  image = "/seminars/111/111_preview.jpg"
+  header = "112th metaPhorest Seminar by Kate Scardifield: (Bio)mattering by design"
+  date = "2025年10月24日（金）19:00 @Waseda TWIns"
+  link = "/seminars/112"
+  image = "/seminars/112/112.png"
 />
 
 
