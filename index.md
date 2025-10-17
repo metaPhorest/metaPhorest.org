@@ -19,7 +19,7 @@ hero:
 
 ---
 
-## 前回のイベント
+## 次回のイベント
 
 <Event
   header = "111th metaPhorest Seminar: BCL/Georg Tremmel & Henry Tan"
