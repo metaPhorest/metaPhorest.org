@@ -10,7 +10,7 @@ prev:
 
 <Event
   header = "112th metaPhorest Seminar by Kate Scardifield: (Bio)mattering by design"
-  date = "2025年10月17日（金）19:00 @Waseda TWIns"
+  date = "2025年10月24日（金）19:00 @Waseda TWIns"
   link = "/seminars/112"
   image = "/seminars/112/112.png"
 />
