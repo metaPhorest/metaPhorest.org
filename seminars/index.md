@@ -9,10 +9,10 @@ prev:
 # セミナー
 
 <Event
-  header = "111th metaPhorest Seminar: BCL/ゲオアグトレメル & Henry Tan"
-  date = "2025年10月17日（金）19:00 (オンライン)"
-  link = "/seminars/111"
-  image = "/seminars/111/111_preview.jpg"
+  header = "112th metaPhorest Seminar by Kate Scardifield: (Bio)mattering by design"
+  date = "2025年10月17日（金）19:00 @Waseda TWIns"
+  link = "/seminars/112"
+  image = "/seminars/112/112.png"
 />
 
 ## アーカイブ
@@ -20,6 +20,13 @@ prev:
 ### 2025
 
 [metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
+
+<Event
+  header = "111th metaPhorest Seminar: BCL/ゲオアグトレメル & Henry Tan"
+  date = "2025年10月17日（金）19:00 (オンライン)"
+  link = "/seminars/111"
+  image = "/seminars/111/111_preview.jpg"
+/>
 
 <Event
   header = "110th metaPhorest Seminar by Domenica Landin (online only:オンライン開催）"
