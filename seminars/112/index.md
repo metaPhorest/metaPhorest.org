@@ -17,12 +17,17 @@ prev:
 ## 112th metaPhorest Seminar by Kate Scardifield: (Bio)mattering by design
 
 The next metaPhorest seminar on OCT 24th welcome artist/researcher, Dr. Kate Scardifield!
+
 Seminar Room 3, Waseda University TWIns, Tokyo
 
+::: tip ONLINE
+This seminar can also be held online. [Zoom Link](https://zoom.metaphorest.org)
+:::
 
 #### (Bio)mattering by design
 
 This presentation traces a body of research and creative practice concerned with the material, aesthetic, and ecological entanglements of aquatic life. Through the lens of bio(mattering) — an inquiry into how matter transforms and how environments co-compose — I will discuss recent projects that work with algal organisms and other marine matter, drawing from laboratory experimentation, fieldwork, and speculative prototyping. By engaging design as both a mode of inquiry and of making, bio(mattering) proposes that a material practice can operate as a form of ecological thinking — one that situates creative production within the dynamic metabolism of Earth’s systems and planetary boundaries.
+
 
 ##### Kate Scardifield Biography
 
