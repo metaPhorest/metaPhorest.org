@@ -30,8 +30,11 @@ This presentation traces a body of research and creative practice concerned with
 
 
 
+
 #### Kate Scardifield Biography
 
 Dr Kate Scardifield is an artist and materials researcher living and working on Gadigal Land, (Warang/Sydney, Australia). Her practice has sat at the nexus of art, design, science and technology for 15 years. Kate undertakes expansive and collaborative projects that investigate materials through states of transformation, transitioning critical systems of production, and how we might enable more sustainable material systems and ecologies. Her artworks span large-scale installations, biological materials, adaptable textiles, sculpture, and video.
 Kate is the founder of Deep Blue Bio, a transdisciplinary studio and research network designing with biological processes and complex living systems. She is an Associate Professor at the University of Technology Sydney (UTS) where she is Co-Director of the Material Ecologies Design Lab, and member of the Algal Biosystems and Biotechnology group in the UTS Climate Change Cluster (C3).
+
+
 Recent exhibitions include Siteworks: From a Deep Valley, Bundanon Art Museum (2022-23); Pliable Planes: Expanded Textiles and Fibre Practices, UNSW Galleries, Freemantle Art Centre (2022-2024, touring); FREE/STATE: The Adelaide Biennial of Australian Art, The Art Gallery of South Australia (2022); The lighter a thought the more it rises, Toi Moroki Centre of Contemporary Art, Christchurch, New Zealand (2019). Kate’s writing on new materials and material systems have been published across a range of platforms including Art Monthly Australasia, The Lifted Brow, and in academic journals including the Journal of Applied Phycology, the Journal of Cleaner Production, and World Futures Review.
