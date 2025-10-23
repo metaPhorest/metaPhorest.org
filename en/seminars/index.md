@@ -11,15 +11,57 @@ outline: deep
 ## Upcoming
 
 <Event
+  header = "112th metaPhorest Seminar by Kate Scardifield: (Bio)mattering by design"
+  date = "2025年10月24日（金）19:00 @Waseda TWIns"
+  link = "/seminars/112"
+  image = "/seminars/112/112.png"
+/>
+
+## Archive
+
+### 2025
+
+<Event
   header = "111th metaPhorest Seminar: BCL/Georg Tremmel & Henry Tan"
   date = "October 17th, 2025 (Friday) 19:00 (online)"
   link = "/en/seminars/111"
   image = "/seminars/111/111_preview.jpg"
 />
 
-## Archive
+<Event
+  header = "110th metaPhorest Seminar by Domenica Landin (online only）"
+  date = "June 17th, 2025 (Wednesday) 19:00 @zoom"
+  link = "/seminars/110"
+  image = "/seminars/110/110.png"
+/>
 
-### 2025
+<Event
+  header = "109th metaPhorest Seminar by Shiho Hasegawa"
+  date = "June 17th, 2025 (Wednesday) 19:00 @Waseda TWIns"
+  link = "/seminars/109"
+  image = "/seminars/109/109.png"
+/>
+
+<Event
+  header = "108th metaPhorest Seminar by Yuning Chen"
+  date = "April 23th, 2025 (Wednesday) 19:00 @Waseda TWIns"
+  link = "/seminars/108"
+  image = "/seminars/108/108.png"
+/>
+
+<Event
+  header = "107th metaPhorest Seminar by Nene Koyama"
+  date = "April 11th, 2025 (Friday) 19:00 @Waseda TWIns"
+  link = "/seminars/107"
+  image = "/seminars/107/107.png"
+/>
+
+<Event
+  header = "106th metaPhorest Seminar by Dr.Perig Pitrou"
+  date = "January 28th, 2025 (Tuesday) 19:00 @Waseda TWIns"
+  link = "/seminars/106"
+  image = "/seminars/106/106_preview.jpg"
+/>
 
 <Event
   header = "105th metaPhorest Seminar & BioClub Artist Talk: Lyndsey Walsh - Made with Blood, Sweat, and Tears"
