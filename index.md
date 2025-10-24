@@ -24,7 +24,7 @@ hero:
 <Event
   header = "113th metaPhorest Seminar by 今宿未悠 Mew Imashuku & 松村寛季 Tomoki Matsumura"
   date = "2025年11月7日（金）19:00 @Waseda TWIns"
-  link = "/en/seminars/113"
+  link = "/seminars/113"
   image = "/seminars/113/113.jpg"
 />
 
