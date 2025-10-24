@@ -25,7 +25,7 @@ hero:
 <Event
   header = "113th metaPhorest Seminar by Mew Imashuku & Tomoki Matsumura"
   date = "November 7th, 2025 (Friday) 19:00 @Waseda TWIns"
-  link = "/seminars/113"
+  link = "/en/seminars/113"
   image = "/seminars/113/113.jpg"
 />
 
