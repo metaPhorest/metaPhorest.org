@@ -16,7 +16,7 @@ prev:
 
 ## 113th metaPhorest Seminar by 今宿未悠 Mew Imashuku & 松村寛季 Tomoki Matsumura
 
-This event will be primarily in Japanese.
+#### This event will be primarily in Japanese.
 11月7日(金)に開催されるmetaPhorestセミナーでは、皮膚感覚を軸に人や環境とのの関係を探る今宿未悠さんをお招きします。
 ホストは、metaPhorestメンバーで岩崎研卒業生でもあり、パフォーマンス等を通じて作品を展開する松村が務めます。
 
