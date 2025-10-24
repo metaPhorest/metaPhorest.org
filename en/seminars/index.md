@@ -11,15 +11,22 @@ outline: deep
 ## Upcoming
 
 <Event
-  header = "112th metaPhorest Seminar by Kate Scardifield: (Bio)mattering by design"
-  date = "2025年10月24日（金）19:00 @Waseda TWIns"
-  link = "/seminars/112"
-  image = "/seminars/112/112.png"
+  header = "113th metaPhorest Seminar by Mew Imashuku & Tomoki Matsumura"
+  date = "November 7th, 2025 (Friday) 19:00 @Waseda TWIns"
+  link = "/seminars/113"
+  image = "/seminars/113/113.jpg"
 />
 
 ## Archive
 
 ### 2025
+
+<Event
+  header = "112th metaPhorest Seminar by Kate Scardifield: (Bio)mattering by design"
+  date = "October 24th, 2025 (Friday) 19:00 @Waseda TWIns"
+  link = "/seminars/112"
+  image = "/seminars/112/112.png"
+/>
 
 <Event
   header = "111th metaPhorest Seminar: BCL/Georg Tremmel & Henry Tan"
