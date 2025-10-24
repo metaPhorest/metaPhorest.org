@@ -17,6 +17,7 @@ November 7th, 2025 (Friday)  19:00-20:40
 ## 113th metaPhorest Seminar by Mew Imashuku & Tomoki Matsumura
 
 #### This event will be primarily in Japanese.
+
 The metaPhorest seminar on Friday, November 7th will feature Miyu Imajuku, who explores relationships with people and the environment through the lens of skin sensation.
 Hosted by Matsumura, a metaPhorest member and graduate of the Iwasaki Lab who develops works through performance and other mediums.
 
