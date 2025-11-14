@@ -22,10 +22,10 @@ hero:
 ## 次回のイベント
 
 <Event
-  header = "113th metaPhorest Seminar by 今宿未悠 Mew Imashuku & 松村寛季 Tomoki Matsumura"
-  date = "2025年11月7日（金）19:00 @Waseda TWIns"
-  link = "/seminars/113"
-  image = "/seminars/113/113.jpg"
+  header = "114th metaPhorest Seminar: 岡部祥太 Shota Okabe hosted by AKI INOMATA"
+  date = "2025年11月21日（金）19:00 @Waseda TWIns"
+  link = "/seminars/114"
+  image = "/seminars/114/114.jpeg"
 />
 
 ## metaPhorest FaceBook
