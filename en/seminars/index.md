@@ -13,7 +13,7 @@ outline: deep
 <Event
   header = "114th metaPhorest Seminar: Shota Okabe hosted by AKI INOMATA"
   date = "November 21th, 2025 (Friday) 19:00 @Waseda TWIns"
-  link = "/seminars/114"
+  link = "/en/seminars/114"
   image = "/seminars/114/114.jpeg"
 />
 
