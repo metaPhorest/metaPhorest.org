@@ -6,7 +6,7 @@ prev:
   link: '/seminars/'
 ---
 
-# 113th metaPhorest Seminar
+# 114th metaPhorest Seminar
 
 November 21th, 2025 (Friday)  19:00-20:40
 
