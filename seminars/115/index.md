@@ -14,7 +14,7 @@ prev:
 
 
 
-## 115th metaPhorest Seminar: 七沢智樹 TOmoki Nanasawa & 石橋友也 Tomoya Ishibashi
+## 115th metaPhorest Seminar: 七沢智樹 Tomoki Nanasawa & 石橋友也 Tomoya Ishibashi
 
 #### This event will be primarily in Japanese.
 11/28（金）のmetaPhorestセミナーは、七沢智樹さんにご登壇頂き、西表島で狩猟採集生活を実践する「Iriomote JUNGLE CLUB」とその思想的な背景にある技術哲学について主にお話を伺います。ホストであるmetaPhorestメンバーの石橋友也は、今回初参加したIriomote JUNGLE CLUBを中心に、近年の顕微鏡にまつわる芸術実践についてお話します。
