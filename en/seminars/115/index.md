@@ -6,7 +6,7 @@ prev:
   link: '/seminars/'
 ---
 
-# 114th metaPhorest Seminar
+# 115th metaPhorest Seminar
 
 November 21th, 2025 (Friday)  19:00-20:40
 
@@ -14,7 +14,7 @@ November 21th, 2025 (Friday)  19:00-20:40
 
 
 
-## 114th metaPhorest Seminar: TOmoki NAnasawa & Tomoya Ishibashi
+## 115th metaPhorest Seminar: TOmoki NAnasawa & Tomoya Ishibashi
 
 #### This event will be primarily in Japanese.
 
