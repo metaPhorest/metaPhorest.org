@@ -21,7 +21,6 @@ November 21th, 2025 (Friday)  19:00-20:40
 This event will be primarily in Japanese.
 The metaPhorest seminar on Friday, November 28th will feature Tomoki Nanasawa. We will primarily hear about the “Iriomote JUNGLE CLUB,” which practices a hunter-gatherer lifestyle on Iriomote Island, and the technological philosophy that underpins its ideology. Hosted by metaPhorest member Tomoya Ishibashi, this session will also explore recent art practices involving microscopes, centered around the Iriomote JUNGLE CLUB, which participated for the first time.
 
-Translated with DeepL.com (free version)
 
 #### Date, Place 
 November 28th, 2025 (Friday)  19:00-20:40
