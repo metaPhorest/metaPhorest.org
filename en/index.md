@@ -23,10 +23,10 @@ hero:
 ## Next Event
 
 <Event
-  header = "114th metaPhorest Seminar by Shota Okabe hosted by AKI INOMATA"
-  date = "November 21th, 2025 (Friday) 19:00 @Waseda TWIns"
-  link = "/en/seminars/114"
-  image = "/seminars/114/114.jpeg"
+  header = "115th metaPhorest Seminar: Tomoki Nanasawa & Tomoya Ishibashi"
+  date = "November 28th, 2025 (Friday) 19:00 @Waseda TWIns"
+  link = "/en/seminars/115"
+  image = "/seminars/115/115.jpeg"
 />
 
 ## metaPhorest FaceBook
