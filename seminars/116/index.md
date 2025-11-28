@@ -10,7 +10,7 @@ prev:
 
 2025年12月5日（金）19:00-20:40
 
-![](/public/seminars/115/115.jpeg)
+![](/public/seminars/116/116.jpeg)
 
 
 
