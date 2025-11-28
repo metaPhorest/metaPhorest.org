@@ -14,7 +14,7 @@ December 28th, 2025 (Friday)  19:00-20:40
 
 
 
-## 116th metaPhorest Seminar: ヒロイクミ Kumi Hiroi & 池谷侑太 Yuta Ikeya
+## 116th metaPhorest Seminar: Kumi Hiroi & Yuta Ikeya
 
 #### This event will be primarily in Japanese, but questions and comments in English are also welcome.
 The metaPhorest seminar on Friday, December 5th is a joint seminar featuring guest artist Hiroi Kumi, who works between the Netherlands and Japan, and Yuta Iketani, a new metaPhorest member who returned from the Netherlands in 2025. 
