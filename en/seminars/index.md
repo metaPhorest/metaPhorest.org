@@ -11,11 +11,22 @@ outline: deep
 ## Upcoming
 
 <Event
+  header = "116th metaPhorest Seminar: Kumi Hiroi & Yuta Ikeya"
+  date = "December 5th, 2025 (Friday) 19:00 @Waseda TWIns"
+  link = "/en/seminars/116"
+  image = "/seminars/116/116.jpeg"
+/>
+
+<Event
   header = "115th metaPhorest Seminar: Tomoki Nanasawa & Tomoya Ishibashi"
   date = "November 28th, 2025 (Friday) 19:00 @Waseda TWIns"
   link = "/en/seminars/115"
   image = "/seminars/115/115.jpeg"
 />
+
+## Archive
+
+### 2025
 
 <Event
   header = "114th metaPhorest Seminar: Shota Okabe hosted by AKI INOMATA"
@@ -23,10 +34,6 @@ outline: deep
   link = "/en/seminars/114"
   image = "/seminars/114/114.jpeg"
 />
-
-## Archive
-
-### 2025
 
 <Event
   header = "113th metaPhorest Seminar by Mew Imashuku & Tomoki Matsumura"
