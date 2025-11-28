@@ -15,18 +15,18 @@ prev:
   image = "/seminars/116/116.jpeg"
 />
 
+## アーカイブ
+
+### 2025
+
+[metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
+
 <Event
   header = "115th metaPhorest Seminar: 七沢智樹 Tomoki Nanasawa & 石橋友也 Tomoya Ishibashi"
   date = "2025年11月28日（金）19:00 @Waseda TWIns"
   link = "/seminars/115"
   image = "/seminars/115/115.jpeg"
 />
-
-## アーカイブ
-
-### 2025
-
-[metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 <Event
   header = "114th metaPhorest Seminar: 岡部祥太 Shota Okabe hosted by AKI INOMATA"
