@@ -9,6 +9,13 @@ prev:
 # セミナー
 
 <Event
+  header = "116th metaPhorest Seminar: ヒロイクミ Kumi Hiroi & 池谷侑太 Yuta Ikeya"
+  date = "2025年12月5日（金）19:00 @Waseda TWIns"
+  link = "/seminars/116"
+  image = "/seminars/116/116.jpeg"
+/>
+
+<Event
   header = "115th metaPhorest Seminar: 七沢智樹 Tomoki Nanasawa & 石橋友也 Tomoya Ishibashi"
   date = "2025年11月28日（金）19:00 @Waseda TWIns"
   link = "/seminars/115"
