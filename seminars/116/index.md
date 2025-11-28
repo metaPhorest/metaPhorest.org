@@ -14,7 +14,7 @@ prev:
 
 
 
-## 115th metaPhorest Seminar: ヒロイクミ Kumi Hiroi & 池谷侑太 Yuta Ikeya
+## 116th metaPhorest Seminar: ヒロイクミ Kumi Hiroi & 池谷侑太 Yuta Ikeya
 
 #### This event will be primarily in Japanese, but questions and comments in English are also welcome.
 12/5（金）のmetaPhorestセミナーは、オランダと日本の二拠点で活躍されるゲストアーティスト　ヒロイクミさんと、2025年にオランダより帰国したmetaPhorest新規メンバーの池谷宥太によるジョイントセミナーです。
