@@ -32,7 +32,6 @@ hero:
   header = "生命美学展　2025"
   date = "2025年12月18日（金）- 12月22日（月） @早稲田大学 西早稲田キャンパス"
   link = "/seminars/bio-aesthetics-exhibition"
-  image = "/images/event/bio-aesthetics-exhibition-01.jpg"
 />
 
 ## 次回のセミナー
