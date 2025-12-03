@@ -45,6 +45,27 @@ hero:
   image = "/seminars/116/116.jpeg"
 />
 
+### Future metaPhorest Seminar
+
+<Event
+  header = "117th metaPhorest Seminar: Mio Iizawa"
+  date = "December 12th, 2025（Friday）19:00 @Waseda TWIns"
+  link = "/seminars/117"
+/>
+
+<Event
+  header = "118th metaPhorest Seminar: Bioaesthetics Exhibition 2025 Artist Talk by Takahiro Tsukamoto"
+  date = "December 19th, 2025（Friday） @Nisi-Waseda Campus, Bldg. 55 1F Atrium"
+  link = "/seminars/118"
+/>
+
+<Event
+  header = "119th metaPhorest Seminar: Siryu Kirie + Shunsuke Yasumura"
+  date = "January 9th, 2025（Friday）19:00 @Waseda TWIns"
+  link = "/seminars/119"
+/>
+
+
 ## metaPhorest FaceBook
 
 Please visit the [metaPhorest FaceBook Page](http://facebook.com/metaphorest.net/) for the lasted information on seminars and events.
