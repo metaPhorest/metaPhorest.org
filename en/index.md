@@ -23,7 +23,7 @@ hero:
 ## Next Event
 
 <Event
-  header = "116th metaPhorest Seminar: "Kumi Hiroi & Yuta Ikeya"
+  header = "116th metaPhorest Seminar: Kumi Hiroi & Yuta Ikeya"
   date = "December 5th, 2025 (Friday) 19:00 @Waseda TWIns"
   link = "/en/seminars/116"
   image = "/seminars/116/116.jpeg"
