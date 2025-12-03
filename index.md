@@ -19,7 +19,17 @@ hero:
 
 ---
 
-## 次回のイベント
+## イベント
+
+<Event
+  header = "渋谷川暗渠 - Silent Neighbors プロジェクト　ワークショップ開催のお知らせ"
+  date = "2025年12月6日（金）13:00 @東京大学 弥生キャンパス"
+  link = "/seminars/shibuyagawa"
+  image = "/images/event/shibuyagawa.jpg"
+/>
+
+
+## 次回のセミナー
 
 <Event
   header = "116th metaPhorest Seminar: ヒロイクミ Kumi Hiroi & 池谷宥太 Yuta Ikeya"
