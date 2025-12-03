@@ -25,9 +25,15 @@ hero:
   header = "渋谷川暗渠 - Silent Neighbors プロジェクト　ワークショップ開催のお知らせ"
   date = "2025年12月6日（金）13:00 @東京大学 弥生キャンパス"
   link = "/seminars/shibuyagawa"
-  image = "/images/event/shibuyagawa_small.png"
+  image = "/images/event/bio-aesthetics-exhibition-01.jpg"
 />
 
+<Event
+  header = "生命美学展　2025"
+  date = "2025年12月18日（金）- 12月22日（月） @早稲田大学 西早稲田キャンパス"
+  link = "/seminars/bio-aesthetics-exhibition"
+  image = "/images/event/shibuyagawa_small.png"
+/>
 
 ## 次回のセミナー
 
