@@ -25,7 +25,7 @@ hero:
   header = "渋谷川暗渠 - Silent Neighbors プロジェクト　ワークショップ開催のお知らせ"
   date = "2025年12月6日（金）13:00 @東京大学 弥生キャンパス"
   link = "/seminars/shibuyagawa"
-  image = "/images/event/shibuyagawa.jpg"
+  image = "/seminars/116/116.jpeg"
 />
 
 
