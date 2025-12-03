@@ -27,9 +27,9 @@ This seminar can also be held online. [Zoom Link](https://zoom.metaphorest.org)
 :::
 
 
-#### ヒロイクミ　Kumi Hiroi
+#### a
 
 
 
-#### 池谷宥太 Yuta Ikeya
+#### a
 
