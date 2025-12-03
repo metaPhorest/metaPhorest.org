@@ -20,6 +20,21 @@ hero:
 
 ---
 
+## Upcoming Events
+
+<Event
+  header = "Workshop Announcement: Shibuya River Culvert - Silent Neighbors Project"
+  date = "December 5th, 2025 (Friday) 13:00 @University of Tokyo, Yayoi Campus"
+  link = "/seminars/shibuyagawa"
+  image = "/images/event/shibuyagawa_small.png"
+/>
+
+<Event
+  header = "Bioaesthetics Exhibition　2025"
+  date = "December 18 (Fri) - December 22 (Mon), 2025 @ Waseda University, Nishi-Waseda Campus"
+  link = "/seminars/bio-aesthetics-exhibition"
+/>
+
 ## Next Event
 
 <Event
