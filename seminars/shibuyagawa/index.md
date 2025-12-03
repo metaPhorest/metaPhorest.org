@@ -42,6 +42,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdP8WoDLjScfZXfXid_OZu7rDWstAWF0YsR-oMD
   1. 13時10分：本田先生ご講演 
   2. ﻿﻿13時50分：トークセッション「見えない川と都市の記憶」
   3. 15時15分：暗渠の地図を使った都市探索VR 体験ワークショップ
+
 ※1と2は弥生講堂アネックス研究棟講義室、3は弥生講堂 一条ホールにて開催
 
 
