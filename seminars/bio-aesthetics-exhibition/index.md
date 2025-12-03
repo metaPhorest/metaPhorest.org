@@ -10,7 +10,7 @@ prev:
 2025年12月18日（木）- 12月22日（月）
 
 
-![](/images/event/bio-aesthetics-exhibition_small.jpg)
+![](/images/event/bio-aesthetics-exhibition_small.png)
 
 
 ## 生命美学展 2025 開催のお知らせ
