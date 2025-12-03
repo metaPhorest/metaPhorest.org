@@ -19,7 +19,7 @@ hero:
 
 ---
 
-## イベント
+## 近日開催するイベント
 
 <Event
   header = "渋谷川暗渠 - Silent Neighbors プロジェクト　ワークショップ開催のお知らせ"
