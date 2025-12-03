@@ -34,7 +34,7 @@ hero:
   link = "/seminars/bio-aesthetics-exhibition"
 />
 
-## 次回のセミナー
+## 次回のmetaPhorestセミナー
 
 <Event
   header = "116th metaPhorest Seminar: ヒロイクミ Kumi Hiroi & 池谷宥太 Yuta Ikeya"
