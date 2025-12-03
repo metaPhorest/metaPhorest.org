@@ -73,7 +73,7 @@ prev:
 ### 米山夏希 Natsuki Yoneyama
 
 
-## 展示会場
+## 展示会場へのアクセス
 早稲田大学 西早稲田キャンパス
 東京都 新宿区 大久保 3-4-1 55号館 1F アトリウム
 ![](/images/event/map_atrium.png)
