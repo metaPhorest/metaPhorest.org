@@ -64,7 +64,7 @@ https://maps.app.goo.gl/EfgN6Y7ALWRouKEr6
 
 
 ## 出展アーティストと展示作品
-![](/images/event/bio-aesthetics-key.png)
+![](/images/event/bio-aesthetics-all.png)
 
 ### Georg Tremmel
 "©HeLa" 
