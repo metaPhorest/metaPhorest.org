@@ -94,31 +94,44 @@ prev:
 
 ## 作品の説明
 
-### "©HeLa" Georg Tremmel
+### "©HeLa" 
+Georg Tremmel
 
-### "mutual traces" Hanna Saito
+### "mutual traces" 
+Hanna Saito
 
-### "Pillars of Creation; Cell Memorial Service"　Henry Tan
+### "Pillars of Creation; Cell Memorial Service"　
+Henry Tan
 
-### "苔なずむ"　秋建太郎 Kentaro Aki
+### "苔なずむ"　
+秋建太郎 Kentaro Aki
 
-### "Culturing <O/Paper>cut" 岩崎秀雄 Hideo Iwasaki
+### "Culturing <O/Paper>cut" 
+岩崎秀雄 Hideo Iwasaki
 
-### "南風見田顕微鏡" 石橋友也 Tomoya Ishibashi
+### "南風見田顕微鏡" 
+石橋友也 Tomoya Ishibashi
 
-### "Human-(bee)ing" 植村和俊 Kazutoshi Uemura
+### "Human-(bee)ing" 
+植村和俊 Kazutoshi Uemura
 
-### "香りで聞くmetaPhorest" 片桐萌花 Moeka Katagiri
+### "香りで聞くmetaPhorest" 
+片桐萌花 Moeka Katagiri
 
-### "Notions Communes" 切江志龍 Siryu Kirie
+### "Notions Communes" 
+切江志龍 Siryu Kirie
 
-### "Inimmortal Jellyfish Etude" 中野迅都 Hayato Nakano
+### "Inimmortal Jellyfish Etude" 
+中野迅都 Hayato Nakano
 
-### "ズカンフ～ザッシ『文化と生物学』" 文化と生物学編集部 Culture and Biology
+### "ズカンフ～ザッシ『文化と生物学』" 
+文化と生物学編集部 Culture and Biology
 
-### "THE HUMAN BIRTH" 古山寧々 Nene Koyama
+### "THE HUMAN BIRTH" 
+古山寧々 Nene Koyama
 
-### "《SILK REEL / REELED HUMAN》" 藤岡慧 Akira Fujioka
+### "《SILK REEL / REELED HUMAN》" 
+藤岡慧 Akira Fujioka
 
 ### "ミジンコ水泳連盟"松村寛季 Tomoki Matsumura
 
