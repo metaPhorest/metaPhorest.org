@@ -71,7 +71,7 @@ https://maps.app.goo.gl/EfgN6Y7ALWRouKEr6
 "Notions Communes" (1)
 
 ### Georg Tremmel
-"©HeLa" （2）
+"©HeLa" (2)
 
 ### 植村和俊 Kazutoshi Uemura
 "Human-(bee)ing" (3)
@@ -83,7 +83,7 @@ https://maps.app.goo.gl/EfgN6Y7ALWRouKEr6
 "ミジンコ水泳連盟" (5)
 
 ### Hanna Saito
-"mutual traces" （6)
+"mutual traces" (6)
 
 ### 秋建太郎 Kentaro Aki
 "苔なずむ" (7)
@@ -101,10 +101,7 @@ https://maps.app.goo.gl/EfgN6Y7ALWRouKEr6
 "Culturing <O/Paper>cut" (11) 
 
 ### 古山寧々 Nene Koyama
-"THE HUMAN BIRTH"  (12)
-
-### 古山寧々 Nene Koyama
-"THE HUMAN BIRTH"  (12)
+"THE HUMAN BIRTH" (12)
 
 ### 米山夏希 Natsuki Yoneyama
 "’Bio’lin" (13)
