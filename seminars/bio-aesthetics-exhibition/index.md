@@ -76,6 +76,7 @@ prev:
 ## 展示会場へのアクセス
 早稲田大学 西早稲田キャンパス
 東京都 新宿区 大久保 3-4-1 55号館 1F アトリウム
+https://maps.app.goo.gl/EfgN6Y7ALWRouKEr6
 ![](/images/event/map_atrium.png)
 
 最寄り駅 1：西早稲田駅（副都心線）
