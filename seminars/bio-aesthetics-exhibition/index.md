@@ -67,49 +67,52 @@ https://maps.app.goo.gl/EfgN6Y7ALWRouKEr6
 ![](/images/event/bio-aesthetics-all.png)
 <img src="/images/event/bio-aesthetics-all2.png" width="150">
 
+### 切江志龍 Siryu Kirie
+"Notions Communes" (1)
+
 ### Georg Tremmel
 "©HeLa" （2）
-
-### Hanna Saito
-"mutual traces" （6)
-
-### Henry Tan
-"Pillars of Creation; Cell Memorial Service"　(10)
-
-### 秋建太郎 Kentaro Aki
-"苔なずむ" (7)
-
-### 岩崎秀雄 Hideo Iwasaki
-"Culturing <O/Paper>cut" (11) 
-
-### 石橋友也 Tomoya Ishibashi
-"南風見田顕微鏡" (9)
 
 ### 植村和俊 Kazutoshi Uemura
 "Human-(bee)ing" (3)
 
-### 片桐萌花 Moeka Katagiri
-"香りで聞くmetaPhorest" 
-
-### 切江志龍 Siryu Kirie
-"Notions Communes" (1)
-
-### 中野迅都 Hayato Nakano
-"Inimmortal Jellyfish Etude" 
-
-### 古山寧々 Nene Koyama
-"THE HUMAN BIRTH"  (12)
-
-### 藤岡慧 Akira Fujioka
-"《SILK REEL / REELED HUMAN》" (8)
+### 「文化と生物学」編集部 Culture and Biology
+"ズカンフ～ザッシ『文化と生物学』" (4)
 
 ### 松村寛季 Tomoki Matsumura
 "ミジンコ水泳連盟" (5)
 
+### Hanna Saito
+"mutual traces" （6)
+
+### 秋建太郎 Kentaro Aki
+"苔なずむ" (7)
+
+### 藤岡慧 Akira Fujioka
+"《SILK REEL / REELED HUMAN》" (8)
+
+### 石橋友也 Tomoya Ishibashi
+"南風見田顕微鏡" (9)
+
+### Henry Tan
+"Pillars of Creation; Cell Memorial Service"　(10)
+
+### 岩崎秀雄 Hideo Iwasaki
+"Culturing <O/Paper>cut" (11) 
+
+### 古山寧々 Nene Koyama
+"THE HUMAN BIRTH"  (12)
+
+### 古山寧々 Nene Koyama
+"THE HUMAN BIRTH"  (12)
+
 ### 米山夏希 Natsuki Yoneyama
 "’Bio’lin" (13)
 
-### 「文化と生物学」編集部 Culture and Biology
-"ズカンフ～ザッシ『文化と生物学』" (4)
+### 片桐萌花 Moeka Katagiri
+"香りで聞くmetaPhorest" 
+
+### 中野迅都 Hayato Nakano
+"Inimmortal Jellyfish Etude" 
 
 
