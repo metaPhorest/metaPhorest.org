@@ -10,7 +10,7 @@ prev:
 2025年12月18日（木）- 12月22日（月）
 
 
-![](/images/event/bio-aesthetics-exhibition_small.png)
+![](/images/event/bio-aesthetics-key.png)
 
 
 ## 生命美学展 2025 開催のお知らせ
@@ -64,7 +64,8 @@ https://maps.app.goo.gl/EfgN6Y7ALWRouKEr6
 
 
 ## 出展アーティストと展示作品
-　
+![](/images/event/bio-aesthetics-key.png）
+
 ### Georg Tremmel
 "©HeLa" 
 
@@ -75,7 +76,7 @@ https://maps.app.goo.gl/EfgN6Y7ALWRouKEr6
 "Pillars of Creation; Cell Memorial Service"　
 
 ### 秋建太郎 Kentaro Aki
-"苔なずむ"　
+"苔なずむ"
 
 ### 岩崎秀雄 Hideo Iwasaki
 "Culturing <O/Paper>cut" 
@@ -84,7 +85,7 @@ https://maps.app.goo.gl/EfgN6Y7ALWRouKEr6
 "南風見田顕微鏡"
 
 ### 植村和俊 Kazutoshi Uemura
-"Human-(bee)ing" 
+"Human-(bee)ing"
 
 ### 片桐萌花 Moeka Katagiri
 "香りで聞くmetaPhorest" 
@@ -95,11 +96,8 @@ https://maps.app.goo.gl/EfgN6Y7ALWRouKEr6
 ### 中野迅都 Hayato Nakano
 "Inimmortal Jellyfish Etude" 
 
-### 文化と生物学編集部 Culture and Biology
-"ズカンフ～ザッシ『文化と生物学』"
-
 ### 古山寧々 Nene Koyama
-"THE HUMAN BIRTH" 
+"THE HUMAN BIRTH"
 
 ### 藤岡慧 Akira Fujioka
 "《SILK REEL / REELED HUMAN》" 
@@ -110,5 +108,7 @@ https://maps.app.goo.gl/EfgN6Y7ALWRouKEr6
 ### 米山夏希 Natsuki Yoneyama
 "’Bio’lin" 
 
+### 「文化と生物学」編集部 Culture and Biology
+"ズカンフ～ザッシ『文化と生物学』"
 
 
