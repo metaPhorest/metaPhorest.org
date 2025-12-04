@@ -64,64 +64,51 @@ https://maps.app.goo.gl/EfgN6Y7ALWRouKEr6
 
 
 ## 出展アーティストと展示作品
+　
+### Georg Tremmel
+"©HeLa" 
 
-### "©HeLa" 
-Georg Tremmel
+### Hanna Saito
+"mutual traces" 
 
+### Henry Tan
+"Pillars of Creation; Cell Memorial Service"　
 
-### "mutual traces" 
+### 秋建太郎 Kentaro Aki
+"苔なずむ"　
 
-Hanna Saito
+### 岩崎秀雄 Hideo Iwasaki
+"Culturing <O/Paper>cut" 
 
-### "Pillars of Creation; Cell Memorial Service"　
-Henry Tan
+### 石橋友也 Tomoya Ishibashi
+"南風見田顕微鏡"
 
+### 植村和俊 Kazutoshi Uemura
+"Human-(bee)ing" 
 
-### "苔なずむ"　
-秋建太郎 Kentaro Aki
+### 片桐萌花 Moeka Katagiri
+"香りで聞くmetaPhorest" 
 
+### 切江志龍 Siryu Kirie
+"Notions Communes" 
 
-### "Culturing <O/Paper>cut" 
-岩崎秀雄 Hideo Iwasaki
+### 中野迅都 Hayato Nakano
+"Inimmortal Jellyfish Etude" 
 
+### 文化と生物学編集部 Culture and Biology
+"ズカンフ～ザッシ『文化と生物学』"
 
-### "南風見田顕微鏡" 
-石橋友也 Tomoya Ishibashi
+### 古山寧々 Nene Koyama
+"THE HUMAN BIRTH" 
 
+### 藤岡慧 Akira Fujioka
+"《SILK REEL / REELED HUMAN》" 
 
-### "Human-(bee)ing" 
-植村和俊 Kazutoshi Uemura
+### 松村寛季 Tomoki Matsumura
+"ミジンコ水泳連盟"
 
+### 米山夏希 Natsuki Yoneyama
+"’Bio’lin" 
 
-### "香りで聞くmetaPhorest" 
-片桐萌花 Moeka Katagiri
-
-
-### "Notions Communes" 
-切江志龍 Siryu Kirie
-
-
-### "Inimmortal Jellyfish Etude" 
-中野迅都 Hayato Nakano
-
-
-### "ズカンフ～ザッシ『文化と生物学』" 
-文化と生物学編集部 Culture and Biology
-
-
-### "THE HUMAN BIRTH" 
-古山寧々 Nene Koyama
-
-
-### "《SILK REEL / REELED HUMAN》" 
-藤岡慧 Akira Fujioka
-
-
-### "ミジンコ水泳連盟"
-松村寛季 Tomoki Matsumura
-
-
-### "’Bio’lin" 
-米山夏希 Natsuki Yoneyama
 
 
