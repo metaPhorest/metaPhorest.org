@@ -9,10 +9,10 @@ prev:
 # セミナー
 
 <Event
-  header = "116th metaPhorest Seminar: ヒロイクミ Kumi Hiroi & 池谷宥太 Yuta Ikeya"
-  date = "2025年12月5日（金）19:00 @Waseda TWIns"
-  link = "/seminars/116"
-  image = "/seminars/116/116.jpeg"
+  header = "117th metaPhorest Seminar: 中山晴奈　Haruna Nakayama & 飯沢未央 Mio Iizawa"
+  date = "2025年12月12日（金）19:00 @Waseda TWIns"
+  link = "/seminars/117"
+  image = "/seminars/117/117.jpg"
 />
 
 ## アーカイブ
@@ -20,6 +20,13 @@ prev:
 ### 2025
 
 [metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
+
+<Event
+  header = "116th metaPhorest Seminar: ヒロイクミ Kumi Hiroi & 池谷宥太 Yuta Ikeya"
+  date = "2025年12月5日（金）19:00 @Waseda TWIns"
+  link = "/seminars/116"
+  image = "/seminars/116/116.jpeg"
+/>
 
 <Event
   header = "115th metaPhorest Seminar: 七沢智樹 Tomoki Nanasawa & 石橋友也 Tomoya Ishibashi"
