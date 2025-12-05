@@ -50,6 +50,7 @@ hero:
   header = "117th metaPhorest Seminar: 中山晴奈 + 飯沢みお"
   date = "2025年12月12日（金）19:00 @Waseda TWIns"
   link = "/seminars/117"
+  image = "/seminars/117/117.jpg"
 />
 
 <Event
