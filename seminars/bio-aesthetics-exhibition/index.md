@@ -33,7 +33,7 @@ prev:
 12月22日（月）10:00 - 17:00
 ::: tip
 12月19日（金）19:00 より、生命美学展2025会場にて"アーティスト トーク (118th metaPhroest Seminar by 塚本隆大)"を開催します。
-ぜひ現地にてご参加ください。
+ぜひ現地にてご参加ください。（link先は後日更新予定）
 <Event
   header = "118th metaPhorest Seminar: 生命美学展 2025 アーティスト トーク by 塚本隆大"
   date = "2025年12月19日（金）19:00 @Nisi-Waseda Campus, Bldg. 55 1F Atrium"
