@@ -38,20 +38,13 @@ hero:
 ## 次回のmetaPhorestセミナー
 
 <Event
-  header = "116th metaPhorest Seminar: ヒロイクミ Kumi Hiroi & 池谷宥太 Yuta Ikeya"
-  date = "2025年12月5日（金）19:00 @Waseda TWIns"
-  link = "/seminars/116"
-  image = "/seminars/116/116.jpeg"
-/>
-
-### 今後のmetaPhorestセミナー
-
-<Event
   header = "117th metaPhorest Seminar: 中山晴奈 + 飯沢みお"
   date = "2025年12月12日（金）19:00 @Waseda TWIns"
   link = "/seminars/117"
   image = "/seminars/117/117.jpg"
 />
+
+### 今後のmetaPhorestセミナー
 
 <Event
   header = "118th metaPhorest Seminar: 生命美学展 2025 アーティスト トーク by 塚本隆大"
