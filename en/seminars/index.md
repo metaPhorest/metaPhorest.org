@@ -11,6 +11,13 @@ outline: deep
 ## Upcoming
 
 <Event
+  header = "117th metaPhorest Seminar: Haruna Nakayama & Mio Iizawa"
+  date = "December 5th, 2025 (Friday) 19:00 @Waseda TWIns"
+  link = "/en/seminars/117"
+  image = "/seminars/117/117.jpg"
+/>
+
+<Event
   header = "116th metaPhorest Seminar: Kumi Hiroi & Yuta Ikeya"
   date = "December 5th, 2025 (Friday) 19:00 @Waseda TWIns"
   link = "/en/seminars/116"
