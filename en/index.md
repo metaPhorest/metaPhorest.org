@@ -33,7 +33,7 @@ hero:
   header = "Bioaesthetics Exhibition　2025"
   date = "December 18 (Fri) - December 22 (Mon), 2025 @ Waseda University, Nishi-Waseda Campus"
   link = "/seminars/bio-aesthetics-exhibition"
-  image = "/images/event/bio-aesthetics-exhibition_small.png"
+  image = "/images/event/bio-aesthetics-key.png"
 />
 
 ## Next Event
