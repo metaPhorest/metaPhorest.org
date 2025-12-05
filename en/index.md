@@ -42,6 +42,7 @@ hero:
   header = "117th metaPhorest Seminar: Mio Iizawa"
   date = "December 12th, 2025（Friday）19:00 @Waseda TWIns"
   link = "/en/seminars/117"
+  image = "/seminars/117/117.jpg"
 />
 
 ### Future metaPhorest Seminar
