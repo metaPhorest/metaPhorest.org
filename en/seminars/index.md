@@ -17,6 +17,10 @@ outline: deep
   image = "/seminars/117/117.jpg"
 />
 
+## Archive
+
+### 2025
+
 <Event
   header = "116th metaPhorest Seminar: Kumi Hiroi & Yuta Ikeya"
   date = "December 5th, 2025 (Friday) 19:00 @Waseda TWIns"
@@ -30,10 +34,6 @@ outline: deep
   link = "/en/seminars/115"
   image = "/seminars/115/115.jpeg"
 />
-
-## Archive
-
-### 2025
 
 <Event
   header = "114th metaPhorest Seminar: Shota Okabe hosted by AKI INOMATA"
