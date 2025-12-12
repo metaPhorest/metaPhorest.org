@@ -14,7 +14,7 @@ prev:
 
 
 
-## 118th metaPhorest Seminar by 塚本隆大 "「生命を用いたアート」の論点を考える - 精度・倫理・多種のエージェンシーの観点からー" 
+## 118th metaPhorest Seminar by 塚本隆大: アーティスト・トーク「生命を用いたアート」の論点を考える - 精度・倫理・多種のエージェンシーの観点からー" 
 
 #### This event will be primarily in Japanese, but questions and comments in English are also welcome.
 近年、合成生物学の発展、あるいは気候危機や人新世の潮流などから、生命を作品の題材・素材とする多くの芸術実践がなされています。
