@@ -31,20 +31,13 @@ hero:
 ## 次回のmetaPhorestセミナー
 
 <Event
-  header = "117th metaPhorest Seminar: 中山晴奈 + 飯沢みお"
-  date = "2025年12月12日（金）19:00 @Waseda TWIns"
-  link = "/seminars/117"
-  image = "/seminars/117/117.jpg"
-/>
-
-### 今後のmetaPhorestセミナー
-
-<Event
   header = "118th metaPhorest Seminar by 塚本隆大: アーティスト・トーク「生命を用いたアート」の論点を考える-制度・倫理・他種のエージェンシーの観点から-"
   date = "2025年12月19日（金）19:00 @Nisi-Waseda Campus, Bldg. 55 1F Atrium"
   image = "/seminars/118/118-2.png"
   link = "/seminars/118"
 />
+
+### 今後のmetaPhorestセミナー
 
 <Event
   header = "119th metaPhorest Seminar: 切江志龍 + 安村俊介"
