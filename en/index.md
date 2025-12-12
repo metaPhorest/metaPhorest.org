@@ -32,20 +32,13 @@ hero:
 ## Next Event
 
 <Event
-  header = "117th metaPhorest Seminar: Mio Iizawa"
-  date = "December 12th, 2025（Friday）19:00 @Waseda TWIns"
-  link = "/en/seminars/117"
-  image = "/seminars/117/117.jpg"
-/>
-
-### Future metaPhorest Seminar
-
-<Event
   header = "118th metaPhorest Seminar: Bioaesthetics Exhibition 2025 Artist Talk by Takahiro Tsukamoto"
   date = "December 19th, 2025（Friday） @Nisi-Waseda Campus, Bldg. 55 1F Atrium"
   link = "/seminars/118"
   image = "/seminars/118/118-2.png"
 />
+
+### Future metaPhorest Seminar
 
 <Event
   header = "119th metaPhorest Seminar: Siryu Kirie + Shunsuke Yasumura"
