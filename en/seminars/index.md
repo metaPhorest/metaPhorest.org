@@ -11,15 +11,21 @@ outline: deep
 ## Upcoming
 
 <Event
-  header = "117th metaPhorest Seminar: Haruna Nakayama & Mio Iizawa"
-  date = "December 5th, 2025 (Friday) 19:00 @Waseda TWIns"
-  link = "/en/seminars/117"
-  image = "/seminars/117/117.jpg"
+  header = "118th metaPhorest Seminar: Bioaesthetics Exhibition 2025 by Takahiro Tsukamoto"
+  date = "December 19th, 2025 (Friday) 19:00 @Waseda Univ. Nisi-Waseda Campus Bldg.55 1F Atrium"
+  link = "/en/seminars/118"
+  image = "/seminars/117/118-2.png"
 />
 
 ## Archive
 
 ### 2025
+<Event
+  header = "117th metaPhorest Seminar: Haruna Nakayama & Mio Iizawa"
+  date = "December 12th, 2025 (Friday) 19:00 @Waseda TWIns"
+  link = "/en/seminars/117"
+  image = "/seminars/117/117.jpg"
+/>
 
 <Event
   header = "116th metaPhorest Seminar: Kumi Hiroi & Yuta Ikeya"
