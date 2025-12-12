@@ -40,8 +40,9 @@ hero:
 ### 今後のmetaPhorestセミナー
 
 <Event
-  header = "118th metaPhorest Seminar: 生命美学展 2025 アーティスト トーク by 塚本隆大"
+  header = "118th metaPhorest Seminar by 塚本隆大「生命を用いたアート」の論点を考える-制度・倫理・他種のエージェンシーの観点から-"
   date = "2025年12月19日（金）19:00 @Nisi-Waseda Campus, Bldg. 55 1F Atrium"
+  image = "/seminars/118/118.jpg"
   link = "/seminars/118"
 />
 
