@@ -10,7 +10,7 @@ prev:
 
 2026年1月9日（金）19:00-20:40
 
-![](/public/seminars/118/118-2.png)
+![](/public/seminars/119/119.png)
 
 
 
