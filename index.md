@@ -19,32 +19,19 @@ hero:
 
 ---
 
-## 開催中のイベント
-
-<Event
-  header = "生命美学展　2025"
-  date = "2025年12月18日（金）- 12月22日（月） @早稲田大学 西早稲田キャンパス"
-  link = "/seminars/bio-aesthetics-exhibition"
-  image = "/images/event/bio-aesthetics-key.png"
-/>
 
 ## 次回のmetaPhorestセミナー
 
 <Event
-  header = "118th metaPhorest Seminar by 塚本隆大: アーティスト・トーク「生命を用いたアート」の論点を考える-制度・倫理・他種のエージェンシーの観点から-"
-  date = "2025年12月19日（金）19:00 @Nisi-Waseda Campus, Bldg. 55 1F Atrium"
-  image = "/seminars/118/118-2.png"
-  link = "/seminars/118"
+  header = "119th metaPhorest Seminar: 切江志龍 + 安村俊介"
+  date = "2025年1月9日（金）19:00 @Waseda TWIns"
+  image = "/seminars/119/119.jpg"
+  link = "/seminars/119"
 />
 
 ### 今後のmetaPhorestセミナー
 
-<Event
-  header = "119th metaPhorest Seminar: 切江志龍 + 安村俊介"
-  date = "2025年1月9日（金）19:00 @Waseda TWIns"
-  image = "/seminars/119/119.png"
-  link = "/seminars/119"
-/>
+
 
 ## metaPhorest FaceBook
 
