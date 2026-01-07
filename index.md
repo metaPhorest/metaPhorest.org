@@ -23,7 +23,7 @@ hero:
 ## 次回のmetaPhorestセミナー
 
 <Event
-  header = "119th metaPhorest Seminar: 切江志龍 + 安村俊介"
+  header = "119th metaPhorest Seminar by 安村俊介"
   date = "2025年1月9日（金）19:00 @Waseda TWIns"
   image = "/seminars/119/119.jpg"
   link = "/seminars/119"
