@@ -9,10 +9,10 @@ prev:
 # セミナー
 
 <Event
-  header = "118th metaPhorest Seminar by 塚本隆大: アーティスト・トーク「生命を用いたアート」の論点を考える-制度・倫理・他種のエージェンシーの観点から-"
-  date = "2025年12月19日（金）19:00 @早稲田大学 西早稲田キャンパス 55号館 1F アトリウム"
-  link = "/seminars/118"
-  image = "/seminars/118/118-2.png"
+  header = "118th metaPhorest Seminar by 安村俊介"
+  date = "2026年1月9日（金）19:00 @Waseda TWIns"
+  link = "/seminars/119"
+  image = "/seminars/119/119.jpg"
 />
 
 ## アーカイブ
@@ -20,6 +20,13 @@ prev:
 ### 2025
 
 [metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
+
+<Event
+  header = "118th metaPhorest Seminar by 塚本隆大: アーティスト・トーク「生命を用いたアート」の論点を考える-制度・倫理・他種のエージェンシーの観点から-"
+  date = "2025年12月19日（金）19:00 @早稲田大学 西早稲田キャンパス 55号館 1F アトリウム"
+  link = "/seminars/118"
+  image = "/seminars/118/118-2.png"
+/>
 
 <Event
   header = "117th metaPhorest Seminar: 中山晴奈　Haruna Nakayama & 飯沢未央 Mio Iizawa"
