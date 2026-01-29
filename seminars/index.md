@@ -6,14 +6,23 @@ prev:
   link: '/seminars/'
 ---
 
+# 近日開催するevent
+
 <Event
-  header = "渋谷川 暗渠 - Silent Neighborsプロジェクト ワークショップ"
-  date = "2025年12月6日（土）13:00 @東京大学　弥生キャンパス"
-  link = "/seminars/shibuyagawa"
-  image = "/images/event/shibuyagawa_small.png"
+  header = "渋谷川 暗渠 - Silent Neighborsプロジェクト "
+  date = "2026年xxxxx"
+  link = "/seminars/shibuyagawa_silentneighbors"
 />
 
 # セミナー
+
+
+
+## アーカイブ
+
+### 2025
+
+[metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 <Event
   header = "118th metaPhorest Seminar by 安村俊介"
@@ -21,12 +30,6 @@ prev:
   link = "/seminars/119"
   image = "/seminars/119/119.jpg"
 />
-
-## アーカイブ
-
-### 2025
-
-[metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 <Event
   header = "118th metaPhorest Seminar by 塚本隆大: アーティスト・トーク「生命を用いたアート」の論点を考える-制度・倫理・他種のエージェンシーの観点から-"
