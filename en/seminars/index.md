@@ -4,11 +4,23 @@ outline: deep
 ---
 
 
+# Future event
+
+<Event
+  header = "Shibuya-gawa river silent neighbors project "
+  date = "2026,xxxxx"
+  link = "/seminars/shibuyagawa_silentneighbors"
+/>
+
 # Seminars
 
 [metaPhorest YouTube Archive](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 ## Upcoming
+
+
+## Archive
+
 
 <Event
   header = "118th metaPhorest Seminar: Bioaesthetics Exhibition 2025 by Takahiro Tsukamoto"
@@ -17,9 +29,8 @@ outline: deep
   image = "/seminars/117/118-2.png"
 />
 
-## Archive
-
 ### 2025
+
 <Event
   header = "117th metaPhorest Seminar: Haruna Nakayama & Mio Iizawa"
   date = "December 12th, 2025 (Friday) 19:00 @Waseda TWIns"
