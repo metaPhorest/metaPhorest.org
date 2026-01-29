@@ -20,8 +20,15 @@ hero:
 
 ---
 
-## Next Event
+# Future event
 
+<Event
+  header = "Shibuya-gawa river silent neighbors project "
+  date = "2026,xxxxx"
+  link = "/seminars/shibuyagawa_silentneighbors"
+/>
+
+## latest Event
 
 <Event
   header = "119th metaPhorest Seminar: Siryu Kirie + Shunsuke Yasumura"
