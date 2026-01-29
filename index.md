@@ -19,8 +19,16 @@ hero:
 
 ---
 
+### 近日開催のmetaPhorest event
 
-## 次回のmetaPhorestセミナー
+<Event
+  header = "渋谷川 暗渠 - Silent Neighborsプロジェクト ワークショップ"
+  date = "2025年12月6日（土）13:00 @東京大学　弥生キャンパス"
+  link = "/seminars/shibuyagawa"
+  image = "/images/event/shibuyagawa_small.png"
+/>
+
+## 前回のmetaPhorestセミナー
 
 <Event
   header = "119th metaPhorest Seminar by 安村俊介"
