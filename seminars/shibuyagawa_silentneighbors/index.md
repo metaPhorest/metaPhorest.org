@@ -7,45 +7,38 @@ prev:
 ---
 
 
-# 【【新ページ】】渋谷川 暗渠 ― “Silent Neighbors”プロジェクト ワークショップ開催のお知らせ
+# Silent Neighbors: Encounters with the Inhabitants of the Shibuya River
 
 変更するページ
 
 ![](/public/images/event/shibuyagawa.jpg)
 
 
-## 渋谷川 暗渠 ― “Silent Neighbors”プロジェクト
+## Exhibition Concept
 
-東急株式会社と生命美学プラットフォーム metaPhorest が共催する
-“Silent Neighbors 〜渋谷川に棲まうものたちとの邂逅” プロジェクトの一環として、
-渋谷川の暗渠をテーマにしたトーク＆VRワークショップを開催します。
-普段は地面の下を静かに流れる「見えない川」。
-そんな川を 感じる／記憶する／未来へ語り継ぐ ことをテーマに、
-暗渠研究家・本田創先生（都市暗渠研究者）を迎え、都市の自然と人間の関係を探ります。
-当日は、VR空間で地下を流れる渋谷川を体験できるコンテンツも予定しています。
+Even in the Shibuya River—an urban waterway seemingly encased in concrete—diverse living organisms continues to thrive. This work shines a light on the activities of microorganisms and small creatures inhabiting the underwater depths and revetments, spaces that often go unnoticed by the human eye. Through the use of multiple cameras and microscopic observation, these hidden lives are visualized and brought to the surface. By integrating real-time footage, environmental soundscapes, and projections, the installation bridges the gap between the city’s passersby and its invisible ecosystem, offering a transformative perceptual experience of the Shibuya River.
 
 
-### 開催概要 
-日程：2025年12月6日（土）
-時間：13:00〜17:00（途中参加・退出自由）
-会場：東京大学　弥生キャンパス
-  1. 講演/トークセッション：弥生講堂アネックス研究棟講義室
-  2. VR体験：弥生講堂 一条ホール
-参加費：無料
+## Art Works
 
-::: 申し込みフォーム 
-https://docs.google.com/forms/d/e/1FAIpQLSdP8WoDLjScfZXfXid_OZu7rDWstAWF0YsR-oMDu6IKTeSsEA/viewform
-:::
+### ① Multi-Scale Scanning: A Record of the Ecosystem Hidden in the Shibuya River
+This work visualizes the underwater ecosystem of the Shibuya River, rarely seen by the public, using footage from biological surveys and microscopic observations. It records the river's activities from three distinct perspectives—“a bird's-eye view from land,” “scenes beneath the water,” and “the microscopic world under the microscope”—and projects them onto a screen on the river's surface. It presents the presence of an ecosystem existing in the heart of the city as a single visual experience. Through these three viewpoints, it records the movements of microscopic organisms easily overlooked by the naked eye and traces of life hidden within the riverbank's protective structures.
 
+### ② Interactive Float
+Based on the Shibuya River's flow velocity data for that day, a visual representation of the water current appears on the river's surface.
+Thus, the river's movement and speed—difficult to perceive in the nighttime urban space—are visualized as a digital flow of light, emerging as a perceptible presence within the city.
+The projected water current synchronizes with the actual river's inherent rhythm and direction, also serving as an indicator for reading the flow.
 
-### プログラム
-  1. 13時10分：本田先生ご講演 
-  2. ﻿﻿13時50分：トークセッション「見えない川と都市の記憶」
-  3. 15時15分：暗渠の地図を使った都市探索VR 体験ワークショップ
+### ③ Shibuya River Microscope
+Various man-made objects have found their way into urban rivers, becoming part of the environment. This work involves constructing a homemade microscope using waste collected from the Shibuya River to observe its water. The lens repurposes a broken smartphone, while the stand incorporates microphone stands and metal fittings from platform boots—elements evoking Shibuya's identity as a cultural hub. Observing the river's water through this microscope allows us to traverse between the world of artificial objects that compose urban life and the microscopic world unfolding within the water—navigating the space between nature and culture.
 
-※1と2は弥生講堂アネックス研究棟講義室、3は弥生講堂 一条ホールにて開催
+### ④ Revetment Spirits
+Along the banks of the Shibuya River, numerous drainage channels help divert rainwater and maintain the river's flow. Look closely, and you'll notice each channel has its own unique character. From the drainage channels downward, deposits spread out in a flared pattern, displaying various colors like black, dark brown, yellow-green, deep green, and white. Here, a small yet rich ecosystem thrives, gathering numerous microorganisms, algae, plants, and protozoa. Don't they look like spirits wearing cloaks, with the drainage ditch as their head? At night, they take turns being illuminated. It's delightful when you happen upon your favorite spirit.
 
+### ⑤ Urban Microbial Ecologies
+Beneath the surface, algae and man-made objects (like paper) intertwine, creating a strangely fascinating scene that unfolds unseen. This hybrid “nature,” unique to the city, may be nurturing its own distinct microbial ecosystem. Based on this hypothesis, we are conducting microscopic observations and DNA analysis to investigate what kinds of microorganisms have taken up residence. We are also advancing DNA analysis on the colorful ‘Revetment Spirits’.
 
-### 共催・協力
-共催：東急株式会社 / 生命美学プラットフォーム metaPhorest
-協力：東急株式会社 / 早稲田大学 岩崎秀雄研究室
+### Co-hosted and Supported by
+Co-hosted by: Tokyu Corporation / metaPhorest
+Supported by: Tokyu Corporation / Waseda University, Hideo Iwasaki Laboratory
+
