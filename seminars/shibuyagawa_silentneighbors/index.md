@@ -9,10 +9,6 @@ prev:
 
 # Silent Neighbors: Encounters with the Inhabitants of the Shibuya River
 
-変更するページ
-
-![](/public/images/event/shibuyagawa.jpg)
-
 
 ## Exhibition Concept
 
