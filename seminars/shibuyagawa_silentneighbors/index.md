@@ -55,7 +55,6 @@ onpa 羽生和仁
 　文化庁
 ・共催　
 　渋谷区
-出典：https://digshibuya.com/about
 
 ::: tip DIG SHIBUYA リンク
 https://digshibuya.com/program/2088?fbclid=IwY2xjawP79TxleHRuA2FlbQIxMQBicmlkETE2Y1RMRk5WOTVBdXlndVNWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmIuH9AJmEy2C8eKRYAByzMNsmyltYm-ektJlOK8v5YpYirCTvqPJQ8LAAjA_aem_mbUQ8qiKuUpGLA_4Ag13Yg
