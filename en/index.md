@@ -23,8 +23,9 @@ hero:
 # Future event
 
 <Event
-  header = "Shibuya-gawa river silent neighbors project "
-  date = "2026,xxxxx"
+  header = "Silent Neighbors: Encounters with the Inhabitants of the Shibuya River"
+  date = "February 13-15, 2026"
+  images = "images/event/silent_neighbors.png"
   link = "/seminars/shibuyagawa_silentneighbors"
 />
 
