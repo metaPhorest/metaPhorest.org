@@ -22,8 +22,8 @@ hero:
 ### 近日開催のmetaPhorest event
 
 <Event
-  header = "渋谷川 暗渠 - Silent Neighborsプロジェクト"
-  date = "2026年xxxxxxxx"
+  header = "Silent Neighbors -渋谷川に棲まうものたちとの邂逅-"
+  date = "2026年2月13日,14日,15日"
   link = "/seminars/shibuyagawa_silentneighbors"
 />
 
