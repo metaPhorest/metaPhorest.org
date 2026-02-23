@@ -40,6 +40,13 @@ hero:
 ### 過去のmetaPhorest event
 
 <Event
+  header = "Silent Neighbors -渋谷川に棲まうものたちとの邂逅-"
+  date = "2026年2月13日,14日,15日"
+  image = "/images/event/silent_neighbors.png"
+  link = "/seminars/shibuyagawa_silentneighbors"
+/>
+
+<Event
   header = "渋谷川 暗渠 - Silent Neighborsプロジェクト ワークショップ"
   date = "2025年12月6日（土）13:00 @東京大学　弥生キャンパス"
   link = "/seminars/shibuyagawa"
