@@ -20,7 +20,13 @@ prev:
 3/16（月）のmetaPhorestセミナーでは、科学と芸術にまたがるメディアアートの第一人者である久保田晃弘さんをゲストにお招きし、近年取り組まれている量子芸術などについてお話しいただきます。
 
 ### 日時・場所 
-2026年3月16日 (月) 19:00–21:00 @Waseda TWIns
+2026年3月16日 (月) 19:00–21:00
+早稲田大学 先端生命医科学研究施設（TWIns）3F セミナールーム3
+https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
+
+::: tip ONLINE （映像の画質は悪いため、可能な方はぜひ現地へお越しください）
+This seminar can also be held online. [Zoom Link](https://zoom.metaphorest.org)
+:::
 
 #### 「自然計算機としての量子コンピュータ（と芸術）」
 久保田晃弘
