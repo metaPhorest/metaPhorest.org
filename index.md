@@ -22,10 +22,10 @@ hero:
 ### 近日開催のmetaPhorest event
 
 <Event
-  header = "Silent Neighbors -渋谷川に棲まうものたちとの邂逅-"
-  date = "2026年2月13日,14日,15日"
-  image = "/images/event/silent_neighbors.png"
-  link = "/seminars/shibuyagawa_silentneighbors"
+ header = "120th metaPhorest Seminar by 久保田晃弘 Kubota Akihiro"
+  date = "2025年3月16日（金）19:00 @Waseda TWIns"
+  image = "/seminars/120/120.jpg"
+  link = "/seminars/120"
 />
 
 ## 前回のmetaPhorestセミナー
