@@ -14,7 +14,7 @@ prev:
 
 
 
-## 120th metaPhorest Seminar by 久保田晃弘
+## 120th metaPhorest Seminar by 久保田晃弘 Kubota Akihiro
 
 #### This event will be primarily in Japanese, but questions and comments in English are also welcome.
 3/16（月）のmetaPhorestセミナーでは、科学と芸術にまたがるメディアアートの第一人者である久保田晃弘さんをゲストにお招きし、近年取り組まれている量子芸術などについてお話しいただきます。
