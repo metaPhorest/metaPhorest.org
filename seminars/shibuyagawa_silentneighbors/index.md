@@ -85,7 +85,7 @@ Along the banks of the Shibuya River, numerous drainage channels help divert rai
 ### ⑤ Chimeric Bioflora: Urban Microbial Ecologies
 Beneath the surface, algae and man-made objects (like paper) intertwine, creating a strangely fascinating scene that unfolds unseen. This hybrid “nature,” unique to the city, may be nurturing its own distinct microbial ecosystem. Based on this hypothesis, we are conducting microscopic observations and DNA analysis to investigate what kinds of microorganisms have taken up residence. We are also advancing DNA analysis on the colorful ‘Revetment Spirits’.
 
-### Co-hosted and Supported by
+### Co-hosted by
 metaPhorest (Shibuya-river-team: Tomoki Matsumura, Akira Fujioka, Hanna Saito, Toru Nakajima, Tomoya Ishibashi & Hideo Iwasaki) and Tokyu Corporation
 
 ### Project Manager
