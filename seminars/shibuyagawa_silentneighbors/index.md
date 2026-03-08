@@ -12,6 +12,7 @@ prev:
 
 ### Silent Neighbors – 渋谷川に棲まうものたちとの邂逅 –
 
+[English below]
 東急株式会社と生命美学プラットフォームmetaPhorestが主催する”Silent Neighbors – 渋谷川に棲まうものたちとの邂逅 –”の作品展示が行われます。
 2月13日〜2月15日に開催される「DIG SHIBUYA 2026」のOfficial Partner Programとして、渋谷リバーストリートにて展示されます。
 是非お越しくださいませ。
@@ -60,7 +61,7 @@ onpa 羽生和仁
 https://digshibuya.com/program/2088?fbclid=IwY2xjawP79TxleHRuA2FlbQIxMQBicmlkETE2Y1RMRk5WOTVBdXlndVNWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmIuH9AJmEy2C8eKRYAByzMNsmyltYm-ektJlOK8v5YpYirCTvqPJQ8LAAjA_aem_mbUQ8qiKuUpGLA_4Ag13Yg
 :::
 
-## Exhibition Concept
+## Concept
 
 Even in the Shibuya River—an urban waterway seemingly encased in concrete—diverse living organisms continues to thrive. This work shines a light on the activities of microorganisms and small creatures inhabiting the underwater depths and revetments, spaces that often go unnoticed by the human eye. Through the use of multiple cameras and microscopic observation, these hidden lives are visualized and brought to the surface. By integrating real-time footage, environmental soundscapes, and projections, the installation bridges the gap between the city’s passersby and its invisible ecosystem, offering a transformative perceptual experience of the Shibuya River.
 
@@ -81,10 +82,14 @@ Various man-made objects have found their way into urban rivers, becoming part o
 ### ④ Revetment Spirits
 Along the banks of the Shibuya River, numerous drainage channels help divert rainwater and maintain the river's flow. Look closely, and you'll notice each channel has its own unique character. From the drainage channels downward, deposits spread out in a flared pattern, displaying various colors like black, dark brown, yellow-green, deep green, and white. Here, a small yet rich ecosystem thrives, gathering numerous microorganisms, algae, plants, and protozoa. Don't they look like spirits wearing cloaks, with the drainage ditch as their head? At night, they take turns being illuminated. It's delightful when you happen upon your favorite spirit.
 
-### ⑤ Urban Microbial Ecologies
+### ⑤ Chimeric Bioflora: Urban Microbial Ecologies
 Beneath the surface, algae and man-made objects (like paper) intertwine, creating a strangely fascinating scene that unfolds unseen. This hybrid “nature,” unique to the city, may be nurturing its own distinct microbial ecosystem. Based on this hypothesis, we are conducting microscopic observations and DNA analysis to investigate what kinds of microorganisms have taken up residence. We are also advancing DNA analysis on the colorful ‘Revetment Spirits’.
 
 ### Co-hosted and Supported by
-Co-hosted by: Tokyu Corporation / metaPhorest
-Supported by: Tokyu Corporation / Waseda University, Hideo Iwasaki Laboratory
+Co-hosted by: Tokyu Corporation and metaPhorest (Tomoki Matsumura, Akira Fujioka, Hanna Saito, Toru Nakajima, Tomoya Ishibashi & Hideo Iwasaki)
+Project Manager: onpa (Kazuhito Habu)
+Collaboration/Support: Hideo Iwasaki Lab (Waseda University), TASKO Inc. (display setting, tech support, illumination), BIOTA Inc. (metagenomic analysis), TOWAIEIZO Inc. (camera/movie support in aquatic area), Metaverse Nature Technologies Inc. (VR support), So Honda (ditch/culvert researcher), and Kakenhi Grant-in-Aid for Scientific Research (B) ‘The Aesthetics of More Than Human’
 
+
+### DIG SHIBUYA
+Co-organizers: SHIBUYA CREATIVE TECH Executive Committee, Japan Arts Council, Agency for Cultural Affairs, and the Shibuya Ward
