@@ -86,10 +86,13 @@ Along the banks of the Shibuya River, numerous drainage channels help divert rai
 Beneath the surface, algae and man-made objects (like paper) intertwine, creating a strangely fascinating scene that unfolds unseen. This hybrid “nature,” unique to the city, may be nurturing its own distinct microbial ecosystem. Based on this hypothesis, we are conducting microscopic observations and DNA analysis to investigate what kinds of microorganisms have taken up residence. We are also advancing DNA analysis on the colorful ‘Revetment Spirits’.
 
 ### Co-hosted and Supported by
-Co-hosted by: Tokyu Corporation and metaPhorest (Tomoki Matsumura, Akira Fujioka, Hanna Saito, Toru Nakajima, Tomoya Ishibashi & Hideo Iwasaki)
-Project Manager: onpa (Kazuhito Habu)
-Collaboration/Support: Hideo Iwasaki Lab (Waseda University), TASKO Inc. (display setting, tech support, illumination), BIOTA Inc. (metagenomic analysis), TOWAIEIZO Inc. (camera/movie support in aquatic area), Metaverse Nature Technologies Inc. (VR support), So Honda (ditch/culvert researcher), and Kakenhi Grant-in-Aid for Scientific Research (B) ‘The Aesthetics of More Than Human’
+Tokyu Corporation and metaPhorest (Tomoki Matsumura, Akira Fujioka, Hanna Saito, Toru Nakajima, Tomoya Ishibashi & Hideo Iwasaki)
 
+### Project Manager
+onpa (Kazuhito Habu)
+
+### Collaboration/Support
+Hideo Iwasaki Lab (Waseda University), TASKO Inc. (display setting, tech support, illumination), BIOTA Inc. (metagenomic analysis), TOWAIEIZO Inc. (camera/movie support in aquatic area), Metaverse Nature Technologies Inc. (VR support), So Honda (ditch/culvert researcher), and Kakenhi Grant-in-Aid for Scientific Research (B) ‘The Aesthetics of More Than Human’
 
 ### DIG SHIBUYA
 Co-organizers: SHIBUYA CREATIVE TECH Executive Committee, Japan Arts Council, Agency for Cultural Affairs, and the Shibuya Ward
