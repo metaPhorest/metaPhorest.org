@@ -8,7 +8,7 @@ prev:
 
 # 120th metaPhorest セミナー
 
-2026年3月16日（金）19:00-20:40
+2026年3月16日（月）19:00-20:40
 
 ![](/public/seminars/120/120.jpg)
 
@@ -17,11 +17,11 @@ prev:
 ## 120th metaPhorest Seminar by 久保田晃弘 Kubota Akihiro
 
 #### This event will be primarily in Japanese, but questions and comments in English are also welcome.
-3/16（月）のmetaPhorestセミナーでは、科学と芸術にまたがるメディアアートの第一人者である久保田晃弘さんをゲストにお招きし、近年取り組まれている量子芸術などについてお話しいただきます。
+3/16（月）のmetaPhorestセミナーでは、バイオ、宇宙から量子まで、科学と芸術にまたがるメディアアートの第一人者であり、metaPhorest創設時から折に触れてご協力いただいてきた久保田晃弘さんをゲストにお招きし、近年取り組まれている量子芸術などについてお話しいただきます！　貴重なお話を伺える機会と思いますので、ぜひご参加ください。
 
 ### 日時・場所 
 2026年3月16日 (月) 19:00–21:00
-早稲田大学 先端生命医科学研究施設（TWIns）3F セミナールーム3
+早稲田大学 先端生命医科学研究施設（TWIns）3F セミナールーム2（いつもと違う部屋です。施設と階は同じです）
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
 
 ::: tip ONLINE （映像の画質は悪いため、可能な方はぜひ現地へお越しください）
