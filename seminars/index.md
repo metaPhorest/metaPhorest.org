@@ -8,13 +8,6 @@ prev:
 
 # 近日開催するevent
 
-<Event
-  header = "Silent Neighbors -渋谷川に棲まうものたちとの邂逅"
-  date = "2026年2月13日,14日,15日"
-  image = "images/event/silent_neighbors.png"
-  link = "/seminars/shibuyagawa_silentneighbors"
-/>
-
 # セミナー
 
 
