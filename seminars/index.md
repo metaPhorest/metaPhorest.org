@@ -19,7 +19,14 @@ prev:
 [metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 <Event
-  header = "118th metaPhorest Seminar by 安村俊介"
+  header = "120th metaPhorest Seminar by 久保田晃弘 Kubota Akihiro"
+  date = "2026年3月16日（金）19:00 @Waseda TWIns"
+  link = "/seminars/120"
+  image = "/seminars/120/120.jpg"
+/>
+
+<Event
+  header = "119th metaPhorest Seminar by 安村俊介"
   date = "2026年1月9日（金）19:00 @Waseda TWIns"
   link = "/seminars/119"
   image = "/seminars/119/119.jpg"
