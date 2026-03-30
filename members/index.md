@@ -136,11 +136,14 @@ _アルファベット順:_
 
 - Shiho Fukuhara
 - [Aki Inomata](aki-inomata)
-- Moeka Katagiri
 - [切江志龍](shiryu-kirie)
 - [藤岡慧](toshio-fujioka)
 - [植村和俊](kazutoshi-uemura)
 - Natsuki Yoneyama
+- Moeka Katagiri
+- Nene Koyama
+- Sayuri Shimizu
+- Rino Komiyama
 
 <br /><br />
 
