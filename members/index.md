@@ -140,7 +140,7 @@ _アルファベット順:_
 - [藤岡慧](toshio-fujioka)
 - [植村和俊](kazutoshi-uemura)
 - Natsuki Yoneyama
-- Moeka Katagiri
+- [片桐萌花](moeka-katagiri)
 - Nene Koyama
 - Sayuri Shimizu
 - Rino Komiyama
