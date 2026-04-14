@@ -142,7 +142,7 @@ _アルファベット順:_
 - Natsuki Yoneyama
 - [片桐萌花](moeka-katagiri)
 - [古山寧々  koyama nene](nene-koyama)
-- Sayuri Shimizu
+- [清水さゆり](sayuri-shimizu)
 - Rino Komiyama
 
 <br /><br />
