@@ -141,7 +141,7 @@ _アルファベット順:_
 - [植村和俊](kazutoshi-uemura)
 - Natsuki Yoneyama
 - [片桐萌花](moeka-katagiri)
-- Nene Koyama
+- [古山寧々  koyama nene](nene-koyama)
 - Sayuri Shimizu
 - Rino Komiyama
 
