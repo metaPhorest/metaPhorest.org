@@ -143,7 +143,7 @@ _アルファベット順:_
 - [片桐萌花](moeka-katagiri)
 - [古山寧々  koyama nene](nene-koyama)
 - [清水さゆり](sayuri-shimizu)
-- Rino Komiyama
+- [小宮山凜乃](rino-komiyama)
 
 <br /><br />
 
