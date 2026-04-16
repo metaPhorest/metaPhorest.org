@@ -22,19 +22,19 @@ hero:
 ### 近日開催のmetaPhorest event
 
 <Event
- header = "120th metaPhorest Seminar by 久保田晃弘 Kubota Akihiro"
-  date = "2025年3月16日（金）19:00 @Waseda TWIns"
-  image = "/seminars/120/120.jpg"
-  link = "/seminars/120"
+ header = "121st metaPhorest Seminar by 上田麻希 Maki Ueda"
+  date = "2026年4月30日（木）19:00 @Waseda TWIns"
+  image = "/seminars/121/121.jpg"
+  link = "/seminars/121"
 />
 
 ## 前回のmetaPhorestセミナー
 
 <Event
-  header = "119th metaPhorest Seminar by 安村俊介"
-  date = "2025年1月9日（金）19:00 @Waseda TWIns"
-  image = "/seminars/119/119.jpg"
-  link = "/seminars/119"
+ header = "120th metaPhorest Seminar by 久保田晃弘 Kubota Akihiro"
+  date = "2025年3月16日（金）19:00 @Waseda TWIns"
+  image = "/seminars/120/120.jpg"
+  link = "/seminars/120"
 />
 
 ### 過去のmetaPhorest event
