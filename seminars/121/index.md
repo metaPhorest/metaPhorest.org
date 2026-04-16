@@ -39,7 +39,7 @@ https://ccbt.rekibun.or.jp/art-incubation/47468
 ZINEダウンロード
 https://ccbt.rekibun.or.jp/.../04/Olfacto-Politics-ZINE.pdf
 ⁡
-上田麻希　Maki Ueda
+##### 上田麻希　Maki Ueda
 匂いをマテリアルとして扱う「嗅覚アーティスト」。世界的な先駆者として嗅覚アート界を牽引。令和6年度文化庁長官表彰をはじめ、受賞歴多数。現在は石垣島を拠点に嗅覚アートの研究・普及に取り組む傍ら、国際的に展示活動を展開する。2025年度シビック・クリエイティブ・ベース東京[CCBT]アーティスト・フェロー。
 オンラインポートフォリオ：
 ueda.nl http://www.ueda.nl/
