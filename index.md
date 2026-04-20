@@ -28,7 +28,14 @@ hero:
   link = "/seminars/121"
 />
 
-## 前回のmetaPhorestセミナー
+<Event
+  header = "人工細胞之塚＆微生物之塚 慰霊の集い2026"
+  date = "2026年5月17日（日）"
+  image = "/images/event/ireisai2026.jpg"
+  link = "/seminars/ireisai2026"
+/>
+
+### 前回のmetaPhorestセミナー
 
 <Event
  header = "120th metaPhorest Seminar by 久保田晃弘 Kubota Akihiro"
