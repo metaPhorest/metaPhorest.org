@@ -19,7 +19,7 @@ hero:
 
 ---
 
-### 近日開催のmetaPhorest event
+## 近日開催のmetaPhorest event
 
 <Event
  header = "121st metaPhorest Seminar by 上田麻希 Maki Ueda"
