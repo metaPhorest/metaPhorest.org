@@ -19,7 +19,7 @@ hero:
 
 ---
 
-## 近日開催のmetaPhorest event
+## 次回のmetaPhorestセミナー
 
 <Event
  header = "121st metaPhorest Seminar by 上田麻希 Maki Ueda"
@@ -27,6 +27,9 @@ hero:
   image = "/seminars/121/121.jpg"
   link = "/seminars/121"
 />
+
+
+## 近日開催のmetaPhorest event
 
 <Event
   header = "人工細胞之塚＆微生物之塚 慰霊の集い2026"
