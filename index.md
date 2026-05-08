@@ -58,6 +58,7 @@ hero:
 ## metaPhorest SNS
 
 最新のセミナー・イベント情報は、以下からもご覧いただけます。
+
 [metaPhorest Instagram Page](https://www.instagram.com/metaphorest_bioaesthetics/)
 
 [metaPhorest FaceBook Page](http://facebook.com/metaphorest.net/)
