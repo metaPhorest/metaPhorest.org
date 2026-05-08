@@ -141,7 +141,7 @@ const members = [
 - Shin Hanagata
 - [片桐萌花](moeka-katagiri)
 - [清水さゆり](sayuri-shimizu)
-- [古山寧々  koyama nene](nene-koyama)
+- [古山寧々  Nene Koyama](nene-koyama)
 - Toru Nakajima
 - Yuta Ikeya
 - [小宮山凜乃](rino-komiyama)
