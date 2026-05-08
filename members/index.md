@@ -89,16 +89,6 @@ const members = [
       { icon: 'facebook', link: 'https://www.facebook.com/profile.php?id=100064496170194' },
     ],
   },
-  
-  {
-    name: '秋建太郎',
-    title: 'メンバー',
-    desc: '<a href="kentaro-aki">もっと...</a>',
-    avatar: '/images/portraits/kentaro-aki.jpg',
-    links: [
-      { icon: 'facebook', link: 'https://www.facebook.com/aki.kentaro/' },
-    ],
-  },
   {
     name: 'Anais-karenin',
     title: 'メンバー',
@@ -115,6 +105,15 @@ const members = [
     avatar: '/images/portraits/takahiro-tsukamoto.jpg',
     links: [
       { icon: 'facebook', link: 'https://www.facebook.com/profile.php?id=100016126535388' },
+    ],
+  },
+   {
+    name: '秋建太郎',
+    title: 'メンバー',
+    desc: '<a href="kentaro-aki">もっと...</a>',
+    avatar: '/images/portraits/kentaro-aki.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/aki.kentaro/' },
     ],
   },
 ]
@@ -135,18 +134,18 @@ const members = [
 <br />
 
 - Shiho Fukuhara
-- [Aki Inomata](aki-inomata)
+- [AKI INOMATA](aki-inomata)
 - [切江志龍](shiryu-kirie)
 - [藤岡慧](toshio-fujioka)
 - [植村和俊](kazutoshi-uemura)
-- Natsuki Yoneyama
-- 中島徹
+- Shin Hanagata
 - [片桐萌花](moeka-katagiri)
-- [古山寧々  koyama nene](nene-koyama)
-- 池谷宥太
 - [清水さゆり](sayuri-shimizu)
+- [古山寧々  koyama nene](nene-koyama)
+- Toru Nakajima
+- Yuta Ikeya
 - [小宮山凜乃](rino-komiyama)
-- 小宮りさ麻吏奈
+- Marina Lisa Komiya
 
 <br /><br />
 
@@ -166,6 +165,9 @@ const members = [
 - Shino Hirata
 - Goh Uozumi
 - Takuto Kashiwagi
+- Ryoji Endo
+- Natsuki Yoneyama
+- Hayato Nakano
 
 
 # メンバー年表
