@@ -18,15 +18,6 @@ const director = [
 ]
 const members = [
   {
-    name: '秋建太郎',
-    title: 'メンバー',
-    desc: '<a href="kentaro-aki">もっと...</a>',
-    avatar: '/images/portraits/kentaro-aki.jpg',
-    links: [
-      { icon: 'facebook', link: 'https://www.facebook.com/aki.kentaro/' },
-    ],
-  },
-  {
     name: '石橋友也',
     title: 'メンバー',
     desc: '<a href="tomoya-ishibashi">もっと...</a>',
@@ -35,34 +26,16 @@ const members = [
       { icon: 'facebook', link: 'https://www.facebook.com/tomoya.ishibashi.35' },
     ],
   },
-  {
-    name: '飯沢未央',
-    title: 'メンバー',
-    desc: '<a href="mio-izawa">もっと...</a>',
-    avatar: '/images/portraits/mio-izawa.jpg',
+   {
+    name: 'BCL / ゲオアグ　トレメル',
+    title: 'アーティスト・イン・レジデンス & 客員研究員',
+    desc: '<a href="georg-tremmel">もっと...</a>',
+    avatar: 'https://www.github.com/trembl.png',
     links: [
-      { icon: 'facebook', link: 'https://www.facebook.com/iimio/' },
-    ],
-  },
-  {
-    name: 'Anais-karenin',
-    title: 'メンバー',
-    desc: '<a href="anais-karenin">もっと...</a>',
-    avatar: '/images/portraits/anais-karenin.jpg',
-    links: [
-      { icon: 'facebook', link: 'https://www.facebook.com/anaiskarenin/' },
-    ],
-  },
-  {
-    name: '松村寛季',
-    title: 'メンバー',
-    desc: '<a href="tomoki-matsumura">もっと...</a>',
-    avatar: 'https://www.github.com/tomoki11.png',
-    links: [
-      { icon: 'github', link: 'https://github.com/tomoki11' },
-      { icon: 'x', link: 'https://x.com/tomokimatsumura' },
-      { icon: 'instagram', link: 'https://www.instagram.com/tomoki__matsumura/' },
-      { icon: 'facebook', link: 'https://www.facebook.com/tomoki.matsumura11/' },
+      { icon: 'github', link: 'https://github.com/trembl' },
+      { icon: 'x', link: 'https://x.com/trembl' },
+      { icon: 'instagram', link: 'https://instagram.com/georg.tremmel' },
+      { icon: 'facebook', link: 'https://fb.me/trembl' },
     ],
   },
   {
@@ -75,15 +48,15 @@ const members = [
     ],
   },
   {
-    name: '杉浦真也',
+    name: '飯沢未央',
     title: 'メンバー',
-    desc: '<a href="shinya-sugiura">もっと...</a>',
-    avatar: '/images/portraits/shinya-sugiura.jpg',
+    desc: '<a href="mio-izawa">もっと...</a>',
+    avatar: '/images/portraits/mio-izawa.jpg',
     links: [
-      { icon: 'facebook', link: 'https://www.facebook.com/profile.php?id=100064496170194' },
+      { icon: 'facebook', link: 'https://www.facebook.com/iimio/' },
     ],
   },
-  {
+ {
     name: 'Henry Tan',
     title: 'アーティスト・イン・レジデンス',
     desc: '<a href="henry-tan">もっと...</a>',
@@ -95,16 +68,44 @@ const members = [
       { icon: 'facebook', link: 'https://www.facebook.com/henryandpartners' },
     ],
   },
-  {
-    name: 'BCL / ゲオアグ　トレメル',
-    title: 'アーティスト・イン・レジデンス & 客員研究員',
-    desc: '<a href="georg-tremmel">もっと...</a>',
-    avatar: 'https://www.github.com/trembl.png',
+ {
+    name: '松村寛季',
+    title: 'メンバー',
+    desc: '<a href="tomoki-matsumura">もっと...</a>',
+    avatar: 'https://www.github.com/tomoki11.png',
     links: [
-      { icon: 'github', link: 'https://github.com/trembl' },
-      { icon: 'x', link: 'https://x.com/trembl' },
-      { icon: 'instagram', link: 'https://instagram.com/georg.tremmel' },
-      { icon: 'facebook', link: 'https://fb.me/trembl' },
+      { icon: 'github', link: 'https://github.com/tomoki11' },
+      { icon: 'x', link: 'https://x.com/tomokimatsumura' },
+      { icon: 'instagram', link: 'https://www.instagram.com/tomoki__matsumura/' },
+      { icon: 'facebook', link: 'https://www.facebook.com/tomoki.matsumura11/' },
+    ],
+  },
+   {
+    name: '杉浦真也',
+    title: 'メンバー',
+    desc: '<a href="shinya-sugiura">もっと...</a>',
+    avatar: '/images/portraits/shinya-sugiura.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/profile.php?id=100064496170194' },
+    ],
+  },
+  
+  {
+    name: '秋建太郎',
+    title: 'メンバー',
+    desc: '<a href="kentaro-aki">もっと...</a>',
+    avatar: '/images/portraits/kentaro-aki.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/aki.kentaro/' },
+    ],
+  },
+  {
+    name: 'Anais-karenin',
+    title: 'メンバー',
+    desc: '<a href="anais-karenin">もっと...</a>',
+    avatar: '/images/portraits/anais-karenin.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/anaiskarenin/' },
     ],
   },
   {
@@ -128,7 +129,6 @@ const members = [
 
 # メンバー
 
-_アルファベット順:_
 
 <VPTeamMembers size="small" :members="members" />
 
@@ -144,23 +144,27 @@ _アルファベット順:_
 - [古山寧々  koyama nene](nene-koyama)
 - [清水さゆり](sayuri-shimizu)
 - [小宮山凜乃](rino-komiyama)
+- 小宮りさ麻吏奈
 
 <br /><br />
 
 # 前メンバー
 
-- Juan M. Castro
-- Erica Kaminishi
-- Shino Hirata
-- Toshiyuki Horie
 - Emiko Inoue
-- Tomoaki Ishikawa
-- Chiaki Ishizuka
-- Takuto Kashiwagi
-- Kyoko Nakamura
 - Fu Tsurumaki
 - Shigeki Uchiyama
+- Juan M. Castro
+- Erica Kaminishi
+- Toshiyuki Horie
+- Kyoko Nakamura
+- Tomoaki Ishikawa
+- Chiaki Ishizuka
+- Hiroki Yoshioka
+- Chiaki Ishizuka- 
+- Shino Hirata
 - Goh Uozumi
+- Takuto Kashiwagi
+
 
 # メンバー年表
 
