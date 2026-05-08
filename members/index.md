@@ -140,8 +140,10 @@ const members = [
 - [藤岡慧](toshio-fujioka)
 - [植村和俊](kazutoshi-uemura)
 - Natsuki Yoneyama
+- 中島徹
 - [片桐萌花](moeka-katagiri)
 - [古山寧々  koyama nene](nene-koyama)
+- 池谷宥太
 - [清水さゆり](sayuri-shimizu)
 - [小宮山凜乃](rino-komiyama)
 - 小宮りさ麻吏奈
