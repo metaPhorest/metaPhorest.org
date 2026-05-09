@@ -116,6 +116,12 @@ const members = [
       { icon: 'facebook', link: 'https://www.facebook.com/aki.kentaro/' },
     ],
   },
+  {
+    name: '小宮りさ麻吏奈',
+    title: 'メンバー',
+    desc: '<a href="marina-klisa-komiya">もっと...</a>',
+    avatar: '/images/portraits/marina-lisa-komiya.jpg',
+  },
 ]
 
 </script>
@@ -145,7 +151,7 @@ const members = [
 - Toru Nakajima
 - Yuta Ikeya
 - [小宮山凜乃](rino-komiyama)
-- Marina Lisa Komiya
+
 
 <br /><br />
 
