@@ -119,7 +119,7 @@ const members = [
   {
     name: '小宮りさ麻吏奈',
     title: 'メンバー',
-    desc: '<a href="marina-klisa-komiya">もっと...</a>',
+    desc: '<a href="marina-lisa-komiya">もっと...</a>',
     avatar: '/images/portraits/marina-lisa-komiya.jpg',
   },
 ]
