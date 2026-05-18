@@ -23,13 +23,6 @@ hero:
 
 ## 近日開催のmetaPhorest event
 
-<Event
-  header = "人工細胞之塚＆微生物之塚 慰霊の集い2026"
-  date = "2026年5月17日（日）"
-  image = "/images/event/ireisai2026.jpg"
-  link = "/seminars/ireisai2026"
-/>
-
 ### 前回のmetaPhorestセミナー
 
 <Event
@@ -40,6 +33,13 @@ hero:
 />
 
 ### 過去のmetaPhorest event
+
+<Event
+  header = "人工細胞之塚＆微生物之塚 慰霊の集い2026"
+  date = "2026年5月17日（日）"
+  image = "/images/event/ireisai2026.jpg"
+  link = "/seminars/ireisai2026"
+/>
 
 <Event
   header = "Silent Neighbors -渋谷川に棲まうものたちとの邂逅-"
