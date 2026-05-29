@@ -6,15 +6,15 @@ prev:
   link: '/seminars/'
 ---
 
-# 122th metaPhorest セミナー
+# 122nd metaPhorest セミナー
 
 2026年6月22日（月）19:00-20:40
 
-![](/public/seminars/122/122.png)
+![](/public/seminars/122/122.jpg)
 
-## 122st metaPhorest Seminar by Tuur Van Balen
+## 122nd metaPhorest Seminar by Tuur Van Balen
 
-122th metaPhorest seminar on JUN 22nd welcome artist, Tuur Van Balen!
+122nd metaPhorest seminar on JUN 22nd welcome artist, Tuur Van Balen!
 本セミナーは英語で行われますが、質問は日本語でも可能です。
 
 ### Date and Time/Location
