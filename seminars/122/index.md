@@ -14,12 +14,12 @@ prev:
 
 ## 122nd metaPhorest Seminar by Tuur Van Balen
 
-122nd metaPhorest seminar on JUN 22nd welcome artist, Tuur Van Balen!
+122nd metaPhorest seminar on JUN 22nd welcome artist, Tuur Van Balen!  
 本セミナーは英語で行われますが、質問は日本語でも可能です。
 
 ### Date and Time/Location
-Monday, June 22, 2026, 19:00-21:00
-Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar room 2
+Monday, June 22, 2026, 19:00-21:00  
+Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar room 2  
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
 
 ::: tip ONLINE （映像の画質は悪いため、可能な方はぜひ現地へお越しください）
