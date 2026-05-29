@@ -6,9 +6,20 @@ prev:
   link: '/seminars/'
 ---
 
-# 近日開催するevent
+# 近日開催するセミナー
 
-# セミナー
+<Event
+ header = "122nd metaPhorest Seminar by Tuur Van Balen"
+  date = "2026年6月22日（月）19:00 @Waseda TWIns"
+  image = "/seminars/122/122.jpg"
+  link = "/seminars/122"
+/>
+
+## アーカイブ
+
+[metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
+
+### 2026
 
 <Event
  header = "121st metaPhorest Seminar by 上田麻希 Maki Ueda"
@@ -16,12 +27,6 @@ prev:
   image = "/seminars/121/121.jpg"
   link = "/seminars/121"
 />
-
-## アーカイブ
-
-### 2025
-
-[metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 <Event
   header = "120th metaPhorest Seminar by 久保田晃弘 Kubota Akihiro"
@@ -36,6 +41,8 @@ prev:
   link = "/seminars/119"
   image = "/seminars/119/119.jpg"
 />
+
+#### 2025
 
 <Event
   header = "118th metaPhorest Seminar by 塚本隆大: アーティスト・トーク「生命を用いたアート」の論点を考える-制度・倫理・他種のエージェンシーの観点から-"
