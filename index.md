@@ -21,7 +21,12 @@ hero:
 
 ## 次回のmetaPhorestセミナー
 
-
+<Event
+ header = "122nd metaPhorest Seminar by Revital Cohen & Tuur Van Balen"
+  date = "2026年6月22日（月）19:00 @Waseda TWIns"
+  image = "/seminars/122/122.jpg"
+  link = "/seminars/122"
+/>
 
 ## 近日開催のmetaPhorest event
 
