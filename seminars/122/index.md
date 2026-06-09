@@ -12,7 +12,7 @@ prev:
 
 ![](/public/seminars/122/122.jpg)
 
-## 122nd metaPhorest Seminar by  Revital Cohen & Tuur Van Balen
+## 122nd metaPhorest Seminar by Revital Cohen & Tuur Van Balen
 
 本セミナーは英語で行われますが、質問は日本語でも可能です。  
 122nd metaPhorest seminar on JUN 22nd welcome artists, Revital Cohen and Tuur Van Balen!  
