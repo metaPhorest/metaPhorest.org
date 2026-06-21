@@ -12,7 +12,7 @@ prev:
 
 ![](/public/seminars/122/122.jpg)
 
-## 122nd metaPhorest Seminar by Revital Cohen & Tuur Van Balen
+## 122nd metaPhorest Seminar by Cohen Van Balen
 
 本セミナーは英語で行われますが、質問は日本語でも可能です。  
 Our next metaPhorest seminar will feature a talk by the London-based artist duo Cohen Van Ballen (Revital Cohen and Tuur Van Balen)! They are renowned artists who have explored the complex interrelationships between animals, minerals, people, daily life, labor, technology, and culture through their unique research and perspectives, expressing these ideas in various forms such as installations, sculptures, and video works. This will be their second appearance at a metaPhorest seminar since 2012. It is a rare opportunity to hear directly about the background of their work and the trajectory of their explorations, so please feel free to join us.  
