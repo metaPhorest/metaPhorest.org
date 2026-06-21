@@ -28,8 +28,7 @@ This will be a valuable opportunity to gain an overview of the relevant theories
 Friday, December 19th, 2025, 19:00-21:00
 Waseda University Nisi-Waseda Campus, Bldg. 55 1F Atrium
 
-::: tip ONLINE 
-The seminar will take place at the venue of Life Aesthetics Exhibition 2025. Further details are available here.
+::: tip The seminar will take place at the venue of Life Aesthetics Exhibition 2025. Further details are available here.
 <Event
   header = "生命美学展 2025"
   date = "2025年12月18日(金)- 12月22日(月) @Nisi-Waseda Campus, Bldg. 55 1F Atrium"
