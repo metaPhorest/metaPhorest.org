@@ -19,9 +19,9 @@ hero:
 
 
 ---
-
-# Future event
-
+## Future event
+  
+## Future metaPhorest Seminar
 <Event
   header = "122nd metaPhorest Seminar by Cohen Van Balen"
   date = "June 22nd, 2026 (Monday) 19:00 @Waseda TWIns"
@@ -29,16 +29,7 @@ hero:
   image = "/seminars/122/122.jpg"
 />
 
-## latest Event
-
-<Event
-  header = "119th metaPhorest Seminar: Siryu Kirie + Shunsuke Yasumura"
-  date = "January 9th, 2025（Friday）19:00 @Waseda TWIns"
-  link = "/seminars/119"
-  image = "/seminars/119/119.jpg"
-/>
-
-### Future metaPhorest Seminar
+### latest Event
 
 
 ## metaPhorest FaceBook
