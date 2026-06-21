@@ -15,7 +15,7 @@ prev:
 ## 122nd metaPhorest Seminar by Revital Cohen & Tuur Van Balen
 
 本セミナーは英語で行われますが、質問は日本語でも可能です。  
-122nd metaPhorest seminar on JUN 22nd welcome artists, Revital Cohen and Tuur Van Balen!  
+Our next metaPhorest seminar will feature a talk by the London-based artist duo Cohen Van Ballen (Revital Cohen and Tuur Van Balen)! They are renowned artists who have explored the complex interrelationships between animals, minerals, people, daily life, labor, technology, and culture through their unique research and perspectives, expressing these ideas in various forms such as installations, sculptures, and video works. This will be their second appearance at a metaPhorest seminar since 2012. It is a rare opportunity to hear directly about the background of their work and the trajectory of their explorations, so please feel free to join us.  
 
 ### Date and Time/Location
 Monday, June 22, 2026, 19:00-21:00  
@@ -34,7 +34,7 @@ Revital Cohen and Tuur Van Balen (UK/BE, b.1981, based in London) work across ob
 
 ---
   
-6/22(月)のmetaPhorestセミナーでは、アーティストのリヴィタル・コーエンさんとトゥール・ヴァン・バレンさんをゲストにお招きし、お話いただきます！
+次回のmetaPhorestセミナーは、ロンドンに拠点を置くアーティスト・ユニット、Cohen Van Ballen（Revital CohenとTuur Van Balen）にお話ししていただきます！スペキュラティヴ・デザインの代表的な担い手であり、動物や鉱物と人や暮らし、労働、技術、文化をめぐる複層的な関わりを、独自の調査と視点で切り取り、インスタレーション、立体、映像など様々な形で表現してきた著名な作家です。metaPhorestセミナーの登壇は、2012年以来2回目。その制作の背景や探究の軌跡を直接聞ける得難い機会ですので、どうぞお気軽にご参加ください。ホストは、metaPhorestメンバーのAKI INOMATAが務めます。  
 
 ### 日時･時間
 2026年6月22日(月) 19:00-21:00
