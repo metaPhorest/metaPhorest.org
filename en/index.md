@@ -32,7 +32,7 @@ hero:
 
 ## Future metaPhorest event  
   
-### latest metaPhorest Seminar  
+### Latest metaPhorest Seminar  
 
   <Event
   header = "121st metaPhorest Seminar by Maki Ueda"
@@ -41,7 +41,7 @@ hero:
   image = "/seminars/121/121.jpg"
 />
 
-### latest metaPhorest Event  
+### Latest metaPhorest Event  
   
   
 ## metaPhorest FaceBook
