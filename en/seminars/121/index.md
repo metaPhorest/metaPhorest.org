@@ -37,7 +37,7 @@ In addition to discussing Olfacto-Politics, this talk will introduce other recen
   
 #### Related Links
 CCBT Project Overview
-https://ccbt.rekibun.or.jp/art-incubation/47468
+https://ccbt.rekibun.or.jp/art-incubation/47468  
 Download the ZINE
 https://ccbt.rekibun.or.jp/.../04/Olfacto-Politics-ZINE.pdf
   
