@@ -17,19 +17,45 @@ outline: deep
 [metaPhorest YouTube Archive](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 ## Upcoming
-
+<Event
+  header = "122nd metaPhorest Seminar by Cohen Van Balen"
+  date = "June 22, 2026 (Monday) 19:00 @Waseda TWIns"
+  link = "/seminars/122"
+  image = "/seminars/122/122.jpg"
+/>
 
 ## Archive
 
+### 2026
+<Event
+  header = "121st metaPhorest Seminar by Maki Ueda"
+  date = "April 30, 2026 (Thu.) 19:00 @Waseda TWIns"
+  link = "/en/seminars/121"
+  image = "/seminars/121/121.jpg"
+/>
 
+<Event
+  header = "120th metaPhorest Seminar by Akihiro Kubota"
+  date = "March 16, 2026 (Mon.) 19:00 @Waseda TWIns"
+  link = "/en/seminars/120"
+  image = "/seminars/120/120.jpg"
+/>
+
+<Event
+  header = "119th metaPhorest Seminar by Shunsuke Yasumura"
+  date = "January 9, 2026 (Fri.) 19:00 @Waseda TWIns"
+  link = "/en/seminars/119"
+  image = "/seminars/119/119.jpg"
+/>
+
+
+### 2025  
 <Event
   header = "118th metaPhorest Seminar: Bioaesthetics Exhibition 2025 by Takahiro Tsukamoto"
   date = "December 19th, 2025 (Friday) 19:00 @Waseda Univ. Nisi-Waseda Campus Bldg.55 1F Atrium"
   link = "/en/seminars/118"
   image = "/seminars/117/118-2.png"
 />
-
-### 2025
 
 <Event
   header = "117th metaPhorest Seminar: Haruna Nakayama & Mio Iizawa"
