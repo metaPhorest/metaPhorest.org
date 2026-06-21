@@ -3,19 +3,6 @@ layout: doc
 outline: deep
 ---
 
-
-# Future event
-
-<Event
-  header = "Shibuya-gawa river silent neighbors project "
-  date = "2026,xxxxx"
-  link = "/seminars/shibuyagawa_silentneighbors"
-/>
-
-# Seminars
-
-[metaPhorest YouTube Archive](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
-
 ## Upcoming
 <Event
   header = "122nd metaPhorest Seminar by Cohen Van Balen"
@@ -25,7 +12,8 @@ outline: deep
 />
 
 ## Archive
-
+[metaPhorest YouTube Archive](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
+  
 ### 2026
 <Event
   header = "121st metaPhorest Seminar by Maki Ueda"
