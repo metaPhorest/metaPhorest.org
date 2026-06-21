@@ -13,7 +13,7 @@ June 22nd, 2026 (Monday) 19:00-20:40
 ![](/public/seminars/118/118.jpg)
 
 
-## 118th metaPhorest Seminar by Ryuta Tsukamoto: Artist Talk "Critical Perspectives on Life-Based Art — Precision, Ethics, and Multispecies Agency"
+## 118th metaPhorest Seminar: Bioaesthetics Exhibition 2025 by Takahiro Tsukamoto
 
 #### This event will be primarily in English, but questions and comments in Japanese are also welcome.
 
