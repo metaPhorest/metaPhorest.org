@@ -54,7 +54,7 @@ outline: deep
   header = "118th metaPhorest Seminar: Bioaesthetics Exhibition 2025 by Takahiro Tsukamoto"
   date = "December 19th, 2025 (Friday) 19:00 @Waseda Univ. Nisi-Waseda Campus Bldg.55 1F Atrium"
   link = "/en/seminars/118"
-  image = "/seminars/117/118-2.png"
+  image = "/seminars/118/118.png"
 />
 
 <Event
