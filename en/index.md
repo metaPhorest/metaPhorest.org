@@ -23,10 +23,10 @@ hero:
 # Future event
 
 <Event
-  header = "Silent Neighbors: Encounters with the Inhabitants of the Shibuya River"
-  date = "February 13-15, 2026"
-  images = "images/event/silent_neighbors.png"
-  link = "/seminars/shibuyagawa_silentneighbors"
+  header = "122nd metaPhorest Seminar by Cohen Van Balen"
+  date = "June 22nd, 2026 (Monday) 19:00 @Waseda TWIns"
+  link = "/seminars/122"
+  image = "/seminars/122/122.jpg"
 />
 
 ## latest Event
