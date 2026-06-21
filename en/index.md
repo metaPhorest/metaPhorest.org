@@ -44,8 +44,10 @@ hero:
 ### Latest metaPhorest Event  
   
   
-## metaPhorest FaceBook
+## metaPhorest SNS
 
-Please visit the [metaPhorest FaceBook Page](http://facebook.com/metaphorest.net/) for the lasted information on seminars and events.
+You can also find the latest information about our seminars and events at the following link:
+- [metaPhorest Instagram Page](https://www.instagram.com/metaphorest_bioaesthetics/)
+- [metaPhorest FaceBook Page](http://facebook.com/metaphorest.net/)
 
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fmetaphorest.net&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=107940335913847" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
