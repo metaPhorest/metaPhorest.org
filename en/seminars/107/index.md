@@ -10,7 +10,7 @@ prev:
 
 Friday, April 11th, 2025, 19:00–21:00
 
-![](/public/seminars/107/107.jpg)
+![](/public/seminars/107/107.png)
 
 
 ## 107th metaPhorest Seminar by Nene Koyama
