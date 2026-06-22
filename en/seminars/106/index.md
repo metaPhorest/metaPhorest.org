@@ -12,7 +12,7 @@ Thursday, February 20th, 2025, 19:00–21:00
 
 ![](/public/seminars/106/106.jpg)
 
-## 99th metaPhorest seminar by Dr. Perig Pitrou
+## 106th metaPhorest seminar by Dr. Perig Pitrou
 
 #### This event will be primarily in English, but questions and comments in Japanese are also welcome.
 The next metaPhorest Seminar will welcome Dr. Perig Pitrou, a cultural anthropologist from France affiliated with CNRS and the Collège de France.
