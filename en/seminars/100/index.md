@@ -10,7 +10,7 @@ prev:
 
 November 22nd, 2024 (Friday) 19:00-21:00
 
-![](/public/seminars/099/099.jpg)
+![](/public/seminars/100/100.jpg)
 
 ## 100th metaPhorest seminar: Teruyoshi Furusawa, featured by Mio Iizawa + Shiryu Kirie 
 
