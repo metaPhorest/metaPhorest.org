@@ -26,11 +26,8 @@ https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
 This seminar can also be held online. [Zoom Link](https://zoom.metaphorest.org)
 :::
   
-### Takahiro Tsukamoto
-The Aesthetics of Bio Art: How Is “Life” Defamiliarized?  
-In recent years, many artists have developed practices that engage with “life” as their subject matter. Through an examination of selected works, this presentation will explore how life is perceived and represented within these practices, and what kinds of new questions and possibilities emerge from such engagements.  
-### Hanna Saito
-The Aporia of “Post-Anthropocentrism”
+### Takahiro Tsukamoto: The Aesthetics of Bio Art: How Is “Life” Defamiliarized? In recent years, many artists have developed practices that engage with “life” as their subject matter. Through an examination of selected works, this presentation will explore how life is perceived and represented within these practices, and what kinds of new questions and possibilities emerge from such engagements.  
+### Hanna Saito: The Aporia of “Post-Anthropocentrism”
   
   
 #### Takahiro Tsukamoto  
