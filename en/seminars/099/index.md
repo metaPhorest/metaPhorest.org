@@ -6,7 +6,7 @@ prev:
   link: '/seminars/'
 ---
 
-# 99th metaPhorest seminar by Yuri Nakahashi ＋ Kazutoshi Uemura
+# 99th metaPhorest seminar  
 
 November 8th, 2024 (Friday) 19:00-21:00
 
