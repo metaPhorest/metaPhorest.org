@@ -8,24 +8,24 @@ prev:
 
 # 121st metaPhorest Seminar
 
-April 30, 2026 (Thu.) 19:00–21:00
+Thursday, April 30, 2026, 19:00–21:00
 
 ![](/public/seminars/121/121.jpg)
 
-## 121st metaPhorest Seminar by Maki Ueda
+## 121st metaPhorest Seminar by Maki Ueda  
 
 #### This event will be primarily in Japanese, but questions and comments in English are also welcome.
 For the April 30 metaPhorest Seminar, we are delighted to welcome Maki Ueda, a leading pioneer of olfactory art, whose artistic medium is scent itself. Ueda will discuss Olfacto-Politics, centering on her large-scale installation at the Yumenoshima Tropical Greenhouse Dome, developed as part of her work as a 2025 Artist Fellow of the Civic Creative Base Tokyo (CCBT).
 
 ### Date & Venue
-April 30, 2026 (Thu.) 19:00–21:00
-Waseda University, Tokyo Women's Medical University Joint Institution for Advanced Biomedical Sciences (TWIns), 3F
+Thursday, April 30, 2026, 19:00–21:00  
+Waseda University, Tokyo Women's Medical University Joint Institution for Advanced Biomedical Sciences (TWIns), 3F  
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA  
 
-::: tip ONLINE （The video quality is poor, so please come to the venue in person if you can.）
+::: tip ONLINE （The video quality is poor, so please come to the venue in person if you can.） 
 This seminar can also be held online. [Zoom Link](https://zoom.metaphorest.org)
 :::
-
+  
 ### Olfacto-Politics  
 When do we describe something as “smelly” or a “bad smell”? Conversely, what makes a scent pleasant?  
 Olfacto-Politics is an experimental, multifaceted project developed by Maki Ueda as an Artist Fellow at the 2025 Civic Creative Base Tokyo (CCBT). The project sought to make visible the often-unconscious ways in which the sense of smell is used to justify structures of exclusion and attraction.    
