@@ -20,8 +20,8 @@ Wednesday, April 23rd, 2025, 19:00–21:00
 For the next metaPhorest Seminar on April 23, we are pleased to welcome Yuning Chen, an emerging biodesign researcher and artist based in Edinburgh, UK.  
   
 ###  Date and Time/Location
-Wednesday, April 23rd, 2025, 19:00–21:00
-Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 2
+Wednesday, April 23rd, 2025, 19:00–21:00  
+Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 1  
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
 
 ::: tip ONLINE 
