@@ -23,9 +23,9 @@ You may also catch glimpses of how their experiences with differing perspectives
 
 
 #### Date, Place 
-December 28th, 2025 (Friday)  19:00-20:40
-Waseda TWIns 3F Seminar room 3
-https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
+Friday, December 28th, 2025, 19:00-21:00  
+Waseda TWIns 3F Seminar room 3  
+https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA  
 
 ::: tip ONLINE
 This seminar can also be held online. [Zoom Link](https://zoom.metaphorest.org)
@@ -35,9 +35,8 @@ This seminar can also be held online. [Zoom Link](https://zoom.metaphorest.org)
 #### Kumi Hiroi
 An artist based in Amsterdam and Tokyo. Her work explores biases, preconceptions, and discriminatory elements inherent in the relationship between language and imagery. 
 In recent years, she has explored the geographical, historical, and economic contexts of symbolic images surrounding humans and nature through literature research, interviews, and fieldwork, treating the process itself as the language of her work.
-Using diverse media such as text, photography, video, textiles, and glass, she critically depicts structures while navigating between reality and imagination.
-
-https://kumihiroi.com/
+Using diverse media such as text, photography, video, textiles, and glass, she critically depicts structures while navigating between reality and imagination.  
+https://kumihiroi.com/  
 
 
 #### Yuta Ikeya
