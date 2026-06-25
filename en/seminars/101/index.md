@@ -8,20 +8,20 @@ prev:
 
 # 101st metaPhorest Seminar
 
-November 29th, 2024 (Monday) 19:00-21:00
+Friday, November 29th, 2024, 19:00-21:00
 
 ![](/public/seminars/101/101.jpg)
 
 
 ## 101st metaPhorest Seminar by Yukik Shikata
 
-#### This event will be primarily in English, but questions and comments in Japanese are also welcome.
+#### This event will be primarily in Japanese, but questions and comments in English are also welcome.
 For the November 29 metaPhorest Seminar, we are honored to welcome Yukiko Shikata, a legendary critic and curator who has played a central and pioneering role in media art both in Japan and internationally since the 1980s.  
 We will discuss the background of her wide-ranging activities across the arts, as well as her recent interests and ongoing explorations surrounding the concept of "Ecosophic Art," which she has proposed in recent years. This will be a rare opportunity to hear from one of the most influential voices in the field, and we warmly invite anyone interested to join us.  
   
 ###  Date and Time/Location
-November 29th, 2024 (Monday) 19:00-21:00
-Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 2
+Friday, November 29th, 2024, 19:00-21:00
+Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 3
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
 
 ::: tip ONLINE 
