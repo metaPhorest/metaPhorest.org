@@ -17,19 +17,18 @@ Thursday, February 20th, 2025, 19:00–21:00
 #### This event will be primarily in English, but questions and comments in Japanese are also welcome.
 The next metaPhorest Seminar will welcome Dr. Perig Pitrou, a cultural anthropologist from France affiliated with CNRS and the Collège de France.
   
+Dr. Pitrou's work explores the complex relationships between humans and other living beings through the lenses of anthropology and philosophy. He has also actively engaged with practitioners of bioart and biodesign, making him one of the most important scholars working at the intersection of life sciences, humanities, and artistic practice.  
+During his visit to Japan for a philosophy workshop in Kyoto, he has kindly agreed to join us for this seminar. Dr. Pitrou is known for his openness and generosity in discussion, and we anticipate a stimulating exchange of ideas. The lecture will be delivered in English. Simultaneous interpretation will not be available, but questions in Japanese are welcome.  
+  
 ###  Date and Time/Location
-Thursday, February 20th, 2025, 19:00–21:00
-Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 2  
+Thursday, February 20th, 2025, 19:00–21:00  
+Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 1    
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA  
   
 ::: tip ONLINE 
 This seminar can also be held online. [Zoom Link](https://zoom.metaphorest.org)
 :::
-
-  
-Dr. Pitrou's work explores the complex relationships between humans and other living beings through the lenses of anthropology and philosophy. He has also actively engaged with practitioners of bioart and biodesign, making him one of the most important scholars working at the intersection of life sciences, humanities, and artistic practice.  
-During his visit to Japan for a philosophy workshop in Kyoto, he has kindly agreed to join us for this seminar. Dr. Pitrou is known for his openness and generosity in discussion, and we anticipate a stimulating exchange of ideas. The lecture will be delivered in English. Simultaneous interpretation will not be available, but questions in Japanese are welcome.  
-  
+    
 ### What Humans Do with Life  
 Dr. Perig Pitrou  
 (Anthropologist, CNRS, Collège de France, PSL University)  
