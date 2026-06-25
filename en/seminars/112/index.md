@@ -19,10 +19,10 @@ Friday, October 24th, 2025, 19:00–20:40
 The next metaPhorest Seminar on October 24th welcomes artist and researcher Dr. Kate Scardifield.  
   
 ###  Date and Time/Location
-Monday, June 22, 2026, 19:00-21:00
-Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 3
-https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
-
+Monday, June 22, 2026, 19:00-21:00  
+Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 3  
+https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA  
+  
 ::: tip ONLINE 
 This seminar can also be held online. [Zoom Link](https://zoom.metaphorest.org)
 :::
