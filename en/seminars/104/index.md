@@ -14,12 +14,12 @@ Friday, January 10th, 2025, 19:00-21:00
 
 ## 99th metaPhorest seminar by Takahiro Tsukamoto & Hanna Saito
 
-#### This event will be primarily in Japanese.
+#### This event will be primarily in Japanese, but questions and comments in English are also welcome.   
 For the January 10 metaPhorest Seminar, two metaPhorest members—anthropology of art researcher Takahiro Tsukamoto and artist Hanna Saito—will introduce their perspectives on the scope of bio(media) art and several issues that have recently attracted their attention.  
     
 ###  Date and Time/Location
-Friday, January 10th, 2025, 19:00-21:00
-Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 2  
+Friday, January 10th, 2025, 19:00-21:00  
+Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 3  
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA  
   
 ::: tip ONLINE 
