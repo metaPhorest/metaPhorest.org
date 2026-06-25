@@ -14,14 +14,14 @@ Friday, December 6th, 2024, 19:00-21:00
 
 ## 102nd metaPhorest Seminar by So Kanno & Tomoya Ishibashi
   
-#### This event will be primarily in English, but questions and comments in Japanese are also welcome.  
+#### This event will be primarily in Japanese, but questions and comments in English are also welcome.  
 For the 102nd metaPhorest Seminar on December 6, metaPhorest member and Iwasaki Laboratory alumnus Tomoya Ishibashi will host So Kanno, artist and Specially Appointed Professor at Aichi Prefectural University.  
 Kanno has produced numerous works using electronics and computers to question the nature and reality of sound and images. In this seminar, he will focus particularly on his recent projects involving large numbers of robots, touching on themes of swarm intelligence and emergence.  
 Ishibashi will also introduce his own artistic practice, which is informed by a contemporary interest in rivers, as well as his ongoing project to build a custom microscope. Through the activities of both speakers, we hope to discuss the role of technology in artistic practice and the importance of technical discovery within the creative process.
   
 ###  Date and Time/Location
-Friday, December 6th, 2024, 19:00-21:00
-Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 2
+Friday, December 6th, 2024, 19:00-21:00  
+Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 3  
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
   
 ::: tip ONLINE 
