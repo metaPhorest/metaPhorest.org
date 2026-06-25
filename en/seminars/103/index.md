@@ -14,12 +14,12 @@ Friday, December 13th, 2024, 19:00-21:00
 
 ## 103rd metaPhorest Seminar: Ryota Matsunaga (+ AKI INOMATA) 
   
-#### This event will be primarily in English, but questions and comments in Japanese are also welcome.  
+#### This event will be primarily in Japanese, but questions and comments in English are also welcome.  
 For the 103rd metaPhorest Seminar on December 20, metaPhorest member AKI INOMATA will host conservator Ryota Matsunaga.  
   
 ###  Date and Time/Location
-Friday, December 6th, 2024, 19:00-21:00
-Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 2
+Friday, December 6th, 2024, 19:00-21:00  
+Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 3  
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
   
 ::: tip ONLINE 
