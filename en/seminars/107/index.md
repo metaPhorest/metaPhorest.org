@@ -15,16 +15,16 @@ Friday, April 11th, 2025, 19:00–21:00
 
 ## 107th metaPhorest Seminar by Nene Koyama
   
-#### This event will be primarily in Japanese.  
+#### This event will be primarily in Japanese, but questions and comments in English are also walcome.    
 For the April 11 metaPhorest Seminar, we are pleased to welcome Nene Koyama, an emerging artist whose practice explores new aesthetic understandings of objects and, in recent years, has developed a distinctive body of work engaging with biomedia.  
 Although originally trained in the arts, Koyama has recently begun a new phase of creative research within the Synthetic Biology Laboratory led by Professor Takigawa Takinoue at the Institute of Science Tokyo. We are excited to see how her practice will continue to evolve at the intersection of art and biology.  
 We warmly invite you to join us.  
   
 ###  Date and Time/Location
-Friday, April 11th, 2025, 19:00–21:00
-Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 2
-https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
-
+Friday, April 11th, 2025, 19:00–21:00  
+Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 1  
+https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA  
+  
 ::: tip ONLINE 
 This seminar can also be held online. [Zoom Link](https://zoom.metaphorest.org)
 :::
