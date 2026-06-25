@@ -8,18 +8,17 @@ prev:
 
 # 99th metaPhorest seminar  
 
-November 8th, 2024 (Friday) 19:00-21:00
+Friday, November 8th, 2024, 19:00-21:00
 
 ![](/public/seminars/099/099.jpg)
 
 ## 99th metaPhorest seminar by Yuri Nakahashi ＋ Kazutoshi Uemura
 
-#### This event will be primarily in Japanese.
-
+#### This event will be primarily in Japanese, but questions and comments in English are also welcome.
 This metaPhorest Seminar features presentations by a second-year master's student from metaPhorest and an emerging design researcher from the Graduate School of Interdisciplinary Information Studies at the University of Tokyo. The talks will be conducted primarily in Japanese. We warmly welcome anyone interested to join us.  
   
-###  Date and Time/Location
-November 8th, 2024 (Friday) 19:00-21:00  
+###  Date and Time/Location  
+Friday, November 8th, 2024, 19:00-21:00  
 Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 2  
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA  
   
