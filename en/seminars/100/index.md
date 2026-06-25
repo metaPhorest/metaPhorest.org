@@ -8,13 +8,13 @@ prev:
 
 # 100th metaPhorest seminar 
 
-November 22nd, 2024 (Friday) 19:00-21:00
+Friday, November 22nd, 2024, 19:00-21:00
 
 ![](/public/seminars/100/100.jpg)
 
 ## 100th metaPhorest seminar: Teruyoshi Furusawa, featured by Mio Iizawa + Shiryu Kirie 
 
-#### This event will be primarily in Japanese.
+#### This event will be primarily in Japanese, but questions and comments in english are also welcome.
 For the seminar on November 22, metaPhorest members Mio Iizawa and Shiryu Kirie—a graduate of the Iwasaki Laboratory and fellow metaPhorest member—will host Teruyoshi Furusawa, Specially Appointed Associate Professor of SCOLA, College of Science, Rikkyo University, and the official Japanese director of the Ig Nobel Prize.  
 Known affectionately as “Ig-Ojisan” (“Mr. Ig”), Furusawa has introduced the Ig Nobel Prize to Japanese audiences through educational television programs, exhibition supervision, and oversight of the Japanese-language broadcast of the award ceremony. In this seminar, he will discuss his activities, experiences, and ongoing work in science communication.  
 At the beginning of the seminar, Iizawa and Kirie will also introduce the latest developments from the web media project Zukanfu: Culture and Biology, for which they serve as planners and editors.  
@@ -25,8 +25,8 @@ https://cultureandbiology.com/.../05/Vol00-2-1-ignobel.pdf
 Participants are encouraged to read this back issue of Culture and Biology in advance.  
   
 ###  Date and Time/Location
-November 22nd, 2024 (Friday) 19:00-21:00
-Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 2  
+Friday, November 22nd, 2024, 19:00-21:00  
+Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 3  
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA  
   
 ::: tip ONLINE 
