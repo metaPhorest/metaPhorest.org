@@ -10,7 +10,7 @@ prev:
 
 Wednesday, April 23rd, 2025, 19:00–21:00
 
-![](/public/seminars/108/108.jpg)
+![](/public/seminars/108/108.png)
 
 
 ## 108th metaPhorest Seminar by Yuning Chen
