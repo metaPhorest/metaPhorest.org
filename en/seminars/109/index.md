@@ -15,16 +15,16 @@ Tuesday, June 17th, 2025, 19:00–21:00
 
 ## 109th metaPhorest Seminar by Shiho Hasegawa
 
-#### This event will be primarily in Japanese, but questions and comments in English are also welcome.
+#### This event will be primarily in Japanese, but questions and comments in English are also welcome.  
 For the June 17 metaPhorest Seminar, we are pleased to welcome Shiho Hasegawa, whose research explores bioart and biodesign from the perspectives of art history and design history. The seminar will be hosted by metaPhorest member Tomoya Ishibashi.  
 This session will center on Hasegawa’s 2024 doctoral dissertation, The Formation and Development of Bio Art: The Visualization of Spheres Connected to a Biocentric Genealogy. She will discuss the emergence and expansion of bioart, its prehistory in modern art history and architectural thought, and approaches to theorizing bioart through the concepts of Umwelt and the “sphere.”  
 We warmly invite you to join us.  
   
 ###  Date and Time/Location
-Tuesday, June 17th, 2025, 19:00–21:00
-Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 3
-https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
-
+Tuesday, June 17th, 2025, 19:00–21:00  
+Waseda University Research Facility for Advanced Biomedical Sciences (TWIns), 3rd Floor, Seminar Room 3  
+https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA  
+  
 ::: tip ONLINE 
 This seminar can also be held online. [Zoom Link](https://zoom.metaphorest.org)
 :::
