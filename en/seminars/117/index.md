@@ -8,7 +8,7 @@ prev:
 
 # 117th metaPhorest Seminar
 
-December 12th, 2025 (Friday) 19:00-20:40
+ Friday, December 12th, 2025, 19:00-21:00
 
 ![](/public/seminars/117/117.jpg)
 
@@ -26,9 +26,9 @@ https://cultureandbiology.com/volumes/03-religion-syako/
 
 
 ### 日時・場所 
-December 12th, 2025 (Friday) 19:00-20:40
-TWIns 3F Seminar room3
-https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
+Friday, December 12th, 2025, 19:00-21:00  
+TWIns 3F Seminar room 3  
+https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA  
 
 ::: tip ONLINE 
 This seminar can also be held online. [Zoom Link](https://zoom.metaphorest.org)
