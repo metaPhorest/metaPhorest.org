@@ -15,7 +15,7 @@ June 22nd, 2026 (Monday) 19:00-20:40
 
 ## 118th metaPhorest Seminar: Bioaesthetics Exhibition 2025 by Takahiro Tsukamoto
 
-#### This event will be primarily in English, but questions and comments in Japanese are also welcome.
+#### This event will be primarily in Japanese, but questions and comments in English are also welcome.
 
 In recent years, advances in synthetic biology, as well as growing concerns surrounding the climate crisis and the Anthropocene, have inspired a wide range of artistic practices that engage with life as both subject matter and material.  
 These practices have evolved alongside, and been critically examined through, various theoretical and cultural discourses. In this seminar, we will explore the key issues and debates surrounding such art practices while considering their future possibilities through dialogue with specific artworks.  
@@ -24,9 +24,9 @@ The seminar will be guided by anthropologist Ryuta Tsukamoto and will focus on L
   
 This will be a valuable opportunity to gain an overview of the relevant theories while simultaneously reflecting on their possibilities through engagement with actual artworks. We warmly invite you to join us.  
   
-###  Date and Time/Location
-Friday, December 19th, 2025, 19:00-21:00
-Waseda University Nisi-Waseda Campus, Bldg. 55 1F Atrium
+###  Date and Time/Location  
+Friday, December 19th, 2025, 19:00-21:00  
+Waseda University Nisi-Waseda Campus, Bldg. 55 1F Atrium  
 
 ::: tip The seminar will take place at the venue of Life Aesthetics Exhibition 2025. Further details are available here.
 <Event
