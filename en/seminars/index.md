@@ -5,16 +5,23 @@ outline: deep
 
 ## Upcoming
 <Event
-  header = "122nd metaPhorest Seminar by Cohen Van Balen"
-  date = "June 22, 2026 (Monday) 19:00 @Waseda TWIns"
-  link = "/seminars/122"
-  image = "/seminars/122/122.jpg"
+  header = "123rd metaPhorest Seminar by Marina Lisa Komiya"
+  date = "July 24th, 2026 (Friday) 19:00 @Waseda TWIns"
+  link = "/seminars/123"
+  image = "/seminars/123/123.jpg"
 />
 
 ## Archive
 [metaPhorest YouTube Archive](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
   
 ### 2026
+<Event
+  header = "122nd metaPhorest Seminar by Cohen Van Balen"
+  date = "June 22, 2026 (Monday) 19:00 @Waseda TWIns"
+  link = "/seminars/122"
+  image = "/seminars/122/122.jpg"
+/>
+
 <Event
   header = "121st metaPhorest Seminar by Maki Ueda"
   date = "April 30, 2026 (Thu.) 19:00 @Waseda TWIns"
