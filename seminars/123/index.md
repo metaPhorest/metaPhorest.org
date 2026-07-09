@@ -13,7 +13,7 @@ prev:
 ![](/public/seminars/123/123.jpg)
 
 
-
+  
 ## 123rd metaPhorest Seminar by 小宮りさ麻吏奈 Marina Lisa Komiya  
 
 #### This event will be primarily in Japanese, but questions and comments in English are also welcome.
