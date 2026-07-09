@@ -26,7 +26,7 @@ hero:
   image = "/seminars/123/123.jpg"
   link = "/seminars/123"
 />
-
+  
 ## 近日開催のmetaPhorest event
 
 ### 前回のmetaPhorestセミナー
