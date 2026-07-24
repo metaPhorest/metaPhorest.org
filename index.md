@@ -20,16 +20,18 @@ hero:
 ---
 
 ## 次回のmetaPhorestセミナー
+  
+  
+## 近日開催のmetaPhorest event
+
+### 前回のmetaPhorestセミナー
+
 <Event
  header = "123rd metaPhorest Seminar by 小宮りさ麻吏奈 Marina Lisa Komiya"
   date = "2026年7月24日（金）19:00 @Waseda TWIns"
   image = "/seminars/123/123.jpg"
   link = "/seminars/123"
 />
-  
-## 近日開催のmetaPhorest event
-
-### 前回のmetaPhorestセミナー
 
 <Event
  header = "122nd metaPhorest Seminar by Cohen Van Balen"
