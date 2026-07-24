@@ -19,7 +19,7 @@ For the July 24 metaPhorest Seminar, we are pleased to welcome Marina Lisa Komiy
   
 ### Date & Venue
 Friday, July 24th, 2026, 19:00–21:00  
-Waseda University, Tokyo Women's Medical University Joint Institution for Advanced Biomedical Sciences (TWIns), 3F Seminar Room 2 
+Waseda University, Tokyo Women's Medical University Joint Institution for Advanced Biomedical Sciences (TWIns), 3F Seminar Room 1 
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA  
 
 ::: tip ONLINE （The video quality is poor, so please come to the venue in person if you can.） 
