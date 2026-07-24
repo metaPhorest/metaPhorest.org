@@ -8,6 +8,14 @@ prev:
 
 # 近日開催するセミナー
 
+
+
+## アーカイブ
+
+[metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
+
+### 2026
+
 <Event
  header = "123rd metaPhorest Seminar by 小宮りさ麻吏奈 Marina Lisa Komiya"
   date = "2026年7月24日（月）19:00 @Waseda TWIns"
@@ -15,11 +23,6 @@ prev:
   link = "/seminars/123"
 />
 
-## アーカイブ
-
-[metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
-
-### 2026
 <Event
  header = "122nd metaPhorest Seminar by Cohen Van Balen"
   date = "2026年6月22日（月）19:00 @Waseda TWIns"
