@@ -21,7 +21,8 @@ https://domenicalandin.webflow.io/
   
 We are also pleased to welcome Anais-karenin as a commentator. An artist whose practice reexamines the relationship between plants and humans, she holds a PhD from the University of São Paulo.  
 https://anaiskarenin.com/home  
-#### Update: Due to health reasons, Anais-karenin will unfortunately no longer be able to join the seminar. We sincerely apologize for the change. Domenica Landin's talk will proceed as scheduled.
+#### Update: Due to health reasons, Anais-karenin will unfortunately no longer be able to join the seminar. We sincerely apologize for the change. Domenica Landin's talk will proceed as scheduled.  
+  
   
 Please note that this seminar will be held online only. There will be no in-person venue, so please do not come to the usual seminar location.  
   
