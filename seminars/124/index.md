@@ -17,7 +17,8 @@ prev:
 ## 124th metaPhorest Seminar by 齋藤帆奈 Hanna Saito  
   
 #### This event will be primarily in Japanese, but questions and comments in English are also welcome.
-10/16（金）のmetaPhorestセミナーでは、metaPhorestに最近合流した新メンバーで、「新しい生殖・繁殖の方法を模索する」ことなどを見据え、独自の切り口で先鋭的な表現活動を展開しているアーティスト･アーター･漫画家、小宮りさ麻吏奈さんに活動や背景について話していただきます。セミナー後の懇談タイムもあります。ぜひお越しください！  
+10/16（金）のmetaPhorestセミナーでは、齋藤帆奈さんにお話しいただきます。セミナー後の懇談タイムもあります。ぜひお越しください！  
+ 
     
 2026年10月16日 (金) 19:00–21:00
 早稲田大学 先端生命医科学研究施設（TWIns）3F セミナールーム1  
