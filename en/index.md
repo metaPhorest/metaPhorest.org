@@ -24,9 +24,9 @@ hero:
 ## Future metaPhorest Seminar
 <Event
   header = "123rd metaPhorest Seminar by Marina Lisa Komiya"
-  date = "July 24th, 2026 (Friday) 19:00 @Waseda TWIns"
-  link = "/seminars/123"
-  image = "/seminars/123/123.jpg"
+  date = "Friday, October 16th, 2026, 19:00 @Waseda TWIns"
+  link = "/seminars/124"
+  image = "/seminars/124/124.jpg"
 />
 
 ## Future metaPhorest event  
