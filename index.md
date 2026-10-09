@@ -20,12 +20,7 @@ hero:
 ---
 
 ## 次回のmetaPhorestセミナー
-<Event
- header = "124th metaPhorest Seminar by 齋藤帆奈 Hanna Saito"
-  date = "2026年10月16日（金）19:00 @Waseda TWIns"
-  image = "/seminars/124/124.jpg"
-  link = "/seminars/124"
-/>  
+ 
   
 ## 近日開催のmetaPhorest event
 
