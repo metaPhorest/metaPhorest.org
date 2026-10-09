@@ -15,7 +15,13 @@ prev:
 [metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 ### 2026
-
+<Event
+ header = "124th metaPhorest Seminar by 齋藤帆奈 Hanna Saito"
+  date = "2026年10月16日（金）19:00 @Waseda TWIns"
+  image = "/seminars/124/124.jpg"
+  link = "/seminars/124"
+/> 
+  
 <Event
  header = "123rd metaPhorest Seminar by 小宮りさ麻吏奈 Marina Lisa Komiya"
   date = "2026年7月24日（月）19:00 @Waseda TWIns"
