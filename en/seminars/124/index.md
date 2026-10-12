@@ -14,11 +14,16 @@ Friday, October 16th, 2026, 19:00–21:00
 
 
   
-## 124th metaPhorest Seminar by Hanna Saito  
+## 124th metaPhorest Seminar / Workshop by Hanna Saito  
   
 #### This event will be primarily in Japanese, but questions and comments in English are also welcome.
-10/16（金）のmetaPhorestセミナーでは、齋藤帆奈さんにお話しいただきます。セミナー後の懇談タイムもあります。ぜひお越しください！  
-    
+At the October 16 (Friday) metaPhorest Seminar, metaPhorest member Hanna Saito will lead a hands-on workshop using slime molds (myxomycetes).  
+This is a rare opportunity not only to learn about the artist’s recent activities and the ideas behind her practice, but also to experience one of her signature artistic approaches firsthand. We warmly encourage you to join us!  
+If you would like to participate in the hands-on workshop, please register using the form below (limited to approximately 10 participants, on a first-come, first-served basis).  
+https://forms.gle/zgHRGpbutjygUfz68  
+You are also welcome to observe the workshop without registering.  
+There will be time for informal discussion after the seminar as well. We look forward to seeing you there!  
+      
 Friday, October 16th, 2026, 19:00–21:00  
 Waseda University, Tokyo Women's Medical University Joint Institution for Advanced Biomedical Sciences (TWIns), 3F Seminar Room 3
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
