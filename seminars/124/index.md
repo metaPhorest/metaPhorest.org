@@ -17,14 +17,19 @@ prev:
 ## 124th metaPhorest Seminar by 齋藤帆奈 Hanna Saito  
   
 #### This event will be primarily in Japanese, but questions and comments in English are also welcome.
-10/16（金）のmetaPhorestセミナーでは、齋藤帆奈さんにお話しいただきます。セミナー後の懇談タイムもあります。ぜひお越しください！  
- 
-    
+10/16（金）のmetaPhorestセミナーでは、メンバーの齋藤帆奈が粘菌（変形菌）を用いた体験型のワークショップを開催します。  
+最近の活動や背景の話を聞くだけでなく、作家の代表的な試みを実際に体験できる貴重な機会ですので、どうぞふるってご参加ください。  
+  
+ワークショップの参加（実践）をご希望の方は、以下のフォームよりご登録をお願いいたします（先着10名程度）。  
+https://forms.gle/zgHRGpbutjygUfz68  
+なお、フォームにご登録いただかない場合でも見学していただくことは可能です。  
+セミナー後の懇談タイムもあります。ぜひお越しください！  
+      
 2026年10月16日 (金) 19:00–21:00
 早稲田大学 先端生命医科学研究施設（TWIns）3F セミナールーム3  
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
   
-::: tip ONLINE （映像の画質は悪いため、可能な方はぜひ現地へお越しください）
+::: tip ONLINE （冒頭のトークの部分のみ中継。ワークショップの部分は中継しません）  
 This seminar can also be held online. [Zoom Link](https://zoom.metaphorest.org)
 :::
   
@@ -43,3 +48,4 @@ This seminar can also be held online. [Zoom Link](https://zoom.metaphorest.org)
 現代美術作家。1988年生。多摩美術大学工芸学科ガラスコース卒業後、metaPhorest（biological/biomedia art platform）に参加し、生命素材を用いる表現実践を開始する。現在、東京大学大学院学際情報学府博士課程（筧康明研究室）に在籍し、2025年度より東洋大学総合情報学部助教。  
 理化学ガラスの制作技法を活かしたガラス造形や、生物・有機物・画像解析を用いた作品制作と研究を行ってきた。近年では、野生種を含む複数種の真正粘菌を採取・培養し、制作・実験に用いている。  
 主なテーマは、自然／社会や自己／他者の境界を再考しつつ、創造や制作行為を、主体が素材に形を与えるものではなく、複数の系が相互に干渉し、同期／非同期をともないながら立ち現れるプロセスとして捉え直すこと。  
+https://www.hannasaito.com/  
