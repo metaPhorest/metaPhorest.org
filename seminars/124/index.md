@@ -17,8 +17,7 @@ prev:
 ## 124th metaPhorest Seminar by 齋藤帆奈 Hanna Saito  
   
 #### This event will be primarily in Japanese, but questions and comments in English are also welcome.
-10/16（金）のmetaPhorestセミナーでは、メンバーの齋藤帆奈が粘菌（変形菌）を用いた体験型のワークショップを開催します。  
-最近の活動や背景の話を聞くだけでなく、作家の代表的な試みを実際に体験できる貴重な機会ですので、どうぞふるってご参加ください。  
+10/16（金）のmetaPhorestセミナーでは、メンバーの齋藤帆奈が粘菌（変形菌）を用いた体験型のワークショップを開催します。最近の活動や背景の話を聞くだけでなく、作家の代表的な試みを実際に体験できる貴重な機会ですので、どうぞふるってご参加ください。  
   
 ワークショップの参加（実践）をご希望の方は、以下のフォームよりご登録をお願いいたします（先着10名程度）。  
 https://forms.gle/zgHRGpbutjygUfz68  
