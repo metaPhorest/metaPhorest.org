@@ -17,7 +17,7 @@ prev:
 ## 125th metaPhorest Seminar by 石橋友也 Tomoya Ishibashi  
   
 #### This event will be primarily in Japanese, but questions and comments in English are also welcome.
-10/23（金）のmetaPhorestセミナーでは、メンバーの石橋友也が  
+10/23（金）のmetaPhorestセミナーでは、メンバーの石橋友也が、川で拾ったゴミや自然物を使って自作した顕微鏡を通じて都市の水環境を探究する、近年のプロジェクト《Self-reference Microscope》について紹介します。  
 
 セミナー後の懇談タイムもあります。ぜひお越しください！  
       
