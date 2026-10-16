@@ -20,6 +20,12 @@ hero:
 ---
 
 ## 次回のmetaPhorestセミナー
+<Event
+ header = "125th metaPhorest Seminar by 石橋友也 Tomoya Ishibashi"
+  date = "2026年10月23日（金）19:00 @Waseda TWIns"
+  image = "/seminars/125/125.jpg"
+  link = "/seminars/125"
+/>  
 
 <Event
  header = "124th metaPhorest Seminar / Workshop by 齋藤帆奈 Hanna Saito"
