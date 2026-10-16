@@ -24,7 +24,7 @@ Friday, October 23, 2026, 19:00–21:00
 Seminar Room 3, 3rd Floor, Waseda University Joint Institution for Advanced Biomedical Sciences (TWIns)  
 https://maps.app.goo.gl/Wy23SqPPMo3P7V8JA
   
-::: tip ONLINE (Only the introductory talk will be streamed. The workshop portion will not be available online.)
+::: tip ONLINE (The video quality is poor, so please come to the venue in person if you can.)
 The introductory talk will also be available online. [Zoom Link](https://zoom.metaphorest.org)
 :::  
   
