@@ -19,6 +19,19 @@ hero:
 
 ---
 
+## 本年度metaPhorestセミナーのスケジュール
+10/16(金) 齋藤帆奈
+10/23(金) 石橋友也  
+10/30(金) 切江志龍＋TBA  
+11/6(金) なし  
+11/13(金) なし  
+11/20(金) 水田雅也＋藤岡慧  
+11/27(金) 古山寧々＋松村寛季＋阿部文香＋佃優河  
+12/4(金) AKI INOMATA＋TBA  
+12/11(金) 小宮りさ麻吏奈＋TBA  
+12/18(金) 福原志保＋TBA  
+1/8(金) 増田エリン麻耶＋池谷宥太  
+  
 ## 次回のmetaPhorestセミナー
 <Event
  header = "125th metaPhorest Seminar by 石橋友也 Tomoya Ishibashi"
@@ -27,16 +40,17 @@ hero:
   link = "/seminars/125"
 />  
 
+
+  
+## 近日開催のmetaPhorest event
+
+### 前回のmetaPhorestセミナー
 <Event
  header = "124th metaPhorest Seminar / Workshop by 齋藤帆奈 Hanna Saito"
   date = "2026年10月16日（金）19:00 @Waseda TWIns"
   image = "/seminars/124/124.jpg"
   link = "/seminars/124"
 /> 
-  
-## 近日開催のmetaPhorest event
-
-### 前回のmetaPhorestセミナー
 
 <Event
  header = "123rd metaPhorest Seminar by 小宮りさ麻吏奈 Marina Lisa Komiya"
