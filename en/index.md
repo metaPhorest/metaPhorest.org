@@ -32,7 +32,7 @@ Fri, Dec 11 — Marina Lisa Komiya + TBA
 Fri, Dec 18 — Shiho Fukuhara + TBA  
 Fri, Jan 8 — Maya Erin Masuda + Yuta Ikeya  
   
-## Future metaPhorest Seminar
+## Next metaPhorest Seminar
 <Event
   header = "125th metaPhorest Seminar by Tomoya Ishibashi"
   date = "Friday, October 23th, 2026, 19:00 @Waseda TWIns"
@@ -52,7 +52,6 @@ Fri, Jan 8 — Maya Erin Masuda + Yuta Ikeya
   image = "/seminars/124/124.jpg"
 />
 
-
 <Event
   header = "123rd metaPhorest Seminar by Marina Lisa Komiya"
   date = "July 24th, 2026 (Friday) 19:00 @Waseda TWIns"
@@ -67,12 +66,6 @@ Fri, Jan 8 — Maya Erin Masuda + Yuta Ikeya
   image = "/seminars/122/122.jpg"
 />
 
-  <Event
-  header = "121st metaPhorest Seminar by Maki Ueda"
-  date = "April 30, 2026 (Thu.) 19:00 @Waseda TWIns"
-  link = "/seminars/121"
-  image = "/seminars/121/121.jpg"
-/>
 
 ### Latest metaPhorest Event  
   
