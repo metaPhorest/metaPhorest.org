@@ -66,12 +66,7 @@ hero:
   link = "/seminars/122"
 />
 
-<Event
- header = "121st metaPhorest Seminar by 上田麻希 Maki Ueda"
-  date = "2026年4月30日（木）19:00 @Waseda TWIns"
-  image = "/seminars/121/121.jpg"
-  link = "/seminars/121"
-/>
+
 
 ### 過去のmetaPhorest event
 
