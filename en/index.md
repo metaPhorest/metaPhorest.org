@@ -19,7 +19,18 @@ hero:
 
 
 ---
-
+## This year’s metaPhorest Seminar schedule
+Fri, Oct 16 — Hanna Saito    
+Fri, Oct 23 — Tomoya Ishibashi  
+Fri, Oct 30 — Shiryu Kirie + TBA  
+Fri, Nov 6 — No seminar  
+Fri, Nov 13 — No seminar  
+Fri, Nov 20 — Masaya Mizuta + Akira Fujioka  
+Fri, Nov 27 — Nene Koyama + Tomoki Matsumura + Ayaka Abe + Yuga Tsukuda  
+Fri, Dec 4 — AKI INOMATA + TBA  
+Fri, Dec 11 — Marina Lisa Komiya + TBA  
+Fri, Dec 18 — Shiho Fukuhara + TBA  
+Fri, Jan 8 — Maya Erin Masuda + Yuta Ikeya  
   
 ## Future metaPhorest Seminar
 <Event
@@ -29,6 +40,11 @@ hero:
   image = "/seminars/125/125.jpg"
 />
 
+
+## Future metaPhorest event  
+  
+### Latest metaPhorest Seminar  
+
 <Event
   header = "124th metaPhorest Seminar by Hanna Saito"
   date = "Friday, October 16th, 2026, 19:00 @Waseda TWIns"
@@ -36,9 +52,6 @@ hero:
   image = "/seminars/124/124.jpg"
 />
 
-## Future metaPhorest event  
-  
-### Latest metaPhorest Seminar  
 
 <Event
   header = "123rd metaPhorest Seminar by Marina Lisa Komiya"
