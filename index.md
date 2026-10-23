@@ -40,7 +40,12 @@ hero:
   link = "/seminars/125"
 />  
 
-
+<Event
+ header = "126th metaPhorest Seminar by 切江志龍 Shiryu Kirie"
+  date = "2026年10月30日（金）19:00 @Waseda TWIns"
+  image = "/seminars/126.jpg"
+  link = "/seminars/126"
+/> 
   
 ## 近日開催のmetaPhorest event
 
