@@ -5,10 +5,10 @@ outline: deep
 
 ## Upcoming
 <Event
-  header = "123rd metaPhorest Seminar by Marina Lisa Komiya"
-  date = "Friday, October 16th, 2026, 19:00 @Waseda TWIns"
-  link = "/seminars/124"
-  image = "/seminars/124/124.jpg"
+  header = "126th metaPhorest Seminar by Shiryu Kirie"
+  date = "Friday, October 30th, 2026, 19:00 @Waseda TWIns"
+  link = "/seminars/126"
+  image = "/seminars/126.jpg"
 />
   
 ## Archive
