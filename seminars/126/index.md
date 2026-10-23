@@ -10,7 +10,7 @@ prev:
 
 2026年10月30日（金）19:00-21:00
 
-![](/public/seminars/126/126.jpg)
+![](/public/seminars/126.jpg)
 
 
   
