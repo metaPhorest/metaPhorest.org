@@ -40,6 +40,12 @@ Fri, Jan 8 — Maya Erin Masuda + Yuta Ikeya
   image = "/seminars/125/125.jpg"
 />
 
+<Event
+  header = "126th metaPhorest Seminar by Shiryu Kirie"
+  date = "Friday, October 30th, 2026, 19:00 @Waseda TWIns"
+  link = "/seminars/126"
+  image = "/seminars/126.jpg"
+/>
 
 ## Future metaPhorest event  
   
