@@ -32,7 +32,24 @@ hero:
 12/18(金) 福原志保＋TBA  
 1/8(金) 増田エリン麻耶＋池谷宥太  
   
-## 次回のmetaPhorestセミナー
+## 次回のmetaPhorestセミナー 
+<Event
+ header = "126th metaPhorest Seminar by 切江志龍 Shiryu Kirie"
+  date = "2026年10月30日（金）19:00 @Waseda TWIns"
+  image = "/seminars/126.jpg"
+  link = "/seminars/126"
+/> 
+
+<Event
+ header = "125th metaPhorest Seminar by 水田雅也 Masaya Mizuta"
+  date = "2026年11月20日（金）19:00 @Waseda TWIns"
+  image = "/seminars/127.png"
+  link = "/seminars/127"
+/> 
+  
+## 近日開催のmetaPhorest event
+
+### 前回のmetaPhorestセミナー
 <Event
  header = "125th metaPhorest Seminar by 石橋友也 Tomoya Ishibashi"
   date = "2026年10月23日（金）19:00 @Waseda TWIns"
@@ -40,16 +57,6 @@ hero:
   link = "/seminars/125"
 />  
 
-<Event
- header = "126th metaPhorest Seminar by 切江志龍 Shiryu Kirie"
-  date = "2026年10月30日（金）19:00 @Waseda TWIns"
-  image = "/seminars/126.jpg"
-  link = "/seminars/126"
-/> 
-  
-## 近日開催のmetaPhorest event
-
-### 前回のmetaPhorestセミナー
 <Event
  header = "124th metaPhorest Seminar / Workshop by 齋藤帆奈 Hanna Saito"
   date = "2026年10月16日（金）19:00 @Waseda TWIns"
