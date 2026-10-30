@@ -34,22 +34,28 @@ Fri, Jan 8 — Maya Erin Masuda + Yuta Ikeya
   
 ## Next metaPhorest Seminar
 <Event
-  header = "125th metaPhorest Seminar by Tomoya Ishibashi"
-  date = "Friday, October 23th, 2026, 19:00 @Waseda TWIns"
-  link = "/seminars/125"
-  image = "/seminars/125/125.jpg"
-/>
-
-<Event
   header = "126th metaPhorest Seminar by Shiryu Kirie"
   date = "Friday, October 30th, 2026, 19:00 @Waseda TWIns"
   link = "/seminars/126"
   image = "/seminars/126.jpg"
 />
 
+<Event
+  header = "127th metaPhorest Seminar by Masaya Mizuta + Akira Fujioka"
+  date = "Friday, Novenber 20th, 2026, 19:00 @Waseda TWIns"
+  link = "/seminars/127"
+  image = "/seminars/127.png"
+/>
+
 ## Future metaPhorest event  
   
 ### Latest metaPhorest Seminar  
+<Event
+  header = "125th metaPhorest Seminar by Tomoya Ishibashi"
+  date = "Friday, October 23th, 2026, 19:00 @Waseda TWIns"
+  link = "/seminars/125"
+  image = "/seminars/125/125.jpg"
+/>
 
 <Event
   header = "124th metaPhorest Seminar by Hanna Saito"
