@@ -7,14 +7,6 @@ prev:
 ---
 
 # 近日開催するセミナー
-
-<Event
- header = "125th metaPhorest Seminar by 石橋友也 Tomoya Ishibashi"
-  date = "2026年10月23日（金）19:00 @Waseda TWIns"
-  image = "/seminars/125/125.jpg"
-  link = "/seminars/125"
-/>  
-
 <Event
  header = "126th metaPhorest Seminar by 切江志龍 Shiryu Kirie"
   date = "2026年10月30日（金）19:00 @Waseda TWIns"
@@ -22,11 +14,25 @@ prev:
   link = "/seminars/126"
 />  
 
+<Event
+ header = "125th metaPhorest Seminar by 水田雅也 Masaya Mizuta"
+  date = "2026年11月20日（金）19:00 @Waseda TWIns"
+  image = "/seminars/127.png"
+  link = "/seminars/127"
+/> 
+
 ## アーカイブ
 
 [metaPhorest YouTube アーカイブ](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
 
 ### 2026
+<Event
+ header = "125th metaPhorest Seminar by 石橋友也 Tomoya Ishibashi"
+  date = "2026年10月23日（金）19:00 @Waseda TWIns"
+  image = "/seminars/125/125.jpg"
+  link = "/seminars/125"
+/> 
+
 <Event
  header = "124th metaPhorest Seminar by 齋藤帆奈 Hanna Saito"
   date = "2026年10月16日（金）19:00 @Waseda TWIns"
