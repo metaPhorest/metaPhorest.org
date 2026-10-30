@@ -14,7 +14,7 @@ prev:
 
 
   
-## 126th metaPhorest Seminar by 水田雅也 Masaya Mizuta + 藤岡慧 Akira Fujioka  
+## 127th metaPhorest Seminar by 水田雅也 Masaya Mizuta + 藤岡慧 Akira Fujioka  
   
 #### This event will be primarily in Japanese, but questions and comments in English are also welcome.
 11/20（金）のmetaPhorest Seminarでは、動物と人間の関係性をテーマに制作活動を行うアーティストの水田雅也さんをお招きし、metaPhorestメンバーの藤岡慧とともに、人間と非人間の関係についてお話しします。フィールドワークやインタビュー、蚕をめぐる研究など、それぞれの実践を通じて、人間と生き物の関わり方を問い直します。
