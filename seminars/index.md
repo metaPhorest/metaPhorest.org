@@ -15,7 +15,7 @@ prev:
 />  
 
 <Event
- header = "125th metaPhorest Seminar by 水田雅也 Masaya Mizuta"
+ header = "127th metaPhorest Seminar by 水田雅也 Masaya Mizuta + 藤岡慧 Akira Fujioka"
   date = "2026年11月20日（金）19:00 @Waseda TWIns"
   image = "/seminars/127.png"
   link = "/seminars/127"
