@@ -23,6 +23,20 @@ outline: deep
   
 ### 2026
 <Event
+  header = "125th metaPhorest Seminar by Tomoya Ishibashi"
+  date = "Friday, October 23th, 2026, 19:00 @Waseda TWIns"
+  link = "/seminars/125"
+  image = "/seminars/125/125.jpg"
+/>
+
+<Event
+  header = "124th metaPhorest Seminar by Hanna Saito"
+  date = "Friday, October 16th, 2026, 19:00 @Waseda TWIns"
+  link = "/seminars/124"
+  image = "/seminars/124/124.jpg"
+/>
+
+<Event
   header = "123rd metaPhorest Seminar by Marina Lisa Komiya"
   date = "July 24th, 2026 (Friday) 19:00 @Waseda TWIns"
   link = "/seminars/123"
