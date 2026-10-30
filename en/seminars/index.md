@@ -10,6 +10,13 @@ outline: deep
   link = "/seminars/126"
   image = "/seminars/126.jpg"
 />
+
+<Event
+  header = "127th metaPhorest Seminar by Masaya Mizuta + Akira Fujioka"
+  date = "Friday, Novenber 20th, 2026, 19:00 @Waseda TWIns"
+  link = "/seminars/127"
+  image = "/seminars/127.png"
+/>
   
 ## Archive
 [metaPhorest YouTube Archive](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
