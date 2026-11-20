@@ -17,7 +17,7 @@ prev:
 <Event
  header = "128th metaPhorest Seminar by 古山寧々 Nene Koyama + 松村寛季 Tomoki Matsumura + 阿部文香 Ayaka Abe + 佃優河 Yuga Tsukuda"
   date = "2026年11月27日（金）19:00 @Waseda TWIns"
-  image = "/seminars/128.jpg"
+  image = "/seminars/128.png"
   link = "/seminars/128"
 /> 
 
