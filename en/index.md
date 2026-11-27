@@ -22,7 +22,7 @@ hero:
 ## This year’s metaPhorest Seminar schedule
 Fri, Oct 16 — Hanna Saito    
 Fri, Oct 23 — Tomoya Ishibashi  
-Fri, Oct 30 — Shiryu Kirie + TBA  
+Fri, Oct 30 — Shiryu Kirie  
 Fri, Nov 6 — No seminar  
 Fri, Nov 13 — No seminar  
 Fri, Nov 20 — Masaya Mizuta + Akira Fujioka  
