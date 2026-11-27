@@ -15,7 +15,7 @@ prev:
 /> 
 
 <Event
- header = "127th metaPhorest Seminar by 伊藤睦実 Mutsumi Ito + AKI INOMATA"
+ header = "129th metaPhorest Seminar by 伊藤睦実 Mutsumi Ito + AKI INOMATA"
   date = "2026年12月04日（金）19:00 @Waseda TWIns"
   image = "/seminars/129.png"
   link = "/seminars/129"
