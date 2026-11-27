@@ -4,6 +4,32 @@ outline: deep
 ---
 
 ## Upcoming
+
+<Event
+ header = "128th metaPhorest Seminar by Nene Koyama + Tomoki Matsumura + Ayaka Abe + Yuga Tsukuda"
+  date = "Friday, Novenber 27th, 2026, 19:00 @Waseda TWIns"
+  image = "/seminars/128.png"
+  link = "/seminars/128"
+/>
+
+<Event
+ header = "129th metaPhorest Seminar by Mutsumi Ito + AKI INOMATA"
+  date = "Friday, December 4th, 2026, 19:00 @Waseda TWIns"
+  image = "/seminars/129.png"
+  link = "/seminars/129"
+/> 
+  
+## Archive
+[metaPhorest YouTube Archive](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
+  
+### 2026
+<Event
+  header = "127th metaPhorest Seminar by Masaya Mizuta + Akira Fujioka"
+  date = "Friday, Novenber 20th, 2026, 19:00 @Waseda TWIns"
+  link = "/seminars/127"
+  image = "/seminars/127.png"
+/>
+
 <Event
   header = "126th metaPhorest Seminar by Shiryu Kirie"
   date = "Friday, October 30th, 2026, 19:00 @Waseda TWIns"
@@ -11,17 +37,6 @@ outline: deep
   image = "/seminars/126.jpg"
 />
 
-<Event
-  header = "127th metaPhorest Seminar by Masaya Mizuta + Akira Fujioka"
-  date = "Friday, Novenber 20th, 2026, 19:00 @Waseda TWIns"
-  link = "/seminars/127"
-  image = "/seminars/127.png"
-/>
-  
-## Archive
-[metaPhorest YouTube Archive](https://www.youtube.com/channel/UCQJQ3ni1ug5oWOnTqxEujzw)
-  
-### 2026
 <Event
   header = "125th metaPhorest Seminar by Tomoya Ishibashi"
   date = "Friday, October 23th, 2026, 19:00 @Waseda TWIns"
