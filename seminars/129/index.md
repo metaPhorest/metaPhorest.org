@@ -14,7 +14,7 @@ prev:
 ![](/public/seminars/129.png)
 
 
-## 129th metaPhorest Seminar by AKI INOMATA + 伊藤睦実 Mutsumi Ito
+## 129th metaPhorest Seminar by 伊藤睦実 Mutsumi Ito + AKI INOMATA  
 
 #### This event will be primarily in Japanese, but questions and comments in English are also welcome.
 12/4（金）のmetaPhorestセミナーでは、アーティストのAKI INOMATAさんと、生態学を専門とする伊藤睦実さんをお招きします。ムササビのユニークな葉食行動に着目し、その食痕から広がる動物生態学研究の世界についてお話しいただきます。  
