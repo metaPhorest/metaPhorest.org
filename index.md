@@ -27,12 +27,30 @@ hero:
 11/13(金) なし  
 11/20(金) 水田雅也＋藤岡慧  
 11/27(金) 古山寧々＋松村寛季＋阿部文香＋佃優河  
-12/4(金) AKI INOMATA＋TBA  
-12/11(金) 小宮りさ麻吏奈＋TBA  
+12/4(金) AKI INOMATA＋伊藤睦実  
+12/11(金) 小宮りさ麻吏奈＋渡辺志桜里  
 12/18(金) 福原志保＋TBA  
 1/8(金) 増田エリン麻耶＋池谷宥太  
   
 ## 次回のmetaPhorestセミナー 
+
+<Event
+ header = "128th metaPhorest Seminar by 古山寧々 Nene Koyama + 松村寛季 Tomoki Matsumura + 阿部文香 Ayaka Abe + 佃優河 Yuga Tsukuda"
+  date = "2026年11月27日（金）19:00 @Waseda TWIns"
+  image = "/seminars/128.png"
+  link = "/seminars/128"
+/>
+
+<Event
+ header = "127th metaPhorest Seminar by AKI INOMATA + 伊藤睦実 Mutsumi Ito"
+  date = "2026年12月04日（金）19:00 @Waseda TWIns"
+  image = "/seminars/129.png"
+  link = "/seminars/129"
+/> 
+
+## 近日開催のmetaPhorest event
+
+### 前回のmetaPhorestセミナー
 <Event
  header = "127th metaPhorest Seminar by 水田雅也 Masaya Mizuta"
   date = "2026年11月20日（金）19:00 @Waseda TWIns"
@@ -40,16 +58,6 @@ hero:
   link = "/seminars/127"
 /> 
 
-<Event
- header = "128th metaPhorest Seminar by 古山寧々 Nene Koyama + 松村寛季 Tomoki Matsumura + 阿部文香 Ayaka Abe + 佃優河 Yuga Tsukuda"
-  date = "2026年11月27日（金）19:00 @Waseda TWIns"
-  image = "/seminars/128.png"
-  link = "/seminars/128"
-/> 
-
-## 近日開催のmetaPhorest event
-
-### 前回のmetaPhorestセミナー
 <Event
  header = "126th metaPhorest Seminar by 切江志龍 Shiryu Kirie"
   date = "2026年10月30日（金）19:00 @Waseda TWIns"
