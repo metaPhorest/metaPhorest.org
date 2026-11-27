@@ -35,14 +35,14 @@ Fri, Jan 8 — Maya Erin Masuda + Yuta Ikeya
 ## Next metaPhorest Seminar
 <Event
  header = "128th metaPhorest Seminar by Nene Koyama + Tomoki Matsumura + Ayaka Abe + Yuga Tsukuda"
-  date = "2026年11月27日（金）19:00 @Waseda TWIns"
+  date = "Friday, Novenber 27th, 2026, 19:00 @Waseda TWIns"
   image = "/seminars/128.png"
   link = "/seminars/128"
 />
 
 <Event
  header = "129th metaPhorest Seminar by Mutsumi Ito + AKI INOMATA"
-  date = "2026年12月04日（金）19:00 @Waseda TWIns"
+  date = "Friday, December 4th, 2026, 19:00 @Waseda TWIns"
   image = "/seminars/129.png"
   link = "/seminars/129"
 /> 
