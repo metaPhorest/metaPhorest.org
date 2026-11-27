@@ -27,19 +27,30 @@ Fri, Nov 6 — No seminar
 Fri, Nov 13 — No seminar  
 Fri, Nov 20 — Masaya Mizuta + Akira Fujioka  
 Fri, Nov 27 — Nene Koyama + Tomoki Matsumura + Ayaka Abe + Yuga Tsukuda  
-Fri, Dec 4 — AKI INOMATA + TBA  
-Fri, Dec 11 — Marina Lisa Komiya + TBA  
+Fri, Dec 4 — Mutsumi Ito + AKI INOMATA  
+Fri, Dec 11 — Shiori Watanabe + Marina Lisa Komiya  
 Fri, Dec 18 — Shiho Fukuhara + TBA  
 Fri, Jan 8 — Maya Erin Masuda + Yuta Ikeya  
   
 ## Next metaPhorest Seminar
 <Event
-  header = "126th metaPhorest Seminar by Shiryu Kirie"
-  date = "Friday, October 30th, 2026, 19:00 @Waseda TWIns"
-  link = "/seminars/126"
-  image = "/seminars/126.jpg"
+ header = "128th metaPhorest Seminar by Nene Koyama + Tomoki Matsumura + Ayaka Abe + Yuga Tsukuda"
+  date = "2026年11月27日（金）19:00 @Waseda TWIns"
+  image = "/seminars/128.png"
+  link = "/seminars/128"
 />
 
+<Event
+ header = "129th metaPhorest Seminar by Mutsumi Ito + AKI INOMATA"
+  date = "2026年12月04日（金）19:00 @Waseda TWIns"
+  image = "/seminars/129.png"
+  link = "/seminars/129"
+/> 
+
+
+## Future metaPhorest event  
+  
+### Latest metaPhorest Seminar 
 <Event
   header = "127th metaPhorest Seminar by Masaya Mizuta + Akira Fujioka"
   date = "Friday, Novenber 20th, 2026, 19:00 @Waseda TWIns"
@@ -47,9 +58,13 @@ Fri, Jan 8 — Maya Erin Masuda + Yuta Ikeya
   image = "/seminars/127.png"
 />
 
-## Future metaPhorest event  
-  
-### Latest metaPhorest Seminar  
+<Event
+  header = "126th metaPhorest Seminar by Shiryu Kirie"
+  date = "Friday, October 30th, 2026, 19:00 @Waseda TWIns"
+  link = "/seminars/126"
+  image = "/seminars/126.jpg"
+/>
+
 <Event
   header = "125th metaPhorest Seminar by Tomoya Ishibashi"
   date = "Friday, October 23th, 2026, 19:00 @Waseda TWIns"
